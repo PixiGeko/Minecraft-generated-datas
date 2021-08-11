@@ -1,0 +1,9 @@
+{
+  "pools": [
+    [
+      "minecraft:gameplay/fishing/junk",
+      "minecraft:gameplay/fishing/treasure",
+      "minecraft:gameplay/fishing/fish"
+    ]
+  ]
+}

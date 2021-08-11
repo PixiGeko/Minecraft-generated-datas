@@ -1,0 +1,216 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "lit": [
+      true,
+      false
+    ],
+    "signal_fire": [
+      true,
+      false
+    ],
+    "waterlogged": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "15144": {
+      "facing": "north",
+      "lit": true,
+      "signal_fire": true,
+      "waterlogged": true
+    },
+    "15145": {
+      "facing": "north",
+      "lit": true,
+      "signal_fire": true,
+      "waterlogged": false
+    },
+    "15146": {
+      "facing": "north",
+      "lit": true,
+      "signal_fire": false,
+      "waterlogged": true
+    },
+    "15147": {
+      "facing": "north",
+      "lit": true,
+      "signal_fire": false,
+      "waterlogged": false
+    },
+    "15148": {
+      "facing": "north",
+      "lit": false,
+      "signal_fire": true,
+      "waterlogged": true
+    },
+    "15149": {
+      "facing": "north",
+      "lit": false,
+      "signal_fire": true,
+      "waterlogged": false
+    },
+    "15150": {
+      "facing": "north",
+      "lit": false,
+      "signal_fire": false,
+      "waterlogged": true
+    },
+    "15151": {
+      "facing": "north",
+      "lit": false,
+      "signal_fire": false,
+      "waterlogged": false
+    },
+    "15152": {
+      "facing": "south",
+      "lit": true,
+      "signal_fire": true,
+      "waterlogged": true
+    },
+    "15153": {
+      "facing": "south",
+      "lit": true,
+      "signal_fire": true,
+      "waterlogged": false
+    },
+    "15154": {
+      "facing": "south",
+      "lit": true,
+      "signal_fire": false,
+      "waterlogged": true
+    },
+    "15155": {
+      "facing": "south",
+      "lit": true,
+      "signal_fire": false,
+      "waterlogged": false
+    },
+    "15156": {
+      "facing": "south",
+      "lit": false,
+      "signal_fire": true,
+      "waterlogged": true
+    },
+    "15157": {
+      "facing": "south",
+      "lit": false,
+      "signal_fire": true,
+      "waterlogged": false
+    },
+    "15158": {
+      "facing": "south",
+      "lit": false,
+      "signal_fire": false,
+      "waterlogged": true
+    },
+    "15159": {
+      "facing": "south",
+      "lit": false,
+      "signal_fire": false,
+      "waterlogged": false
+    },
+    "15160": {
+      "facing": "west",
+      "lit": true,
+      "signal_fire": true,
+      "waterlogged": true
+    },
+    "15161": {
+      "facing": "west",
+      "lit": true,
+      "signal_fire": true,
+      "waterlogged": false
+    },
+    "15162": {
+      "facing": "west",
+      "lit": true,
+      "signal_fire": false,
+      "waterlogged": true
+    },
+    "15163": {
+      "facing": "west",
+      "lit": true,
+      "signal_fire": false,
+      "waterlogged": false
+    },
+    "15164": {
+      "facing": "west",
+      "lit": false,
+      "signal_fire": true,
+      "waterlogged": true
+    },
+    "15165": {
+      "facing": "west",
+      "lit": false,
+      "signal_fire": true,
+      "waterlogged": false
+    },
+    "15166": {
+      "facing": "west",
+      "lit": false,
+      "signal_fire": false,
+      "waterlogged": true
+    },
+    "15167": {
+      "facing": "west",
+      "lit": false,
+      "signal_fire": false,
+      "waterlogged": false
+    },
+    "15168": {
+      "facing": "east",
+      "lit": true,
+      "signal_fire": true,
+      "waterlogged": true
+    },
+    "15169": {
+      "facing": "east",
+      "lit": true,
+      "signal_fire": true,
+      "waterlogged": false
+    },
+    "15170": {
+      "facing": "east",
+      "lit": true,
+      "signal_fire": false,
+      "waterlogged": true
+    },
+    "15171": {
+      "facing": "east",
+      "lit": true,
+      "signal_fire": false,
+      "waterlogged": false
+    },
+    "15172": {
+      "facing": "east",
+      "lit": false,
+      "signal_fire": true,
+      "waterlogged": true
+    },
+    "15173": {
+      "facing": "east",
+      "lit": false,
+      "signal_fire": true,
+      "waterlogged": false
+    },
+    "15174": {
+      "facing": "east",
+      "lit": false,
+      "signal_fire": false,
+      "waterlogged": true
+    },
+    "15175": {
+      "facing": "east",
+      "lit": false,
+      "signal_fire": false,
+      "waterlogged": false
+    }
+  }
+}

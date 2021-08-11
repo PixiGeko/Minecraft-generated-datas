@@ -1,0 +1,14 @@
+{
+  "pools": [
+    [
+      "minecraft:white_wool",
+      "minecraft:black_wool",
+      "minecraft:gray_wool",
+      "minecraft:brown_wool",
+      "minecraft:light_gray_wool",
+      "minecraft:emerald",
+      "minecraft:shears",
+      "minecraft:wheat"
+    ]
+  ]
+}

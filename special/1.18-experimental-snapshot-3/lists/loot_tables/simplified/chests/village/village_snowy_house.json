@@ -1,0 +1,16 @@
+{
+  "pools": [
+    [
+      "minecraft:blue_ice",
+      "minecraft:snow_block",
+      "minecraft:potato",
+      "minecraft:bread",
+      "minecraft:beetroot_seeds",
+      "minecraft:beetroot_soup",
+      "minecraft:furnace",
+      "minecraft:emerald",
+      "minecraft:snowball",
+      "minecraft:coal"
+    ]
+  ]
+}

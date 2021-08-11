@@ -1,0 +1,28 @@
+{
+  "pools": [
+    [
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:emerald",
+      "minecraft:bone",
+      "minecraft:spider_eye",
+      "minecraft:rotten_flesh",
+      "minecraft:saddle",
+      "minecraft:iron_horse_armor",
+      "minecraft:golden_horse_armor",
+      "minecraft:diamond_horse_armor",
+      "minecraft:book",
+      "minecraft:golden_apple",
+      "minecraft:enchanted_golden_apple",
+      "empty"
+    ],
+    [
+      "minecraft:bone",
+      "minecraft:gunpowder",
+      "minecraft:rotten_flesh",
+      "minecraft:string",
+      "minecraft:sand"
+    ]
+  ]
+}

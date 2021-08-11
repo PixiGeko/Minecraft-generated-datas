@@ -1,0 +1,476 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "half": [
+      "upper",
+      "lower"
+    ],
+    "hinge": [
+      "left",
+      "right"
+    ],
+    "open": [
+      true,
+      false
+    ],
+    "powered": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "15781": {
+      "facing": "north",
+      "half": "upper",
+      "hinge": "left",
+      "open": true,
+      "powered": true
+    },
+    "15782": {
+      "facing": "north",
+      "half": "upper",
+      "hinge": "left",
+      "open": true,
+      "powered": false
+    },
+    "15783": {
+      "facing": "north",
+      "half": "upper",
+      "hinge": "left",
+      "open": false,
+      "powered": true
+    },
+    "15784": {
+      "facing": "north",
+      "half": "upper",
+      "hinge": "left",
+      "open": false,
+      "powered": false
+    },
+    "15785": {
+      "facing": "north",
+      "half": "upper",
+      "hinge": "right",
+      "open": true,
+      "powered": true
+    },
+    "15786": {
+      "facing": "north",
+      "half": "upper",
+      "hinge": "right",
+      "open": true,
+      "powered": false
+    },
+    "15787": {
+      "facing": "north",
+      "half": "upper",
+      "hinge": "right",
+      "open": false,
+      "powered": true
+    },
+    "15788": {
+      "facing": "north",
+      "half": "upper",
+      "hinge": "right",
+      "open": false,
+      "powered": false
+    },
+    "15789": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "left",
+      "open": true,
+      "powered": true
+    },
+    "15790": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "left",
+      "open": true,
+      "powered": false
+    },
+    "15791": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "left",
+      "open": false,
+      "powered": true
+    },
+    "15792": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "left",
+      "open": false,
+      "powered": false
+    },
+    "15793": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "right",
+      "open": true,
+      "powered": true
+    },
+    "15794": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "right",
+      "open": true,
+      "powered": false
+    },
+    "15795": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "right",
+      "open": false,
+      "powered": true
+    },
+    "15796": {
+      "facing": "north",
+      "half": "lower",
+      "hinge": "right",
+      "open": false,
+      "powered": false
+    },
+    "15797": {
+      "facing": "south",
+      "half": "upper",
+      "hinge": "left",
+      "open": true,
+      "powered": true
+    },
+    "15798": {
+      "facing": "south",
+      "half": "upper",
+      "hinge": "left",
+      "open": true,
+      "powered": false
+    },
+    "15799": {
+      "facing": "south",
+      "half": "upper",
+      "hinge": "left",
+      "open": false,
+      "powered": true
+    },
+    "15800": {
+      "facing": "south",
+      "half": "upper",
+      "hinge": "left",
+      "open": false,
+      "powered": false
+    },
+    "15801": {
+      "facing": "south",
+      "half": "upper",
+      "hinge": "right",
+      "open": true,
+      "powered": true
+    },
+    "15802": {
+      "facing": "south",
+      "half": "upper",
+      "hinge": "right",
+      "open": true,
+      "powered": false
+    },
+    "15803": {
+      "facing": "south",
+      "half": "upper",
+      "hinge": "right",
+      "open": false,
+      "powered": true
+    },
+    "15804": {
+      "facing": "south",
+      "half": "upper",
+      "hinge": "right",
+      "open": false,
+      "powered": false
+    },
+    "15805": {
+      "facing": "south",
+      "half": "lower",
+      "hinge": "left",
+      "open": true,
+      "powered": true
+    },
+    "15806": {
+      "facing": "south",
+      "half": "lower",
+      "hinge": "left",
+      "open": true,
+      "powered": false
+    },
+    "15807": {
+      "facing": "south",
+      "half": "lower",
+      "hinge": "left",
+      "open": false,
+      "powered": true
+    },
+    "15808": {
+      "facing": "south",
+      "half": "lower",
+      "hinge": "left",
+      "open": false,
+      "powered": false
+    },
+    "15809": {
+      "facing": "south",
+      "half": "lower",
+      "hinge": "right",
+      "open": true,
+      "powered": true
+    },
+    "15810": {
+      "facing": "south",
+      "half": "lower",
+      "hinge": "right",
+      "open": true,
+      "powered": false
+    },
+    "15811": {
+      "facing": "south",
+      "half": "lower",
+      "hinge": "right",
+      "open": false,
+      "powered": true
+    },
+    "15812": {
+      "facing": "south",
+      "half": "lower",
+      "hinge": "right",
+      "open": false,
+      "powered": false
+    },
+    "15813": {
+      "facing": "west",
+      "half": "upper",
+      "hinge": "left",
+      "open": true,
+      "powered": true
+    },
+    "15814": {
+      "facing": "west",
+      "half": "upper",
+      "hinge": "left",
+      "open": true,
+      "powered": false
+    },
+    "15815": {
+      "facing": "west",
+      "half": "upper",
+      "hinge": "left",
+      "open": false,
+      "powered": true
+    },
+    "15816": {
+      "facing": "west",
+      "half": "upper",
+      "hinge": "left",
+      "open": false,
+      "powered": false
+    },
+    "15817": {
+      "facing": "west",
+      "half": "upper",
+      "hinge": "right",
+      "open": true,
+      "powered": true
+    },
+    "15818": {
+      "facing": "west",
+      "half": "upper",
+      "hinge": "right",
+      "open": true,
+      "powered": false
+    },
+    "15819": {
+      "facing": "west",
+      "half": "upper",
+      "hinge": "right",
+      "open": false,
+      "powered": true
+    },
+    "15820": {
+      "facing": "west",
+      "half": "upper",
+      "hinge": "right",
+      "open": false,
+      "powered": false
+    },
+    "15821": {
+      "facing": "west",
+      "half": "lower",
+      "hinge": "left",
+      "open": true,
+      "powered": true
+    },
+    "15822": {
+      "facing": "west",
+      "half": "lower",
+      "hinge": "left",
+      "open": true,
+      "powered": false
+    },
+    "15823": {
+      "facing": "west",
+      "half": "lower",
+      "hinge": "left",
+      "open": false,
+      "powered": true
+    },
+    "15824": {
+      "facing": "west",
+      "half": "lower",
+      "hinge": "left",
+      "open": false,
+      "powered": false
+    },
+    "15825": {
+      "facing": "west",
+      "half": "lower",
+      "hinge": "right",
+      "open": true,
+      "powered": true
+    },
+    "15826": {
+      "facing": "west",
+      "half": "lower",
+      "hinge": "right",
+      "open": true,
+      "powered": false
+    },
+    "15827": {
+      "facing": "west",
+      "half": "lower",
+      "hinge": "right",
+      "open": false,
+      "powered": true
+    },
+    "15828": {
+      "facing": "west",
+      "half": "lower",
+      "hinge": "right",
+      "open": false,
+      "powered": false
+    },
+    "15829": {
+      "facing": "east",
+      "half": "upper",
+      "hinge": "left",
+      "open": true,
+      "powered": true
+    },
+    "15830": {
+      "facing": "east",
+      "half": "upper",
+      "hinge": "left",
+      "open": true,
+      "powered": false
+    },
+    "15831": {
+      "facing": "east",
+      "half": "upper",
+      "hinge": "left",
+      "open": false,
+      "powered": true
+    },
+    "15832": {
+      "facing": "east",
+      "half": "upper",
+      "hinge": "left",
+      "open": false,
+      "powered": false
+    },
+    "15833": {
+      "facing": "east",
+      "half": "upper",
+      "hinge": "right",
+      "open": true,
+      "powered": true
+    },
+    "15834": {
+      "facing": "east",
+      "half": "upper",
+      "hinge": "right",
+      "open": true,
+      "powered": false
+    },
+    "15835": {
+      "facing": "east",
+      "half": "upper",
+      "hinge": "right",
+      "open": false,
+      "powered": true
+    },
+    "15836": {
+      "facing": "east",
+      "half": "upper",
+      "hinge": "right",
+      "open": false,
+      "powered": false
+    },
+    "15837": {
+      "facing": "east",
+      "half": "lower",
+      "hinge": "left",
+      "open": true,
+      "powered": true
+    },
+    "15838": {
+      "facing": "east",
+      "half": "lower",
+      "hinge": "left",
+      "open": true,
+      "powered": false
+    },
+    "15839": {
+      "facing": "east",
+      "half": "lower",
+      "hinge": "left",
+      "open": false,
+      "powered": true
+    },
+    "15840": {
+      "facing": "east",
+      "half": "lower",
+      "hinge": "left",
+      "open": false,
+      "powered": false
+    },
+    "15841": {
+      "facing": "east",
+      "half": "lower",
+      "hinge": "right",
+      "open": true,
+      "powered": true
+    },
+    "15842": {
+      "facing": "east",
+      "half": "lower",
+      "hinge": "right",
+      "open": true,
+      "powered": false
+    },
+    "15843": {
+      "facing": "east",
+      "half": "lower",
+      "hinge": "right",
+      "open": false,
+      "powered": true
+    },
+    "15844": {
+      "facing": "east",
+      "half": "lower",
+      "hinge": "right",
+      "open": false,
+      "powered": false
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pools": [
+    [
+      "minecraft:redstone",
+      "minecraft:bread",
+      "minecraft:rotten_flesh",
+      "minecraft:lapis_lazuli",
+      "minecraft:gold_ingot",
+      "minecraft:emerald"
+    ]
+  ]
+}

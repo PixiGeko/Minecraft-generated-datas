@@ -1,0 +1,51 @@
+{
+  "category": "swamp",
+  "downfall": 0.9,
+  "fog_color": 12638463,
+  "foliage_color": 6975545,
+  "grass_color_modifier": "swamp",
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "sky_color": 7907327,
+  "temperature": 0.8,
+  "water_color": 6388580,
+  "water_fog_color": 2302743,
+  "carvers": [
+    "minecraft:canyon",
+    "minecraft:cave"
+  ],
+  "entities": {
+    "monster": [
+      "minecraft:creeper",
+      "minecraft:enderman",
+      "minecraft:skeleton",
+      "minecraft:slime",
+      "minecraft:spider",
+      "minecraft:witch",
+      "minecraft:zombie",
+      "minecraft:zombie_villager"
+    ],
+    "creature": [
+      "minecraft:chicken",
+      "minecraft:cow",
+      "minecraft:pig",
+      "minecraft:sheep"
+    ],
+    "ambient": [
+      "minecraft:bat"
+    ],
+    "underground_water_creature": [
+      "minecraft:glow_squid"
+    ]
+  },
+  "structures": [
+    "minecraft:mineshaft",
+    "minecraft:ruined_portal",
+    "minecraft:swamp_hut"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:grass_block",
+    "under_material": "minecraft:dirt",
+    "underwater_material": "minecraft:gravel"
+  }
+}
