@@ -1,11 +1,11 @@
 {
   "category": "mountain",
-  "downfall": 0.9,
+  "downfall": 0.3,
   "fog_color": 12638463,
   "player_spawn_friendly": false,
-  "precipitation": "snow",
-  "sky_color": 7972607,
-  "temperature": -0.3,
+  "precipitation": "rain",
+  "sky_color": 8233727,
+  "temperature": 1.0,
   "water_color": 4159204,
   "water_fog_color": 329011,
   "carvers": [
@@ -24,8 +24,7 @@
       "minecraft:zombie_villager"
     ],
     "creature": [
-      "minecraft:goat",
-      "minecraft:rabbit"
+      "minecraft:goat"
     ],
     "ambient": [
       "minecraft:bat"
@@ -35,15 +34,14 @@
     ]
   },
   "structures": [
-    "minecraft:igloo",
     "minecraft:mineshaft",
     "minecraft:pillager_outpost",
     "minecraft:ruined_portal",
     "minecraft:stronghold"
   ],
   "surface_builder": {
-    "top_material": "minecraft:snow_block",
-    "under_material": "minecraft:snow_block",
+    "top_material": "minecraft:stone",
+    "under_material": "minecraft:stone",
     "underwater_material": "minecraft:gravel"
   }
 }

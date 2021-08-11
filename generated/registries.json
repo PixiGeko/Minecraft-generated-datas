@@ -12285,6 +12285,9 @@
       },
       "minecraft:lofty_peaks": {
         "protocol_id": 18
+      },
+      "minecraft:stony_peaks": {
+        "protocol_id": 19
       }
     }
   },

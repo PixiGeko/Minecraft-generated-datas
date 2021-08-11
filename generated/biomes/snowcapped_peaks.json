@@ -17,10 +17,10 @@
         "Name": "minecraft:snow_block"
       },
       "under_material": {
-        "Name": "minecraft:dirt"
+        "Name": "minecraft:snow_block"
       },
       "underwater_material": {
-        "Name": "minecraft:gravel"
+        "Name": "minecraft:stone"
       }
     },
     "type": "minecraft:snowcapped_peaks"
@@ -2349,6 +2349,29 @@
         "portal_type": "mountain"
       },
       "type": "minecraft:ruined_portal"
+    },
+    {
+      "config": {
+        "start_pool": {
+          "name": "minecraft:pillager_outpost/base_plates",
+          "fallback": "minecraft:empty",
+          "elements": [
+            {
+              "weight": 1,
+              "element": {
+                "location": "minecraft:pillager_outpost/base_plate",
+                "processors": {
+                  "processors": []
+                },
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+              }
+            }
+          ]
+        },
+        "size": 7
+      },
+      "type": "minecraft:pillager_outpost"
     }
   ],
   "spawners": {
@@ -2406,8 +2429,8 @@
       {
         "type": "minecraft:goat",
         "weight": 5,
-        "minCount": 4,
-        "maxCount": 6
+        "minCount": 1,
+        "maxCount": 3
       }
     ],
     "ambient": [
@@ -2435,5 +2458,5 @@
   "precipitation": "snow",
   "temperature": -0.7,
   "downfall": 0.9,
-  "category": "plains"
+  "category": "mountain"
 }

@@ -2672,6 +2672,29 @@
         "portal_type": "standard"
       },
       "type": "minecraft:ruined_portal"
+    },
+    {
+      "config": {
+        "start_pool": {
+          "name": "minecraft:pillager_outpost/base_plates",
+          "fallback": "minecraft:empty",
+          "elements": [
+            {
+              "weight": 1,
+              "element": {
+                "location": "minecraft:pillager_outpost/base_plate",
+                "processors": {
+                  "processors": []
+                },
+                "projection": "rigid",
+                "element_type": "minecraft:legacy_single_pool_element"
+              }
+            }
+          ]
+        },
+        "size": 7
+      },
+      "type": "minecraft:pillager_outpost"
     }
   ],
   "spawners": {

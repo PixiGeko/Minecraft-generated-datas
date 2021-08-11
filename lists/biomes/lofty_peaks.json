@@ -1,5 +1,5 @@
 {
-  "category": "plains",
+  "category": "mountain",
   "downfall": 0.9,
   "fog_color": 12638463,
   "player_spawn_friendly": false,
@@ -35,6 +35,7 @@
   },
   "structures": [
     "minecraft:mineshaft",
+    "minecraft:pillager_outpost",
     "minecraft:ruined_portal",
     "minecraft:stronghold"
   ],

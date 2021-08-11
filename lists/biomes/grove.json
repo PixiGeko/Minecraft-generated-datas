@@ -41,6 +41,7 @@
   },
   "structures": [
     "minecraft:mineshaft",
+    "minecraft:pillager_outpost",
     "minecraft:ruined_portal",
     "minecraft:stronghold"
   ],
