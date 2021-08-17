@@ -15,6 +15,7 @@ minecraft:shattered_savanna
 minecraft:snowcapped_peaks
 minecraft:snowy_slopes
 minecraft:soul_sand_valley
+minecraft:stone_shore
 minecraft:stony_peaks
 minecraft:swamp
 minecraft:wooded_badlands

@@ -690,10 +690,67 @@
                     "config": {
                       "height": {
                         "min_inclusive": {
+                          "absolute": 64
+                        },
+                        "max_inclusive": {
+                          "absolute": 128
+                        },
+                        "type": "minecraft:uniform"
+                      }
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "chance": 6
+            },
+            "type": "minecraft:chance"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "targets": [
+                        {
+                          "target": {
+                            "tag": "minecraft:base_stone_overworld",
+                            "predicate_type": "minecraft:tag_match"
+                          },
+                          "state": {
+                            "Name": "minecraft:granite"
+                          }
+                        }
+                      ],
+                      "size": 64,
+                      "discard_chance_on_air_exposure": 0.0
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "height": {
+                        "min_inclusive": {
                           "absolute": 0
                         },
                         "max_inclusive": {
-                          "absolute": 79
+                          "absolute": 60
                         },
                         "type": "minecraft:uniform"
                       }
@@ -747,10 +804,67 @@
                     "config": {
                       "height": {
                         "min_inclusive": {
+                          "absolute": 64
+                        },
+                        "max_inclusive": {
+                          "absolute": 128
+                        },
+                        "type": "minecraft:uniform"
+                      }
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "chance": 6
+            },
+            "type": "minecraft:chance"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "targets": [
+                        {
+                          "target": {
+                            "tag": "minecraft:base_stone_overworld",
+                            "predicate_type": "minecraft:tag_match"
+                          },
+                          "state": {
+                            "Name": "minecraft:diorite"
+                          }
+                        }
+                      ],
+                      "size": 64,
+                      "discard_chance_on_air_exposure": 0.0
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "height": {
+                        "min_inclusive": {
                           "absolute": 0
                         },
                         "max_inclusive": {
-                          "absolute": 79
+                          "absolute": 60
                         },
                         "type": "minecraft:uniform"
                       }
@@ -804,10 +918,67 @@
                     "config": {
                       "height": {
                         "min_inclusive": {
+                          "absolute": 64
+                        },
+                        "max_inclusive": {
+                          "absolute": 128
+                        },
+                        "type": "minecraft:uniform"
+                      }
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "chance": 6
+            },
+            "type": "minecraft:chance"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "targets": [
+                        {
+                          "target": {
+                            "tag": "minecraft:base_stone_overworld",
+                            "predicate_type": "minecraft:tag_match"
+                          },
+                          "state": {
+                            "Name": "minecraft:andesite"
+                          }
+                        }
+                      ],
+                      "size": 64,
+                      "discard_chance_on_air_exposure": 0.0
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "height": {
+                        "min_inclusive": {
                           "absolute": 0
                         },
                         "max_inclusive": {
-                          "absolute": 79
+                          "absolute": 60
                         },
                         "type": "minecraft:uniform"
                       }
@@ -1081,7 +1252,7 @@
           },
           "decorator": {
             "config": {
-              "count": 40
+              "count": 80
             },
             "type": "minecraft:count"
           }
@@ -1147,7 +1318,7 @@
           },
           "decorator": {
             "config": {
-              "count": 5
+              "count": 10
             },
             "type": "minecraft:count"
           }
