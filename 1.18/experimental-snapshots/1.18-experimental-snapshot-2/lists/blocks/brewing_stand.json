@@ -1,0 +1,58 @@
+{
+  "properties": {
+    "has_bottle_0": [
+      true,
+      false
+    ],
+    "has_bottle_1": [
+      true,
+      false
+    ],
+    "has_bottle_2": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "5334": {
+      "has_bottle_0": true,
+      "has_bottle_1": true,
+      "has_bottle_2": true
+    },
+    "5335": {
+      "has_bottle_0": true,
+      "has_bottle_1": true,
+      "has_bottle_2": false
+    },
+    "5336": {
+      "has_bottle_0": true,
+      "has_bottle_1": false,
+      "has_bottle_2": true
+    },
+    "5337": {
+      "has_bottle_0": true,
+      "has_bottle_1": false,
+      "has_bottle_2": false
+    },
+    "5338": {
+      "has_bottle_0": false,
+      "has_bottle_1": true,
+      "has_bottle_2": true
+    },
+    "5339": {
+      "has_bottle_0": false,
+      "has_bottle_1": true,
+      "has_bottle_2": false
+    },
+    "5340": {
+      "has_bottle_0": false,
+      "has_bottle_1": false,
+      "has_bottle_2": true
+    },
+    "5341": {
+      "has_bottle_0": false,
+      "has_bottle_1": false,
+      "has_bottle_2": false
+    }
+  }
+}

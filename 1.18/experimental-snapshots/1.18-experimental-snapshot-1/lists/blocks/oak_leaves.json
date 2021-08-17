@@ -1,0 +1,75 @@
+{
+  "properties": {
+    "distance": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "persistent": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "148": {
+      "distance": 1,
+      "persistent": true
+    },
+    "149": {
+      "distance": 1,
+      "persistent": false
+    },
+    "150": {
+      "distance": 2,
+      "persistent": true
+    },
+    "151": {
+      "distance": 2,
+      "persistent": false
+    },
+    "152": {
+      "distance": 3,
+      "persistent": true
+    },
+    "153": {
+      "distance": 3,
+      "persistent": false
+    },
+    "154": {
+      "distance": 4,
+      "persistent": true
+    },
+    "155": {
+      "distance": 4,
+      "persistent": false
+    },
+    "156": {
+      "distance": 5,
+      "persistent": true
+    },
+    "157": {
+      "distance": 5,
+      "persistent": false
+    },
+    "158": {
+      "distance": 6,
+      "persistent": true
+    },
+    "159": {
+      "distance": 6,
+      "persistent": false
+    },
+    "160": {
+      "distance": 7,
+      "persistent": true
+    },
+    "161": {
+      "distance": 7,
+      "persistent": false
+    }
+  }
+}

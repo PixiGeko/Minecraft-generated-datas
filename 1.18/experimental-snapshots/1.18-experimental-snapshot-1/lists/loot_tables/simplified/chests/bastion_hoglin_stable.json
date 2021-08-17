@@ -1,0 +1,31 @@
+{
+  "pools": [
+    [
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_pickaxe",
+      "minecraft:netherite_scrap",
+      "minecraft:ancient_debris",
+      "minecraft:ancient_debris",
+      "minecraft:saddle",
+      "minecraft:gold_block",
+      "minecraft:golden_carrot",
+      "minecraft:golden_apple"
+    ],
+    [
+      "minecraft:golden_axe",
+      "minecraft:crying_obsidian",
+      "minecraft:glowstone",
+      "minecraft:gilded_blackstone",
+      "minecraft:soul_sand",
+      "minecraft:crimson_nylium",
+      "minecraft:gold_nugget",
+      "minecraft:leather",
+      "minecraft:arrow",
+      "minecraft:string",
+      "minecraft:porkchop",
+      "minecraft:cooked_porkchop",
+      "minecraft:crimson_fungus",
+      "minecraft:crimson_roots"
+    ]
+  ]
+}

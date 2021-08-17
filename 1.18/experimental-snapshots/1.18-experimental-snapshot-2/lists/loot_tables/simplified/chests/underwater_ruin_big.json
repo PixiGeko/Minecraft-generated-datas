@@ -1,0 +1,18 @@
+{
+  "pools": [
+    [
+      "minecraft:coal",
+      "minecraft:gold_nugget",
+      "minecraft:emerald",
+      "minecraft:wheat"
+    ],
+    [
+      "minecraft:golden_apple",
+      "minecraft:book",
+      "minecraft:leather_chestplate",
+      "minecraft:golden_helmet",
+      "minecraft:fishing_rod",
+      "minecraft:map"
+    ]
+  ]
+}

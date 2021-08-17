@@ -1,0 +1,23 @@
+{
+  "pools": [
+    [
+      "minecraft:crossbow"
+    ],
+    [
+      "minecraft:wheat",
+      "minecraft:potato",
+      "minecraft:carrot"
+    ],
+    [
+      "minecraft:dark_oak_log"
+    ],
+    [
+      "minecraft:experience_bottle",
+      "minecraft:string",
+      "minecraft:arrow",
+      "minecraft:tripwire_hook",
+      "minecraft:iron_ingot",
+      "minecraft:book"
+    ]
+  ]
+}

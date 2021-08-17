@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "has_record": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "4033": {
+      "has_record": true
+    },
+    "4034": {
+      "has_record": false
+    }
+  }
+}

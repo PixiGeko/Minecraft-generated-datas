@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "powered": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "3948": {
+      "powered": true
+    },
+    "3949": {
+      "powered": false
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "pools": [
+    [
+      "minecraft:rotten_flesh"
+    ],
+    [
+      "minecraft:gold_nugget"
+    ],
+    [
+      "minecraft:gold_ingot"
+    ]
+  ]
+}

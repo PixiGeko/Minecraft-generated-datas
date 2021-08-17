@@ -1,0 +1,11 @@
+{
+  "pools": [
+    [
+      "minecraft:book",
+      "minecraft:paper",
+      "minecraft:map",
+      "minecraft:compass",
+      "minecraft:book"
+    ]
+  ]
+}

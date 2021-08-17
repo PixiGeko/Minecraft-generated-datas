@@ -1,0 +1,16 @@
+{
+  "pools": [
+    [
+      "minecraft:gold_nugget",
+      "minecraft:dandelion",
+      "minecraft:poppy",
+      "minecraft:potato",
+      "minecraft:bread",
+      "minecraft:apple",
+      "minecraft:book",
+      "minecraft:feather",
+      "minecraft:emerald",
+      "minecraft:oak_sapling"
+    ]
+  ]
+}

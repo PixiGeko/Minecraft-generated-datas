@@ -1,0 +1,29 @@
+{
+  "pools": [
+    [
+      "minecraft:lodestone"
+    ],
+    [
+      "minecraft:crossbow",
+      "minecraft:spectral_arrow",
+      "minecraft:gilded_blackstone",
+      "minecraft:crying_obsidian",
+      "minecraft:gold_block",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:golden_sword",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_helmet",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:golden_axe"
+    ],
+    [
+      "minecraft:string",
+      "minecraft:leather",
+      "minecraft:arrow",
+      "minecraft:iron_nugget",
+      "minecraft:gold_nugget"
+    ]
+  ]
+}

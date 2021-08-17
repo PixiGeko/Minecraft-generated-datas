@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "berries": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "18617": {
+      "berries": true
+    },
+    "18618": {
+      "berries": false
+    }
+  }
+}

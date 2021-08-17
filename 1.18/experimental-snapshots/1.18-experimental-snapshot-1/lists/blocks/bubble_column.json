@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "drag": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "9917": {
+      "drag": true
+    },
+    "9918": {
+      "drag": false
+    }
+  }
+}

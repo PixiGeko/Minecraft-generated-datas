@@ -1,0 +1,24 @@
+{
+  "pools": [
+    [
+      "minecraft:book",
+      "minecraft:iron_boots",
+      "minecraft:potion",
+      "minecraft:splash_potion",
+      "minecraft:potion",
+      "minecraft:iron_nugget",
+      "minecraft:ender_pearl",
+      "minecraft:string",
+      "minecraft:quartz",
+      "minecraft:obsidian",
+      "minecraft:crying_obsidian",
+      "minecraft:fire_charge",
+      "minecraft:leather",
+      "minecraft:soul_sand",
+      "minecraft:nether_brick",
+      "minecraft:spectral_arrow",
+      "minecraft:gravel",
+      "minecraft:blackstone"
+    ]
+  ]
+}

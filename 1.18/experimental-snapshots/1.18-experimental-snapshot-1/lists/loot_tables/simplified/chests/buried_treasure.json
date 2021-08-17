@@ -1,0 +1,25 @@
+{
+  "pools": [
+    [
+      "minecraft:heart_of_the_sea"
+    ],
+    [
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:tnt"
+    ],
+    [
+      "minecraft:emerald",
+      "minecraft:diamond",
+      "minecraft:prismarine_crystals"
+    ],
+    [
+      "minecraft:leather_chestplate",
+      "minecraft:iron_sword"
+    ],
+    [
+      "minecraft:cooked_cod",
+      "minecraft:cooked_salmon"
+    ]
+  ]
+}

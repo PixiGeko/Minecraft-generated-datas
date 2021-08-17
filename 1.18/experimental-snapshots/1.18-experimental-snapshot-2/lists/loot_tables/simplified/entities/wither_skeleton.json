@@ -1,0 +1,13 @@
+{
+  "pools": [
+    [
+      "minecraft:coal"
+    ],
+    [
+      "minecraft:bone"
+    ],
+    [
+      "minecraft:wither_skeleton_skull"
+    ]
+  ]
+}

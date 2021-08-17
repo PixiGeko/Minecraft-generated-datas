@@ -1,0 +1,49 @@
+{
+  "category": "river",
+  "downfall": 0.5,
+  "fog_color": 12638463,
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "sky_color": 8103167,
+  "temperature": 0.5,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:canyon",
+    "minecraft:cave"
+  ],
+  "entities": {
+    "monster": [
+      "minecraft:creeper",
+      "minecraft:drowned",
+      "minecraft:enderman",
+      "minecraft:skeleton",
+      "minecraft:slime",
+      "minecraft:spider",
+      "minecraft:witch",
+      "minecraft:zombie",
+      "minecraft:zombie_villager"
+    ],
+    "ambient": [
+      "minecraft:bat"
+    ],
+    "underground_water_creature": [
+      "minecraft:glow_squid"
+    ],
+    "water_creature": [
+      "minecraft:squid"
+    ],
+    "water_ambient": [
+      "minecraft:salmon"
+    ]
+  },
+  "structures": [
+    "minecraft:mineshaft",
+    "minecraft:ruined_portal"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:grass_block",
+    "under_material": "minecraft:dirt",
+    "underwater_material": "minecraft:gravel"
+  }
+}

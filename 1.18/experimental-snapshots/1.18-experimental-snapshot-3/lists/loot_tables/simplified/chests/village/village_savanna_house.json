@@ -1,0 +1,16 @@
+{
+  "pools": [
+    [
+      "minecraft:gold_nugget",
+      "minecraft:grass",
+      "minecraft:tall_grass",
+      "minecraft:bread",
+      "minecraft:wheat_seeds",
+      "minecraft:emerald",
+      "minecraft:acacia_sapling",
+      "minecraft:saddle",
+      "minecraft:torch",
+      "minecraft:bucket"
+    ]
+  ]
+}

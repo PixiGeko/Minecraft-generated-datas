@@ -1,0 +1,18 @@
+{
+  "pools": [
+    [
+      "minecraft:prismarine_shard"
+    ],
+    [
+      "minecraft:cod",
+      "minecraft:prismarine_crystals",
+      "empty"
+    ],
+    [
+      "minecraft:wet_sponge"
+    ],
+    [
+      "minecraft:gameplay/fishing/fish"
+    ]
+  ]
+}

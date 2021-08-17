@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "lit": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "17654": {
+      "lit": true
+    },
+    "17655": {
+      "lit": false
+    }
+  }
+}

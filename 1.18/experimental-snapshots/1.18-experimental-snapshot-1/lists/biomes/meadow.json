@@ -1,0 +1,31 @@
+{
+  "category": "plains",
+  "downfall": 0.8,
+  "fog_color": 12638463,
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "sky_color": 7972607,
+  "temperature": 0.5,
+  "water_color": 937679,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:canyon",
+    "minecraft:cave"
+  ],
+  "entities": {
+    "creature": [
+      "minecraft:donkey",
+      "minecraft:rabbit"
+    ]
+  },
+  "structures": [
+    "minecraft:mineshaft",
+    "minecraft:ruined_portal",
+    "minecraft:stronghold"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:grass_block",
+    "under_material": "minecraft:dirt",
+    "underwater_material": "minecraft:gravel"
+  }
+}

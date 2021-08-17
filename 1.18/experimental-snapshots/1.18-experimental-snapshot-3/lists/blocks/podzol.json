@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "snowy": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "12": {
+      "snowy": true
+    },
+    "13": {
+      "snowy": false
+    }
+  }
+}

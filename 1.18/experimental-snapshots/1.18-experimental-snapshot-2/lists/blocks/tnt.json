@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "unstable": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "1486": {
+      "unstable": true
+    },
+    "1487": {
+      "unstable": false
+    }
+  }
+}

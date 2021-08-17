@@ -1,0 +1,29 @@
+{
+  "pools": [
+    [
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:emerald",
+      "minecraft:beetroot_seeds",
+      "minecraft:saddle",
+      "minecraft:iron_horse_armor",
+      "minecraft:golden_horse_armor",
+      "minecraft:diamond_horse_armor",
+      "minecraft:diamond_sword",
+      "minecraft:diamond_boots",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_shovel",
+      "minecraft:iron_sword",
+      "minecraft:iron_boots",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_helmet",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_shovel"
+    ]
+  ]
+}

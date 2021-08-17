@@ -1,0 +1,8 @@
+{
+  "pools": [
+    [
+      "minecraft:redstone",
+      "minecraft:lapis_lazuli"
+    ]
+  ]
+}

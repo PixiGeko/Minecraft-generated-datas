@@ -1,0 +1,100 @@
+{
+  "properties": {
+    "candles": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "lit": [
+      true,
+      false
+    ],
+    "waterlogged": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "17390": {
+      "candles": 1,
+      "lit": true,
+      "waterlogged": true
+    },
+    "17391": {
+      "candles": 1,
+      "lit": true,
+      "waterlogged": false
+    },
+    "17392": {
+      "candles": 1,
+      "lit": false,
+      "waterlogged": true
+    },
+    "17393": {
+      "candles": 1,
+      "lit": false,
+      "waterlogged": false
+    },
+    "17394": {
+      "candles": 2,
+      "lit": true,
+      "waterlogged": true
+    },
+    "17395": {
+      "candles": 2,
+      "lit": true,
+      "waterlogged": false
+    },
+    "17396": {
+      "candles": 2,
+      "lit": false,
+      "waterlogged": true
+    },
+    "17397": {
+      "candles": 2,
+      "lit": false,
+      "waterlogged": false
+    },
+    "17398": {
+      "candles": 3,
+      "lit": true,
+      "waterlogged": true
+    },
+    "17399": {
+      "candles": 3,
+      "lit": true,
+      "waterlogged": false
+    },
+    "17400": {
+      "candles": 3,
+      "lit": false,
+      "waterlogged": true
+    },
+    "17401": {
+      "candles": 3,
+      "lit": false,
+      "waterlogged": false
+    },
+    "17402": {
+      "candles": 4,
+      "lit": true,
+      "waterlogged": true
+    },
+    "17403": {
+      "candles": 4,
+      "lit": true,
+      "waterlogged": false
+    },
+    "17404": {
+      "candles": 4,
+      "lit": false,
+      "waterlogged": true
+    },
+    "17405": {
+      "candles": 4,
+      "lit": false,
+      "waterlogged": false
+    }
+  }
+}

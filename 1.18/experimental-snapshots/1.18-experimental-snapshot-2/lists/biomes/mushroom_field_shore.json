@@ -1,0 +1,36 @@
+{
+  "category": "mushroom",
+  "downfall": 1.0,
+  "fog_color": 12638463,
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "sky_color": 7842047,
+  "temperature": 0.9,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:canyon",
+    "minecraft:cave"
+  ],
+  "entities": {
+    "creature": [
+      "minecraft:mooshroom"
+    ],
+    "ambient": [
+      "minecraft:bat"
+    ],
+    "underground_water_creature": [
+      "minecraft:glow_squid"
+    ]
+  },
+  "structures": [
+    "minecraft:mineshaft",
+    "minecraft:ruined_portal",
+    "minecraft:stronghold"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:mycelium",
+    "under_material": "minecraft:dirt",
+    "underwater_material": "minecraft:gravel"
+  }
+}

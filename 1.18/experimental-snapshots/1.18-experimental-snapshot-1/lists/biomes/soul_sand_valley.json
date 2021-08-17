@@ -1,0 +1,36 @@
+{
+  "ambient_sound": "minecraft:ambient.soul_sand_valley.loop",
+  "category": "nether",
+  "downfall": 0.0,
+  "fog_color": 1787717,
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "sky_color": 7254527,
+  "temperature": 2.0,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:nether_cave"
+  ],
+  "entities": {
+    "monster": [
+      "minecraft:enderman",
+      "minecraft:ghast",
+      "minecraft:skeleton"
+    ],
+    "creature": [
+      "minecraft:strider"
+    ]
+  },
+  "structures": [
+    "minecraft:bastion_remnant",
+    "minecraft:fortress",
+    "minecraft:nether_fossil",
+    "minecraft:ruined_portal"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:soul_sand",
+    "under_material": "minecraft:soul_sand",
+    "underwater_material": "minecraft:soul_sand"
+  }
+}

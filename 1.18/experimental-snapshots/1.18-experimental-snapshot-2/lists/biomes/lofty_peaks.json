@@ -1,0 +1,46 @@
+{
+  "category": "plains",
+  "downfall": 0.9,
+  "fog_color": 12638463,
+  "player_spawn_friendly": false,
+  "precipitation": "snow",
+  "sky_color": 7972607,
+  "temperature": -0.7,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:canyon",
+    "minecraft:cave"
+  ],
+  "entities": {
+    "monster": [
+      "minecraft:creeper",
+      "minecraft:enderman",
+      "minecraft:skeleton",
+      "minecraft:slime",
+      "minecraft:spider",
+      "minecraft:witch",
+      "minecraft:zombie",
+      "minecraft:zombie_villager"
+    ],
+    "creature": [
+      "minecraft:goat"
+    ],
+    "ambient": [
+      "minecraft:bat"
+    ],
+    "underground_water_creature": [
+      "minecraft:glow_squid"
+    ]
+  },
+  "structures": [
+    "minecraft:mineshaft",
+    "minecraft:ruined_portal",
+    "minecraft:stronghold"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:snow_block",
+    "under_material": "minecraft:stone",
+    "underwater_material": "minecraft:stone"
+  }
+}

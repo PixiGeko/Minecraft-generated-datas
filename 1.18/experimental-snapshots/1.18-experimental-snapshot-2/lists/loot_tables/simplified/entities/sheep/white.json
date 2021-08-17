@@ -1,0 +1,10 @@
+{
+  "pools": [
+    [
+      "minecraft:white_wool"
+    ],
+    [
+      "minecraft:entities/sheep"
+    ]
+  ]
+}

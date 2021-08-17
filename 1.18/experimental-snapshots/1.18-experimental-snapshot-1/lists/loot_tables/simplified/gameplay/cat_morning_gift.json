@@ -1,0 +1,13 @@
+{
+  "pools": [
+    [
+      "minecraft:rabbit_hide",
+      "minecraft:rabbit_foot",
+      "minecraft:chicken",
+      "minecraft:feather",
+      "minecraft:rotten_flesh",
+      "minecraft:string",
+      "minecraft:phantom_membrane"
+    ]
+  ]
+}

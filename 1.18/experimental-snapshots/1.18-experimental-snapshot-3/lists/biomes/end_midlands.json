@@ -1,0 +1,24 @@
+{
+  "category": "the_end",
+  "downfall": 0.5,
+  "fog_color": 10518688,
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "sky_color": 0,
+  "temperature": 0.5,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "entities": {
+    "monster": [
+      "minecraft:enderman"
+    ]
+  },
+  "structures": [
+    "minecraft:endcity"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:end_stone",
+    "under_material": "minecraft:end_stone",
+    "underwater_material": "minecraft:end_stone"
+  }
+}

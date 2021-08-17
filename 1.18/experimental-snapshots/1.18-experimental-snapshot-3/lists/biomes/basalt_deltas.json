@@ -1,0 +1,33 @@
+{
+  "ambient_sound": "minecraft:ambient.basalt_deltas.loop",
+  "category": "nether",
+  "downfall": 0.0,
+  "fog_color": 6840176,
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "sky_color": 7254527,
+  "temperature": 2.0,
+  "water_color": 4159204,
+  "water_fog_color": 4341314,
+  "carvers": [
+    "minecraft:nether_cave"
+  ],
+  "entities": {
+    "monster": [
+      "minecraft:ghast",
+      "minecraft:magma_cube"
+    ],
+    "creature": [
+      "minecraft:strider"
+    ]
+  },
+  "structures": [
+    "minecraft:fortress",
+    "minecraft:ruined_portal"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:blackstone",
+    "under_material": "minecraft:basalt",
+    "underwater_material": "minecraft:magma_block"
+  }
+}

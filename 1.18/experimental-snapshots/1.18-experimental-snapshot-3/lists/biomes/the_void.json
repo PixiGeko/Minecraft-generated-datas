@@ -1,0 +1,16 @@
+{
+  "category": "none",
+  "downfall": 0.5,
+  "fog_color": 12638463,
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "sky_color": 8103167,
+  "temperature": 0.5,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "surface_builder": {
+    "top_material": "minecraft:stone",
+    "under_material": "minecraft:stone",
+    "underwater_material": "minecraft:gravel"
+  }
+}

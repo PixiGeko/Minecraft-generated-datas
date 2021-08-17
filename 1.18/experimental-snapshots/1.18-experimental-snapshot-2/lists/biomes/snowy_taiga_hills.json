@@ -1,0 +1,52 @@
+{
+  "category": "taiga",
+  "downfall": 0.4,
+  "fog_color": 12638463,
+  "player_spawn_friendly": false,
+  "precipitation": "snow",
+  "sky_color": 8625919,
+  "temperature": -0.5,
+  "water_color": 4020182,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:canyon",
+    "minecraft:cave"
+  ],
+  "entities": {
+    "monster": [
+      "minecraft:creeper",
+      "minecraft:enderman",
+      "minecraft:skeleton",
+      "minecraft:slime",
+      "minecraft:spider",
+      "minecraft:witch",
+      "minecraft:zombie",
+      "minecraft:zombie_villager"
+    ],
+    "creature": [
+      "minecraft:chicken",
+      "minecraft:cow",
+      "minecraft:fox",
+      "minecraft:pig",
+      "minecraft:rabbit",
+      "minecraft:sheep",
+      "minecraft:wolf"
+    ],
+    "ambient": [
+      "minecraft:bat"
+    ],
+    "underground_water_creature": [
+      "minecraft:glow_squid"
+    ]
+  },
+  "structures": [
+    "minecraft:mineshaft",
+    "minecraft:ruined_portal",
+    "minecraft:stronghold"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:grass_block",
+    "under_material": "minecraft:dirt",
+    "underwater_material": "minecraft:gravel"
+  }
+}

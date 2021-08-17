@@ -1,0 +1,13 @@
+{
+  "pools": [
+    [
+      "minecraft:arrow"
+    ],
+    [
+      "minecraft:bone"
+    ],
+    [
+      "minecraft:tipped_arrow"
+    ]
+  ]
+}

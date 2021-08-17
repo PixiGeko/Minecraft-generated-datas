@@ -1,0 +1,45 @@
+{
+  "pools": [
+    [
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_shovel",
+      "minecraft:crossbow",
+      "minecraft:ancient_debris",
+      "minecraft:netherite_scrap",
+      "minecraft:spectral_arrow",
+      "minecraft:piglin_banner_pattern",
+      "minecraft:music_disc_pigstep",
+      "minecraft:golden_carrot",
+      "minecraft:golden_apple",
+      "minecraft:book"
+    ],
+    [
+      "minecraft:iron_sword",
+      "minecraft:iron_block",
+      "minecraft:golden_boots",
+      "minecraft:golden_axe",
+      "minecraft:gold_block",
+      "minecraft:crossbow",
+      "minecraft:gold_ingot",
+      "minecraft:iron_ingot",
+      "minecraft:golden_sword",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_helmet",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:crying_obsidian"
+    ],
+    [
+      "minecraft:gilded_blackstone",
+      "minecraft:chain",
+      "minecraft:magma_cream",
+      "minecraft:bone_block",
+      "minecraft:iron_nugget",
+      "minecraft:obsidian",
+      "minecraft:gold_nugget",
+      "minecraft:string",
+      "minecraft:arrow",
+      "minecraft:cooked_porkchop"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "category": "forest",
+  "downfall": 0.8,
+  "fog_color": 12638463,
+  "player_spawn_friendly": false,
+  "precipitation": "snow",
+  "sky_color": 7972607,
+  "temperature": -0.2,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:canyon",
+    "minecraft:cave"
+  ],
+  "entities": {
+    "creature": [
+      "minecraft:chicken",
+      "minecraft:cow",
+      "minecraft:fox",
+      "minecraft:pig",
+      "minecraft:rabbit",
+      "minecraft:sheep",
+      "minecraft:wolf"
+    ]
+  },
+  "structures": [
+    "minecraft:mineshaft",
+    "minecraft:ruined_portal",
+    "minecraft:stronghold"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:snow_block",
+    "under_material": "minecraft:dirt",
+    "underwater_material": "minecraft:gravel"
+  }
+}

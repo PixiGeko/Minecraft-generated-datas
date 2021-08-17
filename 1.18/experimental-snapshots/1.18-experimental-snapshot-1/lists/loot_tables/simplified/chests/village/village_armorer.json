@@ -1,0 +1,10 @@
+{
+  "pools": [
+    [
+      "minecraft:iron_ingot",
+      "minecraft:bread",
+      "minecraft:iron_helmet",
+      "minecraft:emerald"
+    ]
+  ]
+}

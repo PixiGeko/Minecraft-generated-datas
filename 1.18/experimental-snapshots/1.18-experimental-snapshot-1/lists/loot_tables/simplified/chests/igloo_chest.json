@@ -1,0 +1,16 @@
+{
+  "pools": [
+    [
+      "minecraft:apple",
+      "minecraft:coal",
+      "minecraft:gold_nugget",
+      "minecraft:stone_axe",
+      "minecraft:rotten_flesh",
+      "minecraft:emerald",
+      "minecraft:wheat"
+    ],
+    [
+      "minecraft:golden_apple"
+    ]
+  ]
+}

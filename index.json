@@ -211,8 +211,9 @@
     "1.17.1-rc1": "1.17/releases-candidate/1.17.1-rc1",
     "1.17.1-rc2": "1.17/releases-candidate/1.17.1-rc2",
     "1.17.1": "1.17/releases/1.17.1",
-    "1.18-experimental-snapshot-2": "1.18/special/1.18-experimental-snapshot-2",
-    "1.18-experimental-snapshot-3": "1.18/special/1.18-experimental-snapshot-3"
+    "1.18-experimental-snapshot-1": "1.18/experimental-snapshots/1.18-experimental-snapshot-1",
+    "1.18-experimental-snapshot-2": "1.18/experimental-snapshots/1.18-experimental-snapshot-2",
+    "1.18-experimental-snapshot-3": "1.18/experimental-snapshots/1.18-experimental-snapshot-3"
   },
   "versions": {
     "1.13": {
@@ -470,7 +471,8 @@
       ]
     },
     "1.18": {
-      "special": [
+      "experimental-snapshots": [
+        "1.18-experimental-snapshot-1",
         "1.18-experimental-snapshot-2",
         "1.18-experimental-snapshot-3"
       ]

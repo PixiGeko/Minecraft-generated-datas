@@ -1,0 +1,14 @@
+{
+  "pools": [
+    [
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:bread",
+      "minecraft:iron_pickaxe",
+      "minecraft:coal",
+      "minecraft:stick",
+      "minecraft:iron_shovel"
+    ]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pools": [
+    [
+      "minecraft:emerald",
+      "minecraft:porkchop",
+      "minecraft:wheat",
+      "minecraft:beef",
+      "minecraft:mutton",
+      "minecraft:coal"
+    ]
+  ]
+}

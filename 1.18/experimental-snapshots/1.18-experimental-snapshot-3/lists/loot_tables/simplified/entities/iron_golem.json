@@ -1,0 +1,10 @@
+{
+  "pools": [
+    [
+      "minecraft:poppy"
+    ],
+    [
+      "minecraft:iron_ingot"
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pools": [
+    [
+      "minecraft:coal",
+      "minecraft:stone_axe",
+      "minecraft:rotten_flesh",
+      "minecraft:emerald",
+      "minecraft:wheat"
+    ],
+    [
+      "minecraft:leather_chestplate",
+      "minecraft:golden_helmet",
+      "minecraft:fishing_rod",
+      "minecraft:map"
+    ]
+  ]
+}
