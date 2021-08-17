@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "half": [
+      "upper",
+      "lower"
+    ]
+  },
+  "states": {
+    "8141": {
+      "half": "upper"
+    },
+    "8142": {
+      "half": "lower"
+    }
+  }
+}

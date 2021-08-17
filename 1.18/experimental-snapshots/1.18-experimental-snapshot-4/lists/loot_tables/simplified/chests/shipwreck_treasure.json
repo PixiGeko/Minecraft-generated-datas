@@ -1,0 +1,16 @@
+{
+  "pools": [
+    [
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:emerald",
+      "minecraft:diamond",
+      "minecraft:experience_bottle"
+    ],
+    [
+      "minecraft:iron_nugget",
+      "minecraft:gold_nugget",
+      "minecraft:lapis_lazuli"
+    ]
+  ]
+}

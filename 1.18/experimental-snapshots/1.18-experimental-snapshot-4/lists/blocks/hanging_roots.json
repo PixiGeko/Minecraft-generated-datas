@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "waterlogged": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "18680": {
+      "waterlogged": true
+    },
+    "18681": {
+      "waterlogged": false
+    }
+  }
+}

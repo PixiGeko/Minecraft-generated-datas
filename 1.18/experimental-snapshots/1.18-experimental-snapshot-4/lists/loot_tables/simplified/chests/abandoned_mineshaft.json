@@ -1,0 +1,32 @@
+{
+  "pools": [
+    [
+      "minecraft:golden_apple",
+      "minecraft:enchanted_golden_apple",
+      "minecraft:name_tag",
+      "minecraft:book",
+      "minecraft:iron_pickaxe",
+      "empty"
+    ],
+    [
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:redstone",
+      "minecraft:lapis_lazuli",
+      "minecraft:diamond",
+      "minecraft:coal",
+      "minecraft:bread",
+      "minecraft:glow_berries",
+      "minecraft:melon_seeds",
+      "minecraft:pumpkin_seeds",
+      "minecraft:beetroot_seeds"
+    ],
+    [
+      "minecraft:rail",
+      "minecraft:powered_rail",
+      "minecraft:detector_rail",
+      "minecraft:activator_rail",
+      "minecraft:torch"
+    ]
+  ]
+}

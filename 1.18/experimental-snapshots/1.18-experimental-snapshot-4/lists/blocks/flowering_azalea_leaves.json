@@ -1,0 +1,75 @@
+{
+  "properties": {
+    "distance": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "persistent": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "246": {
+      "distance": 1,
+      "persistent": true
+    },
+    "247": {
+      "distance": 1,
+      "persistent": false
+    },
+    "248": {
+      "distance": 2,
+      "persistent": true
+    },
+    "249": {
+      "distance": 2,
+      "persistent": false
+    },
+    "250": {
+      "distance": 3,
+      "persistent": true
+    },
+    "251": {
+      "distance": 3,
+      "persistent": false
+    },
+    "252": {
+      "distance": 4,
+      "persistent": true
+    },
+    "253": {
+      "distance": 4,
+      "persistent": false
+    },
+    "254": {
+      "distance": 5,
+      "persistent": true
+    },
+    "255": {
+      "distance": 5,
+      "persistent": false
+    },
+    "256": {
+      "distance": 6,
+      "persistent": true
+    },
+    "257": {
+      "distance": 6,
+      "persistent": false
+    },
+    "258": {
+      "distance": 7,
+      "persistent": true
+    },
+    "259": {
+      "distance": 7,
+      "persistent": false
+    }
+  }
+}

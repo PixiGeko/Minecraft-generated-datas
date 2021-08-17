@@ -1,0 +1,27 @@
+{
+  "pools": [
+    [
+      "minecraft:stone_axe",
+      "minecraft:wooden_axe"
+    ],
+    [
+      "minecraft:stone_pickaxe",
+      "minecraft:wooden_pickaxe"
+    ],
+    [
+      "minecraft:apple",
+      "minecraft:bread",
+      "minecraft:salmon"
+    ],
+    [
+      "minecraft:stick",
+      "minecraft:oak_planks",
+      "minecraft:oak_log",
+      "minecraft:spruce_log",
+      "minecraft:birch_log",
+      "minecraft:jungle_log",
+      "minecraft:acacia_log",
+      "minecraft:dark_oak_log"
+    ]
+  ]
+}

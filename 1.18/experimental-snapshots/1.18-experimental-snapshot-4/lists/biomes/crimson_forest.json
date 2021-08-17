@@ -1,0 +1,35 @@
+{
+  "ambient_sound": "minecraft:ambient.crimson_forest.loop",
+  "category": "nether",
+  "downfall": 0.0,
+  "fog_color": 3343107,
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "sky_color": 7254527,
+  "temperature": 2.0,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:nether_cave"
+  ],
+  "entities": {
+    "monster": [
+      "minecraft:hoglin",
+      "minecraft:piglin",
+      "minecraft:zombified_piglin"
+    ],
+    "creature": [
+      "minecraft:strider"
+    ]
+  },
+  "structures": [
+    "minecraft:bastion_remnant",
+    "minecraft:fortress",
+    "minecraft:ruined_portal"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:crimson_nylium",
+    "under_material": "minecraft:netherrack",
+    "underwater_material": "minecraft:nether_wart_block"
+  }
+}
