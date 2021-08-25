@@ -40,6 +40,7 @@
     ]
   },
   "states": {
+    "default": 1526,
     "1495": {
       "age": 0,
       "east": true,

@@ -16,6 +16,7 @@
     ]
   },
   "states": {
+    "default": 1099,
     "1096": {
       "facing": "north",
       "occupied": true,

@@ -23,6 +23,7 @@
     ]
   },
   "states": {
+    "default": 1965,
     "1954": {
       "facing": "north",
       "half": "top",

@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 8778,
     "8778": {
       "waterlogged": true
     },

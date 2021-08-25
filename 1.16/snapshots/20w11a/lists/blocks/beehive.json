@@ -16,6 +16,7 @@
     ]
   },
   "states": {
+    "default": 15757,
     "15757": {
       "facing": "north",
       "honey_level": 0

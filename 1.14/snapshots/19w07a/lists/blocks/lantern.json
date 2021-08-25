@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 10903,
     "10902": {
       "hanging": true
     },

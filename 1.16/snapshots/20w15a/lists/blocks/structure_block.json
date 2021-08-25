@@ -8,6 +8,7 @@
     ]
   },
   "states": {
+    "default": 15733,
     "15733": {
       "mode": "save"
     },

@@ -20,6 +20,7 @@
     ]
   },
   "states": {
+    "default": 6624,
     "6624": {
       "rotation": 0
     },

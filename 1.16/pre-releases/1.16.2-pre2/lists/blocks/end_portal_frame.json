@@ -12,6 +12,7 @@
     ]
   },
   "states": {
+    "default": 5154,
     "5150": {
       "eye": true,
       "facing": "north"

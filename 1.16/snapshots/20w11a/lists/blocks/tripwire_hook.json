@@ -16,6 +16,7 @@
     ]
   },
   "states": {
+    "default": 5263,
     "5254": {
       "attached": true,
       "facing": "north",

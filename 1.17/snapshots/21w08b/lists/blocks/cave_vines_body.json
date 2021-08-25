@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 18851,
     "18850": {
       "berries": true
     },

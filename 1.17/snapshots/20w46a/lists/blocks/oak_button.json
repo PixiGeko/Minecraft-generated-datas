@@ -17,6 +17,7 @@
     ]
   },
   "states": {
+    "default": 6397,
     "6388": {
       "face": "floor",
       "facing": "north",

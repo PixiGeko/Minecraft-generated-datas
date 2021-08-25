@@ -15,6 +15,7 @@
     ]
   },
   "states": {
+    "default": 185,
     "172": {
       "distance": 1,
       "persistent": true

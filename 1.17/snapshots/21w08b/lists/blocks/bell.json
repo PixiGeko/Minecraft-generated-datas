@@ -18,6 +18,7 @@
     ]
   },
   "states": {
+    "default": 15311,
     "15310": {
       "attachment": "floor",
       "facing": "north",

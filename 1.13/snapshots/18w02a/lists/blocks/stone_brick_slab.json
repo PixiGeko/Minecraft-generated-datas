@@ -7,6 +7,7 @@
     ]
   },
   "states": {
+    "default": 5774,
     "5773": {
       "type": "top"
     },

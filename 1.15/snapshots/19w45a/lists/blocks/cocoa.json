@@ -13,6 +13,7 @@
     ]
   },
   "states": {
+    "default": 5142,
     "5142": {
       "age": 0,
       "facing": "north"

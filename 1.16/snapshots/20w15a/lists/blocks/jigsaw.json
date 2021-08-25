@@ -16,6 +16,7 @@
     ]
   },
   "states": {
+    "default": 15747,
     "15737": {
       "orientation": "down_east"
     },

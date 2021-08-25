@@ -23,6 +23,7 @@
     ]
   },
   "states": {
+    "default": 2017,
     "2006": {
       "facing": "north",
       "half": "top",

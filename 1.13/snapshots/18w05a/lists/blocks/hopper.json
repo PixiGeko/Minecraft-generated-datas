@@ -13,6 +13,7 @@
     ]
   },
   "states": {
+    "default": 4874,
     "4874": {
       "enabled": true,
       "facing": "down"

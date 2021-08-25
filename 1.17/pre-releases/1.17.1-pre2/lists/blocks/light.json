@@ -24,6 +24,7 @@
     ]
   },
   "states": {
+    "default": 7786,
     "7755": {
       "level": 0,
       "waterlogged": true

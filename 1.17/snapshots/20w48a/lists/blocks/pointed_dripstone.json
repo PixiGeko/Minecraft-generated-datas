@@ -17,6 +17,7 @@
     ]
   },
   "states": {
+    "default": 18204,
     "18199": {
       "thickness": "tip_merge",
       "vertical_direction": "up",

@@ -22,6 +22,7 @@
     ]
   },
   "states": {
+    "default": 3517,
     "3514": {
       "delay": 1,
       "facing": "north",

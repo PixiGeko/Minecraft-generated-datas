@@ -7,6 +7,7 @@
     ]
   },
   "states": {
+    "default": 79,
     "78": {
       "axis": "x"
     },

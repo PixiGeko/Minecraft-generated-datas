@@ -14,6 +14,7 @@
     ]
   },
   "states": {
+    "default": 964,
     "958": {
       "powered": true,
       "shape": "north_south"

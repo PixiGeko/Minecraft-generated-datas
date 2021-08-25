@@ -20,6 +20,7 @@
     ]
   },
   "states": {
+    "default": 7022,
     "7015": {
       "facing": "north",
       "in_wall": true,

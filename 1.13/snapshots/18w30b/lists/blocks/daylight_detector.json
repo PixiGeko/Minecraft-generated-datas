@@ -24,6 +24,7 @@
     ]
   },
   "states": {
+    "default": 5668,
     "5652": {
       "inverted": true,
       "power": 0

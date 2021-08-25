@@ -14,6 +14,7 @@
     ]
   },
   "states": {
+    "default": 4070,
     "4063": {
       "has_bottle_0": true,
       "has_bottle_1": true,

@@ -20,6 +20,7 @@
     ]
   },
   "states": {
+    "default": 8035,
     "8035": {
       "rotation": 0
     },

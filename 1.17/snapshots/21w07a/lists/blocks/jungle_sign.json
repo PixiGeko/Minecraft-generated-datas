@@ -28,6 +28,7 @@
     ]
   },
   "states": {
+    "default": 3722,
     "3689": {
       "lit": true,
       "rotation": 0,

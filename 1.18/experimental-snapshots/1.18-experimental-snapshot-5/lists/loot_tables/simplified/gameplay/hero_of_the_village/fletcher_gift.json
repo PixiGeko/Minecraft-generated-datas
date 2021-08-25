@@ -1,0 +1,20 @@
+{
+  "pools": [
+    [
+      "minecraft:arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow",
+      "minecraft:tipped_arrow"
+    ]
+  ]
+}

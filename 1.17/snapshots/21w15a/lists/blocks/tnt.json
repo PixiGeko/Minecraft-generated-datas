@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 1487,
     "1486": {
       "unstable": true
     },

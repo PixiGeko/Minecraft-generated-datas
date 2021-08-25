@@ -16,6 +16,7 @@
     ]
   },
   "states": {
+    "default": 803,
     "800": {
       "facing": "north",
       "occupied": true,

@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 3345,
     "3344": {
       "has_record": true
     },

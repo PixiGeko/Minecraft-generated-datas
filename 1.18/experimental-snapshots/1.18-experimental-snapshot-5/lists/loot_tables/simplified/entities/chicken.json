@@ -1,0 +1,10 @@
+{
+  "pools": [
+    [
+      "minecraft:feather"
+    ],
+    [
+      "minecraft:chicken"
+    ]
+  ]
+}

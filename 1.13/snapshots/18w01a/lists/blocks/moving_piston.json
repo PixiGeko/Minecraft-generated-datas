@@ -14,6 +14,7 @@
     ]
   },
   "states": {
+    "default": 1020,
     "1020": {
       "facing": "north",
       "type": "normal"

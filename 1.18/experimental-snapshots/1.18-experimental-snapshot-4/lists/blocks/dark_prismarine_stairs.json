@@ -23,6 +23,7 @@
     ]
   },
   "states": {
+    "default": 8025,
     "8014": {
       "facing": "north",
       "half": "top",

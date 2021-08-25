@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 5012,
     "5011": {
       "snowy": true
     },

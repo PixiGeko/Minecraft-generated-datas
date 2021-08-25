@@ -8,6 +8,7 @@
     ]
   },
   "states": {
+    "default": 9868,
     "9868": {
       "facing": "north"
     },

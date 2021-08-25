@@ -11,6 +11,7 @@
     ]
   },
   "states": {
+    "default": 5034,
     "5031": {
       "axis": "x",
       "waterlogged": true

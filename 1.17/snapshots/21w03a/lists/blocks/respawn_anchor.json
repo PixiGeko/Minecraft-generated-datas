@@ -9,6 +9,7 @@
     ]
   },
   "states": {
+    "default": 16207,
     "16207": {
       "charges": 0
     },

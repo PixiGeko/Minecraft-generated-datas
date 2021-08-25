@@ -15,6 +15,7 @@
     ]
   },
   "states": {
+    "default": 9647,
     "9647": {
       "age": 0,
       "leaves": "none",

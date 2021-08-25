@@ -8,6 +8,7 @@
     ]
   },
   "states": {
+    "default": 8031,
     "8031": {
       "facing": "north"
     },

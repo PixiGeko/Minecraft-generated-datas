@@ -22,6 +22,7 @@
     ]
   },
   "states": {
+    "default": 6774,
     "6743": {
       "east": true,
       "north": true,

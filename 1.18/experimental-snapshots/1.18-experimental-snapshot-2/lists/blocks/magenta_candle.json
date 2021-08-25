@@ -16,6 +16,7 @@
     ]
   },
   "states": {
+    "default": 17409,
     "17406": {
       "candles": 1,
       "lit": true,

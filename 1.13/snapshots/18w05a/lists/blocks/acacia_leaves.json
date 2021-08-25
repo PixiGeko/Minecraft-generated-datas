@@ -10,6 +10,7 @@
     ]
   },
   "states": {
+    "default": 144,
     "144": {
       "check_decay": true,
       "decayable": true

@@ -24,6 +24,7 @@
     ]
   },
   "states": {
+    "default": 15141,
     "15126": {
       "facing": "north",
       "half": "top",

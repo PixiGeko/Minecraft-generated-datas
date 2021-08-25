@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 6829,
     "6828": {
       "half": "upper"
     },

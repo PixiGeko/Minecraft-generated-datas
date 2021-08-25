@@ -11,6 +11,7 @@
     ]
   },
   "states": {
+    "default": 8077,
     "8074": {
       "type": "top",
       "waterlogged": true

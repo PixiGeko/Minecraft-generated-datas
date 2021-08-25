@@ -14,6 +14,7 @@
     ]
   },
   "states": {
+    "default": 9237,
     "9231": {
       "conditional": true,
       "facing": "north"

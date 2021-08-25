@@ -1,0 +1,14 @@
+{
+  "pools": [
+    [
+      "minecraft:clay_ball",
+      "minecraft:flower_pot",
+      "minecraft:stone",
+      "minecraft:stone_bricks",
+      "minecraft:bread",
+      "minecraft:yellow_dye",
+      "minecraft:smooth_stone",
+      "minecraft:emerald"
+    ]
+  ]
+}

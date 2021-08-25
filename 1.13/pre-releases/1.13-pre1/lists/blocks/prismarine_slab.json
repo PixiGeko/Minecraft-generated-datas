@@ -11,6 +11,7 @@
     ]
   },
   "states": {
+    "default": 6786,
     "6783": {
       "type": "top",
       "waterlogged": true

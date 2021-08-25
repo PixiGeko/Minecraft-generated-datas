@@ -20,6 +20,7 @@
     ]
   },
   "states": {
+    "default": 50,
     "50": {
       "level": 0
     },

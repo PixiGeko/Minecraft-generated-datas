@@ -16,6 +16,7 @@
     ]
   },
   "states": {
+    "default": 6674,
     "6673": {
       "facing": "north",
       "mode": "compare",

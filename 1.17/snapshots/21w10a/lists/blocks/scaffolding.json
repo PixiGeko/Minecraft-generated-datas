@@ -20,6 +20,7 @@
     ]
   },
   "states": {
+    "default": 15004,
     "14973": {
       "bottom": true,
       "distance": 0,

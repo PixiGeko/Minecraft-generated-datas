@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 9131,
     "9131": {
       "drag": true
     },

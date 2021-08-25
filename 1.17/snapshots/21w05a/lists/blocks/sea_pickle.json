@@ -12,6 +12,7 @@
     ]
   },
   "states": {
+    "default": 10090,
     "10090": {
       "pickles": 1,
       "waterlogged": true

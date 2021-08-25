@@ -1,0 +1,50 @@
+{
+  "category": "desert",
+  "downfall": 0.0,
+  "fog_color": 12638463,
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "sky_color": 7254527,
+  "temperature": 2.0,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:canyon",
+    "minecraft:cave"
+  ],
+  "entities": {
+    "monster": [
+      "minecraft:creeper",
+      "minecraft:enderman",
+      "minecraft:husk",
+      "minecraft:skeleton",
+      "minecraft:slime",
+      "minecraft:spider",
+      "minecraft:witch",
+      "minecraft:zombie",
+      "minecraft:zombie_villager"
+    ],
+    "creature": [
+      "minecraft:rabbit"
+    ],
+    "ambient": [
+      "minecraft:bat"
+    ],
+    "underground_water_creature": [
+      "minecraft:glow_squid"
+    ]
+  },
+  "structures": [
+    "minecraft:desert_pyramid",
+    "minecraft:mineshaft",
+    "minecraft:pillager_outpost",
+    "minecraft:ruined_portal",
+    "minecraft:stronghold",
+    "minecraft:village"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:sand",
+    "under_material": "minecraft:sand",
+    "underwater_material": "minecraft:gravel"
+  }
+}

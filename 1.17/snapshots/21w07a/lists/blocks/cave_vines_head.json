@@ -34,6 +34,7 @@
     ]
   },
   "states": {
+    "default": 18793,
     "18792": {
       "age": 0,
       "berries": true

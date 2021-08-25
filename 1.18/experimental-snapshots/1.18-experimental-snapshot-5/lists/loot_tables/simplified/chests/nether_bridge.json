@@ -1,0 +1,18 @@
+{
+  "pools": [
+    [
+      "minecraft:diamond",
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:golden_sword",
+      "minecraft:golden_chestplate",
+      "minecraft:flint_and_steel",
+      "minecraft:nether_wart",
+      "minecraft:saddle",
+      "minecraft:golden_horse_armor",
+      "minecraft:iron_horse_armor",
+      "minecraft:diamond_horse_armor",
+      "minecraft:obsidian"
+    ]
+  ]
+}

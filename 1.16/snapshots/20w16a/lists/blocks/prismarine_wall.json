@@ -30,6 +30,7 @@
     ]
   },
   "states": {
+    "default": 11193,
     "11190": {
       "east": "none",
       "north": "none",

@@ -16,6 +16,7 @@
     ]
   },
   "states": {
+    "default": 911,
     "908": {
       "facing": "north",
       "occupied": true,

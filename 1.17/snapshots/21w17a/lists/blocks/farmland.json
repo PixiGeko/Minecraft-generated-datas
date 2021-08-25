@@ -12,6 +12,7 @@
     ]
   },
   "states": {
+    "default": 3422,
     "3422": {
       "moisture": 0
     },

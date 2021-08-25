@@ -30,6 +30,7 @@
     ]
   },
   "states": {
+    "default": 4572,
     "4445": {
       "attached": true,
       "disarmed": true,

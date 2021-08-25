@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 21,
     "21": {
       "stage": 0
     },

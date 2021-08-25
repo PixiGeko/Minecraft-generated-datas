@@ -1,0 +1,34 @@
+{
+  "pools": [
+    [
+      "minecraft:saddle",
+      "minecraft:golden_apple",
+      "minecraft:enchanted_golden_apple",
+      "minecraft:music_disc_13",
+      "minecraft:music_disc_cat",
+      "minecraft:name_tag",
+      "minecraft:golden_horse_armor",
+      "minecraft:iron_horse_armor",
+      "minecraft:diamond_horse_armor",
+      "minecraft:book"
+    ],
+    [
+      "minecraft:iron_ingot",
+      "minecraft:gold_ingot",
+      "minecraft:bread",
+      "minecraft:wheat",
+      "minecraft:bucket",
+      "minecraft:redstone",
+      "minecraft:coal",
+      "minecraft:melon_seeds",
+      "minecraft:pumpkin_seeds",
+      "minecraft:beetroot_seeds"
+    ],
+    [
+      "minecraft:bone",
+      "minecraft:gunpowder",
+      "minecraft:rotten_flesh",
+      "minecraft:string"
+    ]
+  ]
+}

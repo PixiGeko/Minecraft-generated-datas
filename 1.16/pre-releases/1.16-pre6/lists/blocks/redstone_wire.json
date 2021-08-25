@@ -40,6 +40,7 @@
     ]
   },
   "states": {
+    "default": 3218,
     "2058": {
       "east": "up",
       "north": "up",

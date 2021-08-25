@@ -10,6 +10,7 @@
     ]
   },
   "states": {
+    "default": 15111,
     "15108": {
       "hanging": true,
       "waterlogged": true

@@ -45,6 +45,7 @@
     ]
   },
   "states": {
+    "default": 191,
     "190": {
       "instrument": "harp",
       "note": 0,

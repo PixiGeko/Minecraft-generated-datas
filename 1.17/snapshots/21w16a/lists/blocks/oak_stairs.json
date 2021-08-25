@@ -23,6 +23,7 @@
     ]
   },
   "states": {
+    "default": 2021,
     "2010": {
       "facing": "north",
       "half": "top",

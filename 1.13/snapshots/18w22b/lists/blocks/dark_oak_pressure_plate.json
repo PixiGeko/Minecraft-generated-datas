@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 3360,
     "3359": {
       "powered": true
     },

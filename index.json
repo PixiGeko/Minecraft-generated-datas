@@ -1,5 +1,5 @@
 {
-  "latest": "1.18-experimental-snapshot-4",
+  "latest": "1.18-experimental-snapshot-5",
   "paths": {
     "18w01a": "1.13/snapshots/18w01a",
     "18w02a": "1.13/snapshots/18w02a",
@@ -214,7 +214,8 @@
     "1.18-experimental-snapshot-1": "1.18/experimental-snapshots/1.18-experimental-snapshot-1",
     "1.18-experimental-snapshot-2": "1.18/experimental-snapshots/1.18-experimental-snapshot-2",
     "1.18-experimental-snapshot-3": "1.18/experimental-snapshots/1.18-experimental-snapshot-3",
-    "1.18-experimental-snapshot-4": "1.18/experimental-snapshots/1.18-experimental-snapshot-4"
+    "1.18-experimental-snapshot-4": "1.18/experimental-snapshots/1.18-experimental-snapshot-4",
+    "1.18-experimental-snapshot-5": "1.18/experimental-snapshots/1.18-experimental-snapshot-5"
   },
   "versions": {
     "1.13": {
@@ -476,7 +477,8 @@
         "1.18-experimental-snapshot-1",
         "1.18-experimental-snapshot-2",
         "1.18-experimental-snapshot-3",
-        "1.18-experimental-snapshot-4"
+        "1.18-experimental-snapshot-4",
+        "1.18-experimental-snapshot-5"
       ]
     }
   }

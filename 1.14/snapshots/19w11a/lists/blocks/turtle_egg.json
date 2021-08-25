@@ -13,6 +13,7 @@
     ]
   },
   "states": {
+    "default": 8950,
     "8950": {
       "eggs": 1,
       "hatch": 0

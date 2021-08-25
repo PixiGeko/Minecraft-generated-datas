@@ -8,6 +8,7 @@
     ]
   },
   "states": {
+    "default": 6806,
     "6806": {
       "facing": "north"
     },

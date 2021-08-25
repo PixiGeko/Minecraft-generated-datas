@@ -24,6 +24,7 @@
     ]
   },
   "states": {
+    "default": 3542,
     "3541": {
       "rotation": 0,
       "waterlogged": true

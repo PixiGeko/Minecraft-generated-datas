@@ -14,6 +14,7 @@
     ]
   },
   "states": {
+    "default": 3179,
     "3179": {
       "shape": "north_south"
     },

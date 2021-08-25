@@ -18,6 +18,7 @@
     ]
   },
   "states": {
+    "default": 3894,
     "3893": {
       "shape": "north_south",
       "waterlogged": true

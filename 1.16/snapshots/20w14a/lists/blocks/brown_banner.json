@@ -20,6 +20,7 @@
     ]
   },
   "states": {
+    "default": 8087,
     "8087": {
       "rotation": 0
     },

@@ -26,6 +26,7 @@
     ]
   },
   "states": {
+    "default": 4935,
     "4935": {
       "down": true,
       "east": true,

@@ -12,6 +12,7 @@
     ]
   },
   "states": {
+    "default": 3060,
     "3060": {
       "moisture": 0
     },

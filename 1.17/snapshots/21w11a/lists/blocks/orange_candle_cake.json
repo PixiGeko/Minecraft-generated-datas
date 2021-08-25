@@ -6,6 +6,7 @@
     ]
   },
   "states": {
+    "default": 17603,
     "17602": {
       "lit": true
     },

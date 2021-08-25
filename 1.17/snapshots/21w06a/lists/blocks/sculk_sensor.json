@@ -29,6 +29,7 @@
     ]
   },
   "states": {
+    "default": 18047,
     "18046": {
       "power": 0,
       "sculk_sensor_phase": "inactive",

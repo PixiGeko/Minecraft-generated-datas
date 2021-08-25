@@ -14,6 +14,7 @@
     ]
   },
   "states": {
+    "default": 14790,
     "14789": {
       "facing": "north",
       "open": true
