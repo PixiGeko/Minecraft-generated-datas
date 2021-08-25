@@ -12,6 +12,7 @@
     ]
   },
   "states": {
+    "default": 15974,
     "15973": {
       "facing": "north",
       "waterlogged": true

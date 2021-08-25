@@ -14,13 +14,10 @@
   "surface_builder": {
     "config": {
       "top_material": {
-        "Properties": {
-          "snowy": "false"
-        },
-        "Name": "minecraft:grass_block"
+        "Name": "minecraft:stone"
       },
       "under_material": {
-        "Name": "minecraft:dirt"
+        "Name": "minecraft:stone"
       },
       "underwater_material": {
         "Name": "minecraft:gravel"
@@ -298,7 +295,7 @@
           },
           "decorator": {
             "config": {
-              "chance": 16
+              "chance": 32
             },
             "type": "minecraft:chance"
           }
@@ -3096,7 +3093,12 @@
                         "minecraft:diorite",
                         "minecraft:andesite",
                         "minecraft:deepslate",
-                        "minecraft:tuff"
+                        "minecraft:tuff",
+                        "minecraft:calcite",
+                        "minecraft:dirt",
+                        "minecraft:snow_block",
+                        "minecraft:powder_snow",
+                        "minecraft:packed_ice"
                       ],
                       "state": {
                         "Properties": {

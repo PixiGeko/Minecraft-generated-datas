@@ -298,7 +298,7 @@
           },
           "decorator": {
             "config": {
-              "chance": 16
+              "chance": 32
             },
             "type": "minecraft:chance"
           }
@@ -2897,7 +2897,12 @@
                         "minecraft:diorite",
                         "minecraft:andesite",
                         "minecraft:deepslate",
-                        "minecraft:tuff"
+                        "minecraft:tuff",
+                        "minecraft:calcite",
+                        "minecraft:dirt",
+                        "minecraft:snow_block",
+                        "minecraft:powder_snow",
+                        "minecraft:packed_ice"
                       ],
                       "state": {
                         "Properties": {
