@@ -3,6 +3,7 @@
 - [Version data](#version-data)
 - [Registries](#registries)
 - [Tags](#tags)
+- [Commands](#commands)
 - [Translations](#translations)
 - [File structure](#file-structure)
 - [Mappings](#mappings)
@@ -35,6 +36,183 @@ List
 ```diff
 + universal_tags/decorated_pot_pattern.json
 - universal_tags/decorated_pot_patterns.json
+```
+
+</details>
+</details>
+<details><summary>Commands</summary>
+<details>
+<summary>
+List
+</summary>
+
+```diff
+- advancement.json
++ advancement.txt
+- attribute.json
++ attribute.txt
+- ban-ip.json
++ ban-ip.txt
+- ban.json
++ ban.txt
+- banlist.json
++ banlist.txt
+- bossbar.json
++ bossbar.txt
+- clear.json
++ clear.txt
+- clone.json
++ clone.txt
+- damage.json
++ damage.txt
+- data.json
++ data.txt
+- datapack.json
++ datapack.txt
+- debug.json
++ debug.txt
+- defaultgamemode.json
++ defaultgamemode.txt
+- deop.json
++ deop.txt
+- difficulty.json
++ difficulty.txt
+- effect.json
++ effect.txt
+- enchant.json
++ enchant.txt
+- execute.json
++ execute.txt
+- experience.json
++ experience.txt
+- fill.json
++ fill.txt
+- fillbiome.json
++ fillbiome.txt
+- forceload.json
++ forceload.txt
+- function.json
++ function.txt
+- gamemode.json
++ gamemode.txt
+- gamerule.json
++ gamerule.txt
+- give.json
++ give.txt
+- help.json
++ help.txt
+- item.json
++ item.txt
+- jfr.json
++ jfr.txt
+- kick.json
++ kick.txt
+- kill.json
++ kill.txt
+- list.json
++ list.txt
+- locate.json
++ locate.txt
+- loot.json
++ loot.txt
+- me.json
++ me.txt
+- msg.json
++ msg.txt
+- op.json
++ op.txt
+- pardon-ip.json
++ pardon-ip.txt
+- pardon.json
++ pardon.txt
+- particle.json
++ particle.txt
+- perf.json
++ perf.txt
+- place.json
++ place.txt
+- playsound.json
++ playsound.txt
+- publish.json
++ publish.txt
+- random.json
++ random.txt
+- recipe.json
++ recipe.txt
+- reload.json
++ reload.txt
+- return.json
++ return.txt
+- ride.json
++ ride.txt
+- save-all.json
++ save-all.txt
+- save-off.json
++ save-off.txt
+- save-on.json
++ save-on.txt
+- say.json
++ say.txt
+- schedule.json
++ schedule.txt
+- scoreboard.json
++ scoreboard.txt
+- seed.json
++ seed.txt
+- setblock.json
++ setblock.txt
+- setidletimeout.json
++ setidletimeout.txt
+- setworldspawn.json
++ setworldspawn.txt
+- spawnpoint.json
++ spawnpoint.txt
+- spectate.json
++ spectate.txt
+- spreadplayers.json
++ spreadplayers.txt
+- stop.json
++ stop.txt
+- stopsound.json
++ stopsound.txt
+- summon.json
++ summon.txt
+- tag.json
++ tag.txt
+- team.json
++ team.txt
+- teammsg.json
++ teammsg.txt
+- teleport.json
++ teleport.txt
+- tell.json
++ tell.txt
+- tellraw.json
++ tellraw.txt
+- tick.json
++ tick.txt
+- time.json
++ time.txt
+- title.json
++ title.txt
+- tm.json
++ tm.txt
+- tp.json
++ tp.txt
+- transfer.json
++ transfer.txt
+- trigger.json
++ trigger.txt
+- w.json
++ w.txt
+- weather.json
++ weather.txt
+- whitelist.json
++ whitelist.txt
+- worldborder.json
++ worldborder.txt
+- xp.json
++ xp.txt
 ```
 
 </details>
