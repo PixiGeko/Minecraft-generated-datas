@@ -3416,5 +3416,16 @@
     "stable": false,
     "use_editor": false,
     "world": 4058
+  },
+  "24w34a": {
+    "data_pack": 50,
+    "java": 21,
+    "launcher": 21,
+    "protocol": 1073742030,
+    "resource_pack": 36,
+    "series": "main",
+    "stable": false,
+    "use_editor": false,
+    "world": 4060
   }
 }

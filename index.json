@@ -1,5 +1,5 @@
 {
-  "latest": "24w33a",
+  "latest": "24w34a",
   "latest_release": "1.21.1",
   "versions": {
     "18w01a": {
@@ -2806,6 +2806,13 @@
       "id": "24w33a",
       "path": "1.21/snapshots/24w33a",
       "release_time": "2024-08-15T12:39:34+00:00",
+      "type": "snapshots",
+      "version": "1.21"
+    },
+    "24w34a": {
+      "id": "24w34a",
+      "path": "1.21/snapshots/24w34a",
+      "release_time": "2024-08-21T14:14:13+00:00",
       "type": "snapshots",
       "version": "1.21"
     }
