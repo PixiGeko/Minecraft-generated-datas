@@ -1,5 +1,5 @@
 {
-  "latest": "24w39a",
+  "latest": "24w40a",
   "latest_release": "1.21.1",
   "versions": {
     "18w01a": {
@@ -2848,6 +2848,13 @@
       "id": "24w39a",
       "path": "1.21/snapshots/24w39a",
       "release_time": "2024-09-25T13:08:41+00:00",
+      "type": "snapshots",
+      "version": "1.21"
+    },
+    "24w40a": {
+      "id": "24w40a",
+      "path": "1.21/snapshots/24w40a",
+      "release_time": "2024-10-02T13:15:42+00:00",
       "type": "snapshots",
       "version": "1.21"
     }
