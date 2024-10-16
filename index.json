@@ -1,5 +1,5 @@
 {
-  "latest": "1.21.2-pre4",
+  "latest": "1.21.2-pre5",
   "latest_release": "1.21.1",
   "versions": {
     "18w01a": {
@@ -2883,6 +2883,13 @@
       "id": "1.21.2-pre4",
       "path": "1.21/pre-releases/1.21.2-pre4",
       "release_time": "2024-10-15T11:59:11+00:00",
+      "type": "pre-releases",
+      "version": "1.21"
+    },
+    "1.21.2-pre5": {
+      "id": "1.21.2-pre5",
+      "path": "1.21/pre-releases/1.21.2-pre5",
+      "release_time": "2024-10-16T13:30:35+00:00",
       "type": "pre-releases",
       "version": "1.21"
     }
