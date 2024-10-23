@@ -1,6 +1,6 @@
 {
-  "latest": "1.21.2",
-  "latest_release": "1.21.2",
+  "latest": "1.21.3",
+  "latest_release": "1.21.3",
   "versions": {
     "18w01a": {
       "id": "18w01a",
@@ -2911,6 +2911,13 @@
       "id": "1.21.2",
       "path": "1.21/releases/1.21.2",
       "release_time": "2024-10-22T09:58:55+00:00",
+      "type": "releases",
+      "version": "1.21"
+    },
+    "1.21.3": {
+      "id": "1.21.3",
+      "path": "1.21/releases/1.21.3",
+      "release_time": "2024-10-23T12:28:15+00:00",
       "type": "releases",
       "version": "1.21"
     }
