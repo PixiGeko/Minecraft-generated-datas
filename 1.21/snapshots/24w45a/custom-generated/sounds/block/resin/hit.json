@@ -1,0 +1,65 @@
+{
+  "subtitle": "subtitles.block.generic.hit",
+  "sounds": [
+    {
+      "name": "block/resin/resin_hit1",
+      "hash": "df30c439a7fea827f7ef1d7a54abbae651ebd407",
+      "weight": 1,
+      "type": "sounds",
+      "volume": 1,
+      "pitch": 1,
+      "attenuation_distance": 16,
+      "size": 7451,
+      "preload": false,
+      "stream": false
+    },
+    {
+      "name": "block/resin/resin_hit2",
+      "hash": "0f6c7d57311413cb61f6bc279d9710ceabbfda60",
+      "weight": 1,
+      "type": "sounds",
+      "volume": 1,
+      "pitch": 1,
+      "attenuation_distance": 16,
+      "size": 6552,
+      "preload": false,
+      "stream": false
+    },
+    {
+      "name": "block/resin/resin_hit3",
+      "hash": "5afaf53b31a9de520e00b961f58d84151c857068",
+      "weight": 1,
+      "type": "sounds",
+      "volume": 1,
+      "pitch": 1,
+      "attenuation_distance": 16,
+      "size": 7463,
+      "preload": false,
+      "stream": false
+    },
+    {
+      "name": "block/resin/resin_hit4",
+      "hash": "9f5f09aa859c07e1ba6edaa3e440b409a0090a6b",
+      "weight": 1,
+      "type": "sounds",
+      "volume": 1,
+      "pitch": 1,
+      "attenuation_distance": 16,
+      "size": 7339,
+      "preload": false,
+      "stream": false
+    },
+    {
+      "name": "block/resin/resin_hit5",
+      "hash": "5844f2e12a0ce40e762d5aa70e56fb4d08a60a35",
+      "weight": 1,
+      "type": "sounds",
+      "volume": 1,
+      "pitch": 1,
+      "attenuation_distance": 16,
+      "size": 7192,
+      "preload": false,
+      "stream": false
+    }
+  ]
+}
