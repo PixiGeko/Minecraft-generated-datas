@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "block/chorus_flower/death1",
-      "hash": "fad694e6c37b2b2369046ce88cddcad4b86a1c55",
+      "hash": "9660299d31b6a8d345b8b21f82934c49150de15a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16467,
+      "size": 16784,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/chorus_flower/death2",
-      "hash": "64ea3da2bfe8f994308140c734ca81a6fed4d4a7",
+      "hash": "93b2ae9bffbbf94cc94999dbfff9cb58e3009488",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16267,
+      "size": 16907,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/chorus_flower/death3",
-      "hash": "aa10d6c0b4941f35b7129ee0b9905536826f2422",
+      "hash": "f35eec6a4dc2653bef2cd489c1fc1b2ec96c45e3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10243,
+      "size": 10738,
       "preload": false,
       "stream": false
     }

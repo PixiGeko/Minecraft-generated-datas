@@ -3,94 +3,94 @@
   "sounds": [
     {
       "name": "enchant/soulspeed/soulspeed1",
-      "hash": "b7a10eb7a5b4790de396c3fabdf3ed60c2155cc1",
+      "hash": "e6c779bd9afddd64386267151d5be140378e5c2a",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 74912
+      "size": 32448
     },
     {
       "name": "enchant/soulspeed/soulspeed2",
-      "hash": "dea18386186cf549385af87f3dd768cf03fd084e",
+      "hash": "e6b0a68a971f744318c220a3a8f6e0c63ca2e48c",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 44313
+      "size": 24026
     },
     {
       "name": "enchant/soulspeed/soulspeed3",
-      "hash": "e8269fbb811a2b27faf8e76146383db076c87685",
+      "hash": "0ccca22fee32f342be3f886e5202025800a742c0",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 49310
+      "size": 24875
     },
     {
       "name": "enchant/soulspeed/soulspeed4",
-      "hash": "ea7439281fef4cc62b47ef360929a57ec0429af1",
+      "hash": "db82fb7505c936e1b5a03c4464bd10963f3c64ce",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 63051
+      "size": 27590
     },
     {
       "name": "enchant/soulspeed/soulspeed5",
-      "hash": "8295545fc25a424563095fbe171123c5ae90fe5c",
+      "hash": "bde5dc6ef9a98a6ba115d6841e57c9585fb73381",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 56464
+      "size": 24686
     },
     {
       "name": "enchant/soulspeed/soulspeed6",
-      "hash": "4696189415397c951c0ec1656af648fc06d62330",
+      "hash": "0ead26ea56117ce0715c4c9d8266a0e4ad92c275",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 58816
+      "size": 25266
     },
     {
       "name": "enchant/soulspeed/soulspeed7",
-      "hash": "4c0fdad0f1b2462f5a0defbefd5d859f27e2342a",
+      "hash": "d07596a3ffb5c61fba9e72813caab952dd32635d",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 69773
+      "size": 29332
     },
     {
       "name": "enchant/soulspeed/soulspeed8",
-      "hash": "d2c8cfdaa72305648c28bbd00a61e1891bb80a18",
+      "hash": "824eadc9623fec95a1e1e330e48852e3dbbcbf77",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 64895
+      "size": 27708
     },
     {
       "name": "enchant/soulspeed/soulspeed9",
-      "hash": "b7af765da37a4774fde952d56c9992cf9ead4236",
+      "hash": "0ea63ab9ae3849d51863299604e7fbbfed7cbfdb",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 60922
+      "size": 25763
     },
     {
       "name": "enchant/soulspeed/soulspeed10",
-      "hash": "94e9fe2f2f4f2c8e247f1e2c8af518ce6e453b83",
+      "hash": "134d89171222ab13b8f6a0c265c2e27feb08a45d",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 66602
+      "size": 28155
     },
     {
       "name": "enchant/soulspeed/soulspeed11",
-      "hash": "af6709040b9604112f6e0065ab86eb61073ac5f2",
+      "hash": "f168111f74c7b2b44dbee6b4e72d0300fa3a8b99",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 51137
+      "size": 25404
     },
     {
       "name": "enchant/soulspeed/soulspeed12",
-      "hash": "e0e19b8aef63b93f51623eee40a45f6e14623e4f",
+      "hash": "bf7ad9e27109632f03424ade68c3e4330e623c82",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 54491
+      "size": 25267
     },
     {
       "name": "enchant/soulspeed/soulspeed13",
-      "hash": "17971c954653dab1e8a3adfb9fe0b6e76501cd82",
+      "hash": "711ded3c88295be8e4fa5fe657ee9e459aacd033",
       "volume": 0.25,
       "attenuation_distance": 12,
-      "size": 56718
+      "size": 25955
     }
   ]
 }

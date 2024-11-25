@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/allay/item_given1",
-      "hash": "62df046cd04e3575a1c71969f537227eb0841c0c",
+      "hash": "b68a7ddc65e8113ce2522ce53bcf28dddb198a15",
       "volume": 0.1,
-      "size": 37205
+      "size": 15305
     },
     {
       "name": "mob/allay/item_given2",
-      "hash": "c53004e94dd5e1938d7d1d24aab2d7047f4f7277",
+      "hash": "fe80b22bc6159a72e19acc60e1d36b5db1c67d3c",
       "volume": 0.1,
-      "size": 38445
+      "size": 15985
     },
     {
       "name": "mob/allay/item_given3",
-      "hash": "a3a44e2f8890a2a57705bbe886b8960e4c2d3e53",
+      "hash": "e6432134389e4c93f338133caef3d1af20bb62ae",
       "volume": 0.1,
-      "size": 41476
+      "size": 16108
     },
     {
       "name": "mob/allay/item_given4",
-      "hash": "5def13c4e70335dcd666ab1b15488185e6b6bbc6",
+      "hash": "89edf6c17693361003a04db7f240bdc434fc48a8",
       "volume": 0.1,
-      "size": 38711
+      "size": 15851
     }
   ]
 }

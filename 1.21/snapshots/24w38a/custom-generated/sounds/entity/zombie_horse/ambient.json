@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/horse/zombie/idle1",
-      "hash": "ef1fea92382e98356a8c39e3c99b91d72d55f342",
+      "hash": "acc9d1a98ab8e680182ff461ff67aff4810d9583",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13283,
+      "size": 14372,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/zombie/idle2",
-      "hash": "fef8520e0d345fdc7c270687c8e4fca62be36c76",
+      "hash": "37f4c7a3a20b6d48b8f467381ee4e73bbf8c09dc",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13333,
+      "size": 14459,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/zombie/idle3",
-      "hash": "9d034bf3ba36b297487b2380b908713982a83a3a",
+      "hash": "750e4dbf74fe89f116d749d3aa1e619f32ee436e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12120,
+      "size": 13113,
       "preload": false,
       "stream": false
     }

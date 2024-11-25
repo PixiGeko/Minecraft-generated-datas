@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "note/guitar",
-      "hash": "3ea516355b5ec2bef08d9e6aa3ebc6626acb583b",
+      "hash": "4c237fdb2ea5f970c73b18dc7d17df4c5439fbed",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7989,
+      "size": 7827,
       "preload": false,
       "stream": false
     }

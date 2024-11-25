@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "entity/armorstand/hit1",
-      "hash": "155de9993fbc036f371d9fee50c8b2012dc5adce",
+      "hash": "a021158e44a44ca64443eb86d591847374349daa",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7423,
+      "size": 7804,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/armorstand/hit2",
-      "hash": "504362657a72f3ecb1d694989c23c497310cc471",
+      "hash": "d9ca1f6db0fd7108c3806a99e8d70f4f6e9ba45c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6503,
+      "size": 6852,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/armorstand/hit3",
-      "hash": "136cc386976d1901f9b3b374a71d987efb50dce6",
+      "hash": "984d3aaaba9e8bfd10a7edb77de46b975be8e25a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6075,
+      "size": 6455,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/armorstand/hit4",
-      "hash": "6c83307ca1f6d7484d2899f381801713cdf06bbe",
+      "hash": "87b1f12d7daa327c65c66ac44569eca9ab4bc4d7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6078,
+      "size": 6426,
       "preload": false,
       "stream": false
     }

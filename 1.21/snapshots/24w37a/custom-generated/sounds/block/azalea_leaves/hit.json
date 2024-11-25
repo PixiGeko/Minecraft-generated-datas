@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "block/azalea_leaves/step1",
-      "hash": "cc0c3bfd2ed157c19a795263b1549fc9b941b4c3",
+      "hash": "e91322c3fc6f86883e3d4b56e642b959465067b8",
       "volume": 0.8,
-      "size": 16823
+      "size": 7315
     },
     {
       "name": "block/azalea_leaves/step2",
-      "hash": "1967d467023f77d462971e3b4ff46042d029adb9",
+      "hash": "0976802baf73753eb8feba5beb05f11053c593e2",
       "volume": 0.8,
-      "size": 28107
+      "size": 10726
     },
     {
       "name": "block/azalea_leaves/step3",
-      "hash": "a7c685463aa038e754845ae3082b8ca162790bf6",
+      "hash": "a1d536a39ee1de7d61e580e6dc27f00ce9c2ec15",
       "volume": 0.8,
-      "size": 19060
+      "size": 7813
     },
     {
       "name": "block/azalea_leaves/step4",
-      "hash": "79d04ef130c1369b1aef68b7690e8ef86823a5eb",
+      "hash": "bcd0f038e531be361b2aaedfdce952a76bcad3ce",
       "volume": 0.8,
-      "size": 22467
+      "size": 8772
     },
     {
       "name": "block/azalea_leaves/step5",
-      "hash": "725790374af48a19077b10c4a0882741a5f04ca3",
+      "hash": "4ecb1cb31b563bbce5dc4867fa68032e9f5f7e0f",
       "volume": 0.8,
-      "size": 18838
+      "size": 7688
     }
   ]
 }

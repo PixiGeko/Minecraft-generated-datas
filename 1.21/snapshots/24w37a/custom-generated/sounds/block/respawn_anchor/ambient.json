@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "block/respawn_anchor/ambient1",
-      "hash": "c24afd676ea823e441da80b2a0eb937fefccba82",
+      "hash": "defd232c21ece141935cea0bdb9f174a8f33feec",
       "attenuation_distance": 7,
-      "size": 101775
+      "size": 39678
     },
     {
       "name": "block/respawn_anchor/ambient2",
-      "hash": "88c545f683cdf403c61ac3d317375480e497262f",
+      "hash": "666c560b860bfac36cbac7b015a24ccad0500db6",
       "attenuation_distance": 7,
-      "size": 113082
+      "size": 46462
     },
     {
       "name": "block/respawn_anchor/ambient3",
-      "hash": "ac48cfdad236451851816dcc507d024197b49355",
+      "hash": "9ef36a3e43ddd991266031eeb29914d619993d2e",
       "attenuation_distance": 7,
-      "size": 129200
+      "size": 51667
     }
   ]
 }

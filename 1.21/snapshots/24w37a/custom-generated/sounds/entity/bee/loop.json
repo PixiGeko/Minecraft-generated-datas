@@ -3,45 +3,45 @@
   "sounds": [
     {
       "name": "mob/bee/loop1",
-      "hash": "a49599ccb17bff94074692a3cbfc4643355bafd5",
+      "hash": "ed6e39704f157207ceec704fa12367b4fb5fd915",
       "volume": 0.6,
       "attenuation_distance": 6,
-      "size": 149030
+      "size": 56027
     },
     {
       "name": "mob/bee/loop2",
-      "hash": "c97ad8228e7d9fff827e30243695e5d98259679d",
+      "hash": "20b1958fea9069befbb20cb494761d2402fb0240",
       "volume": 0.6,
       "attenuation_distance": 6,
-      "size": 109270
+      "size": 41150
     },
     {
       "name": "mob/bee/loop3",
-      "hash": "d79b164ee314385cf178db7247a0601bb07863dd",
+      "hash": "4bfefe2ba00af801702211fafc868aebac5d795b",
       "volume": 0.65,
       "attenuation_distance": 6,
-      "size": 169418
+      "size": 49864
     },
     {
       "name": "mob/bee/loop4",
-      "hash": "f4f3b88d93c35e60b5af8ddb0a99d1b466f047b5",
+      "hash": "355793d4197fdab0e194d9e862f2fcd13c7377a1",
       "volume": 0.65,
       "attenuation_distance": 6,
-      "size": 168138
+      "size": 51460
     },
     {
       "name": "mob/bee/loop5",
-      "hash": "baaf01880361c143df0abbbef934e60089bd602f",
+      "hash": "4536569ebac20ed5b5ad7d3f4cb10d7346fb80e8",
       "volume": 0.7,
       "attenuation_distance": 6,
-      "size": 135880
+      "size": 40682
     },
     {
       "name": "mob/bee/loop5",
-      "hash": "baaf01880361c143df0abbbef934e60089bd602f",
+      "hash": "4536569ebac20ed5b5ad7d3f4cb10d7346fb80e8",
       "volume": 0.75,
       "attenuation_distance": 6,
-      "size": 135880
+      "size": 40682
     }
   ]
 }

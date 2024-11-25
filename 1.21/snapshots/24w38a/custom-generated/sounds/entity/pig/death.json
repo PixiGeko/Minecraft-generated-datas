@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/pig/death",
-      "hash": "4bc87ab869e17732a20c7518a327136baf5b2c26",
+      "hash": "49b6b073bc60bca804c3ad0bc28dc547361ebd3e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13694,
+      "size": 9226,
       "preload": false,
       "stream": false
     }

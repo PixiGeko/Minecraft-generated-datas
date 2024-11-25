@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/villager/no1",
-      "hash": "255f7e21123c3647bd80c973e6a73d7854b2a1be",
+      "hash": "323c80e65c321928f08ca320b1f8eb4b95acfa3b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7715,
+      "size": 8819,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/villager/no2",
-      "hash": "f224168e178eca861af133c78209b662c4d1e452",
+      "hash": "f0621ec9192760a9ab4a97f279613b05320092b4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7051,
+      "size": 7644,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/villager/no3",
-      "hash": "9b8737d639df9e7ef99ceef49ce11df42eea9f12",
+      "hash": "dbc7170260fd83dcc1e35ef352b0ab2667711b64",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8697,
+      "size": 9232,
       "preload": false,
       "stream": false
     }

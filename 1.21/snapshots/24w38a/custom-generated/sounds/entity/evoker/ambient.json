@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/evocation_illager/idle1",
-      "hash": "2e07d453eb202ad118188afab747735ee30c4fee",
+      "hash": "86d6f58ce7ae38547cbe6953043b66c53fed5d1c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9105,
+      "size": 9126,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/evocation_illager/idle2",
-      "hash": "658ff4745a987397d73d88433beacdd10ed77060",
+      "hash": "e691b03bd2617dfdc13abbaa53acda1bae060b50",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6601,
+      "size": 7158,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/evocation_illager/idle3",
-      "hash": "29a8dc6ba0be69c30a30554d4df2897e7080e4c6",
+      "hash": "48585e48180eb593a5eaada25365c3fe123ac938",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11726,
+      "size": 11692,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/evocation_illager/idle4",
-      "hash": "38c7a291e6f92671edfc93ed417190007360ccc8",
+      "hash": "6b66557e4f1c10f571b830621286093c07d7892b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13518,
+      "size": 13370,
       "preload": false,
       "stream": false
     }

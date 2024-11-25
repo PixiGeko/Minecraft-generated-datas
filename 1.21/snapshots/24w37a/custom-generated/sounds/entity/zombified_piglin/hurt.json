@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/zombified_piglin/zpighurt1",
-      "hash": "a2cfbea288280419ec0c8fb75d8ee5395536ac02",
+      "hash": "7be727ea16b9a261665b8419397115f13a0966b6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6935,
+      "size": 10574,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/zombified_piglin/zpighurt2",
-      "hash": "d1917b9be91d60a40dd0bf804580c1f494e9ae6d",
+      "hash": "cac9dc33a726571ddb0c5afe19e10384191a4395",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6245,
+      "size": 9174,
       "preload": false,
       "stream": false
     }

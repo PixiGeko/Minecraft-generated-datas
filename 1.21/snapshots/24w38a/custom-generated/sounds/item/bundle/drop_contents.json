@@ -3,57 +3,57 @@
   "sounds": [
     {
       "name": "item/bundle/drop_contents1",
-      "hash": "babd09368ea2958cab6847e38cda13c115b3d014",
+      "hash": "fb00d15fdc16cadb33091b3af851bfa10faa0e1c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 22779,
+      "size": 9025,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bundle/drop_contents1",
-      "hash": "babd09368ea2958cab6847e38cda13c115b3d014",
+      "hash": "fb00d15fdc16cadb33091b3af851bfa10faa0e1c",
       "pitch": 0.95,
-      "size": 22779
+      "size": 9025
     },
     {
       "name": "item/bundle/drop_contents2",
-      "hash": "3cab25ea3eaa1b92fe6ccbc6691b41a911819ffe",
+      "hash": "0b6a8010c62e24588a902e4224279c1ee25acb09",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 22840,
+      "size": 8756,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bundle/drop_contents2",
-      "hash": "3cab25ea3eaa1b92fe6ccbc6691b41a911819ffe",
+      "hash": "0b6a8010c62e24588a902e4224279c1ee25acb09",
       "pitch": 0.95,
-      "size": 22840
+      "size": 8756
     },
     {
       "name": "item/bundle/drop_contents3",
-      "hash": "aef0f1e4974e77bcb0b17fb0a71e6aedb56f6b2e",
+      "hash": "27c7f7454d70a924977b0f239febbbbde87ac06a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23682,
+      "size": 9232,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bundle/drop_contents3",
-      "hash": "aef0f1e4974e77bcb0b17fb0a71e6aedb56f6b2e",
+      "hash": "27c7f7454d70a924977b0f239febbbbde87ac06a",
       "pitch": 0.95,
-      "size": 23682
+      "size": 9232
     }
   ]
 }

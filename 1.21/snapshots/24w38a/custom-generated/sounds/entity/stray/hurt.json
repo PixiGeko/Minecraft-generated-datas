@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/stray/hurt1",
-      "hash": "a92ffafc8fdf95a553ce0bbf1bc106a3394daca2",
+      "hash": "803e8806639566aaaf0c4fe4ae76103b19646fcc",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8397,
+      "size": 8700,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/stray/hurt2",
-      "hash": "b0bdac0097af7d17b88f86f4f19767f0a05c12ae",
+      "hash": "f321c0d7ab19678573ccc95bb28a3583269e0433",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8126,
+      "size": 8365,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/stray/hurt3",
-      "hash": "5e64ed082336f118a07fbaa08616c94815546f8a",
+      "hash": "ccec8bf252bd7b0ee27be14ffa45b552f4fc4f66",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8995,
+      "size": 9352,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/stray/hurt4",
-      "hash": "b88bbb3d20be99db054e38b3025c6a730a03a6a7",
+      "hash": "63907313270d5d87a92111082e1a85f394153ace",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8585,
+      "size": 8779,
       "preload": false,
       "stream": false
     }

@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/strider/death1",
-      "hash": "b0f5ab2647382bfa90cd3a6b7967ac7cb265b7af",
+      "hash": "14031867b855e073c024cdbc3f21b9c25be7d007",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 40721,
+      "size": 16697,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/strider/death2",
-      "hash": "b963ba21b7c77fffc9e664957fa861793bca6992",
+      "hash": "7c7ad950734bf39a46092b1d9650c1255fdbfdd3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 28785,
+      "size": 14283,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/strider/death3",
-      "hash": "e06a61667d9b5158b7321da5123d00d28f7e3084",
+      "hash": "63d38dff7a8f122fd7b329b2a8d346cd9974d764",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 40205,
+      "size": 18419,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/strider/death4",
-      "hash": "54a0745233e57a5c3e046fe4948329beb2a701b1",
+      "hash": "9f67b65cc7b88859764467476504cb25d03f89fc",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 33978,
+      "size": 14407,
       "preload": false,
       "stream": false
     }

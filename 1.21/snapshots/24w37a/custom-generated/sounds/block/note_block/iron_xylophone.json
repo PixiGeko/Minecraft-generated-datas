@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "note/iron_xylophone",
-      "hash": "10d20bc6c141437a898f73ec631e26efaf36f0b8",
+      "hash": "f0c022a51c4e496fe8b57ee6a769e01e5b321e4d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9559,
+      "size": 7385,
       "preload": false,
       "stream": false
     }

@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/breeze/wind_burst1",
-      "hash": "ed1eb91a8f52c44fab47bfae8502a0758e0fcaff",
+      "hash": "88fcac4f179539ebd3fb60d92db4cdbf16266ddd",
       "pitch": 1.2,
-      "size": 55992
+      "size": 19287
     },
     {
       "name": "mob/breeze/wind_burst2",
-      "hash": "bfb5ae6dc11ef5c6c863c822da59e10497195c47",
+      "hash": "f51bb9bbe6c1b2c4e0acc313908e9cd768b8c449",
       "pitch": 1.2,
-      "size": 47223
+      "size": 17029
     },
     {
       "name": "mob/breeze/wind_burst3",
-      "hash": "b980f449c9fde0ca1422e44e3d1605185f0c595f",
+      "hash": "32b595ddc5004a2bff43d90ed029a2cf934f0ac0",
       "pitch": 1.2,
-      "size": 41312
+      "size": 15054
     }
   ]
 }

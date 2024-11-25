@@ -3,55 +3,55 @@
   "sounds": [
     {
       "name": "item/armor/equip_netherite1",
-      "hash": "d1c98c672f1a4039accf2f396ebc78fd0403e1e9",
+      "hash": "a3ed04daf5a6a405fa3964b37ceda19b43a8c777",
       "volume": 0.8,
-      "size": 18827
+      "size": 7773
     },
     {
       "name": "item/armor/equip_netherite1",
-      "hash": "d1c98c672f1a4039accf2f396ebc78fd0403e1e9",
+      "hash": "a3ed04daf5a6a405fa3964b37ceda19b43a8c777",
       "volume": 0.8,
       "pitch": 0.9,
-      "size": 18827
+      "size": 7773
     },
     {
       "name": "item/armor/equip_netherite2",
-      "hash": "4352b68f2bf2baf46e6ea07be4a7688efdf5b29d",
+      "hash": "0f26ee9bab891d6b9a12de80aca8ab86be8a4eba",
       "volume": 0.8,
-      "size": 19657
+      "size": 8443
     },
     {
       "name": "item/armor/equip_netherite2",
-      "hash": "4352b68f2bf2baf46e6ea07be4a7688efdf5b29d",
+      "hash": "0f26ee9bab891d6b9a12de80aca8ab86be8a4eba",
       "volume": 0.8,
       "pitch": 0.9,
-      "size": 19657
+      "size": 8443
     },
     {
       "name": "item/armor/equip_netherite3",
-      "hash": "4d6fbd39a70f04444eb76f2c873de7c524e13fc7",
+      "hash": "324ef0c8d043e6c4246efad337ed07d84b59c84e",
       "volume": 0.8,
-      "size": 20043
+      "size": 8681
     },
     {
       "name": "item/armor/equip_netherite3",
-      "hash": "4d6fbd39a70f04444eb76f2c873de7c524e13fc7",
+      "hash": "324ef0c8d043e6c4246efad337ed07d84b59c84e",
       "volume": 0.8,
       "pitch": 0.9,
-      "size": 20043
+      "size": 8681
     },
     {
       "name": "item/armor/equip_netherite4",
-      "hash": "1ffc6f4549c2a00c29ebe5cd54d907ea9345df9e",
+      "hash": "3ef1282ef1b9783f295770629b0deb9a018858a4",
       "volume": 0.8,
-      "size": 22796
+      "size": 10087
     },
     {
       "name": "item/armor/equip_netherite4",
-      "hash": "1ffc6f4549c2a00c29ebe5cd54d907ea9345df9e",
+      "hash": "3ef1282ef1b9783f295770629b0deb9a018858a4",
       "volume": 0.8,
       "pitch": 0.9,
-      "size": 22796
+      "size": 10087
     }
   ]
 }

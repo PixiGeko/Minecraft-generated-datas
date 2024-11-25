@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/spider/death",
-      "hash": "4c69a6edc25d973999aa0db2bb46b583a31da278",
+      "hash": "eec5d186206792d2c650e1dbaa9c8796c56d2ea3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14380,
+      "size": 15134,
       "preload": false,
       "stream": false
     }

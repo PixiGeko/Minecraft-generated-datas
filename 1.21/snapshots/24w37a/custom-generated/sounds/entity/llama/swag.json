@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/llama/swag",
-      "hash": "14802b4346986369a7bbf616ebc4023e34e4f517",
+      "hash": "8c4623fe4b3d3a2000cb597ff07c430d4d0bfb3a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8476,
+      "size": 8900,
       "preload": false,
       "stream": false
     }

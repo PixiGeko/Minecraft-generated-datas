@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/enderdragon/hit1",
-      "hash": "aedeb53dd3315f964ff4d10d0003e4c5f41d1bb0",
+      "hash": "59cc1d9f09157d334c52db5b79da04f8d56c11bf",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11056,
+      "size": 12273,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/enderdragon/hit2",
-      "hash": "46e5db05b1e91ce33c9c4c63260227fa629230f4",
+      "hash": "1933ea18af228a0d39e26c554adb396acdaee05b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10880,
+      "size": 11606,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/enderdragon/hit3",
-      "hash": "e96237fdf5e5e1aca09496b9192243651525d0ac",
+      "hash": "4634e0b38a0062a9e52a6079773bf252fb421761",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11158,
+      "size": 11834,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/enderdragon/hit4",
-      "hash": "d2c44730f6c93676d4e4316add92e424d0a71a33",
+      "hash": "d3df4915f7e23b900d472dba0468df0065ebc7ae",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10812,
+      "size": 11586,
       "preload": false,
       "stream": false
     }

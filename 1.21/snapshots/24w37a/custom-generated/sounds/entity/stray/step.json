@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/stray/step1",
-      "hash": "824c98d1073f33118669e34136d353fdcd662ef9",
+      "hash": "cbde9decd88888768847ab56b8e8e7be29b549b7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7370,
+      "size": 7628,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/stray/step2",
-      "hash": "d1cd2abdf431e76ef50d8bef1d937ed071583a85",
+      "hash": "55c3b12c57345802fe55fa7010a03c6861de94cf",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6635,
+      "size": 6942,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/stray/step3",
-      "hash": "9004d9238ef7effdcc7c9e94249d489248257874",
+      "hash": "d54773d09778e22a0c14e7913e2fbdf14a9b5429",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7133,
+      "size": 7442,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/stray/step4",
-      "hash": "2169e0302e1d7ce1e32dc8d41648c8059da5eaa7",
+      "hash": "bcec1afc6bd7eb00ecf3706aad798726414b6ee6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8524,
+      "size": 8847,
       "preload": false,
       "stream": false
     }

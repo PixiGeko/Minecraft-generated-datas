@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "random/eat1",
-      "hash": "dfee39084c771182f6b9e7cfb8c8bc4e255747bc",
+      "hash": "ebf6fcfa3dd26d6f684fd90388221d4ee4a1af1d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5678,
+      "size": 6185,
       "preload": false,
       "stream": false
     },
     {
       "name": "random/eat2",
-      "hash": "d26bde554d88f0ca156baf471c44ce2c0e68176c",
+      "hash": "608792c62e053a9ddf9fc3bd493a6da1437ad36a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5677,
+      "size": 6605,
       "preload": false,
       "stream": false
     },
     {
       "name": "random/eat3",
-      "hash": "9f2c4bab5ed55f1714fffa223985c81babc8f6c0",
+      "hash": "d8a23d7672a2e277c8a0c08e131fded629fb5db7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5813,
+      "size": 6339,
       "preload": false,
       "stream": false
     }

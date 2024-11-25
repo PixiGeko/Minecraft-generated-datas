@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "mob/camel/stand1",
-      "hash": "0f28236aa3e920a9aee2fd271972c5eb29e5231d",
+      "hash": "03b56f10188fb173d2c5d767674d55b9f5ff9902",
       "volume": 0.3,
-      "size": 76527
+      "size": 26187
     },
     {
       "name": "mob/camel/stand2",
-      "hash": "f21c164230f6a7695c4a13373e99456a53d1a006",
+      "hash": "05e98ef311575355390b4b06f103553e24b2f027",
       "volume": 0.3,
-      "size": 56532
+      "size": 20758
     },
     {
       "name": "mob/camel/stand3",
-      "hash": "a9a36ffe2edfdb364933693e58affc06357a1216",
+      "hash": "8d8da2d91cf0ebf4400de8ac8a65a3bbbf0d11a7",
       "volume": 0.3,
-      "size": 61124
+      "size": 22275
     },
     {
       "name": "mob/camel/stand4",
-      "hash": "935dd0ba88d273ddb5bdbfa61590bc8e1fc6e2ae",
+      "hash": "6762f9d4601780c97734e713bd54568c9ba3c687",
       "volume": 0.3,
-      "size": 58491
+      "size": 21435
     },
     {
       "name": "mob/camel/stand5",
-      "hash": "bdb4d17a92f52f86cb717742e37bd2d09d2e37d1",
+      "hash": "b29373839b9b8ee96afeede958312e7ea783f660",
       "volume": 0.3,
-      "size": 72962
+      "size": 25859
     }
   ]
 }

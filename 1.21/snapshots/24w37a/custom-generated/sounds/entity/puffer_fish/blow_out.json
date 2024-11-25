@@ -3,15 +3,15 @@
   "sounds": [
     {
       "name": "entity/pufferfish/blow_out1",
-      "hash": "2b39e6f85286eb29d02f76d3e6560d09040f0d65",
+      "hash": "f2c8022f3dcd8ea20a491fc348ffe3943d94d9ef",
       "volume": 0.7,
-      "size": 16965
+      "size": 9741
     },
     {
       "name": "entity/pufferfish/blow_out2",
-      "hash": "6d7b8dee1c4246bbcd8d860a99235f5adc0693cf",
+      "hash": "50ec7ecc3244655688e27bf8169a94fd0c12e7ce",
       "volume": 0.7,
-      "size": 16726
+      "size": 9194
     }
   ]
 }

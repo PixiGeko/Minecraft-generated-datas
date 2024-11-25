@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "block/sculk/spread1",
-      "hash": "db6baadfe50569202fbbc9312b8e8ca4592d116e",
+      "hash": "68e60273efbd711121dd926c5811b4c20da743b3",
       "pitch": 0.9,
-      "size": 21137
+      "size": 10339
     },
     {
       "name": "block/sculk/spread2",
-      "hash": "7b4ef660f407d0c1d10d722a10f0694617f00662",
+      "hash": "71de59f2a2e80284b82b321d2ab715bda93ba2ff",
       "pitch": 0.9,
-      "size": 19707
+      "size": 8488
     },
     {
       "name": "block/sculk/spread3",
-      "hash": "ba20eabc37670971914474ea333bf37fef54d4f8",
+      "hash": "3ae880252601ad23cb57438b04bd6680522be664",
       "pitch": 0.9,
-      "size": 17980
+      "size": 8702
     },
     {
       "name": "block/sculk/spread4",
-      "hash": "7fb1c7ec4d2022bc1532819894abacfc319e6feb",
+      "hash": "89508f92c6917da7dd5e1a5945936f12e53529da",
       "pitch": 0.9,
-      "size": 14350
+      "size": 6762
     },
     {
       "name": "block/sculk/spread5",
-      "hash": "456b47c7a7ca032fa0f2f06926bf17231f8065f5",
+      "hash": "b1d5d976d5dbc91c986e6a70ef1297c3afdc9813",
       "pitch": 0.9,
-      "size": 19409
+      "size": 8611
     }
   ]
 }

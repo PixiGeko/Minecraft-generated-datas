@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "block/cauldron/dye1",
-      "hash": "23af44d4ebfc4bb8245e3fe1906e620daf78367c",
+      "hash": "0666acde6adbf946a8c9c0c135db96ed341f1421",
       "volume": 0.9,
-      "size": 39603
+      "size": 16659
     },
     {
       "name": "block/cauldron/dye2",
-      "hash": "8375496eac88f2ca8e52693d2ce5cb4976539917",
+      "hash": "4b01bb0855e33b81ba104d0c94fdad473ddff3b7",
       "volume": 0.9,
-      "size": 38651
+      "size": 15312
     },
     {
       "name": "block/cauldron/dye3",
-      "hash": "135320552365d45103d97443ad9aa2a13c63a030",
+      "hash": "a7c9f2e15fe097e97bcc6d129e7e03b436fde783",
       "volume": 0.9,
-      "size": 36693
+      "size": 14478
     }
   ]
 }

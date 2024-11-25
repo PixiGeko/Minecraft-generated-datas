@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "event/mob_effects/raid_omen",
-      "hash": "ece87e0e7e8f9237c90d7ed06365d63bf1395ebb",
+      "hash": "51eda81eaa45fd035a53d251183653eb38884de9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 33430,
+      "size": 30403,
       "preload": false,
       "stream": false
     }

@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "item/armor/crack_wolf1",
-      "hash": "0ed6b38ec4330481ce313aa56e26802ee16189d1",
+      "hash": "0a9c7929a7ac1d4ade36b5a27dcdffbc6ed0bd74",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10205,
+      "size": 8904,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/armor/crack_wolf2",
-      "hash": "5baca02dca7ecee14f6f162cdddb0111d63d7482",
+      "hash": "28b18a97cc579a21c2435811757f234741a814c5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8991,
+      "size": 8376,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/armor/crack_wolf3",
-      "hash": "7f0e196daaf94450ecf7cf36efe21f8e02828e5b",
+      "hash": "498e22ffc5a433104da6fdef98ede32474ae24b4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11960,
+      "size": 10786,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/armor/crack_wolf4",
-      "hash": "6bf739fe311ec337600bed2ebfd3fac7dabaf4d3",
+      "hash": "1b55010b83389107e7950b585c082101fefb3afe",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10536,
+      "size": 9902,
       "preload": false,
       "stream": false
     }

@@ -3,9 +3,9 @@
   "sounds": [
     {
       "name": "block/conduit/deactivate",
-      "hash": "47b90cea6e64d6f5ea8f21ec00a760f2ab16b7b2",
+      "hash": "376554546bd7b0a108ff0be10ab4ba6389f0d125",
       "volume": 0.7,
-      "size": 64125
+      "size": 30629
     }
   ]
 }

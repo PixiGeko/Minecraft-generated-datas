@@ -3,15 +3,15 @@
   "sounds": [
     {
       "name": "mob/frog/lay_spawn1",
-      "hash": "84518a0f5353e7b9703b0ffa570c9e06e602008c",
+      "hash": "ea2bab54458a10b94a0ad0508d260df96d6a2016",
       "volume": 0.25,
-      "size": 14927
+      "size": 7612
     },
     {
       "name": "mob/frog/lay_spawn2",
-      "hash": "ef1d2fff6ae08312b4f41d71a66f7403d79905fb",
+      "hash": "d9cb13721d9857626ab832b633c5d2d1d8e5e38a",
       "volume": 0.25,
-      "size": 12551
+      "size": 6282
     }
   ]
 }

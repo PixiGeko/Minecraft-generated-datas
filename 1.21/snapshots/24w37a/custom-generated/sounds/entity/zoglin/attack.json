@@ -3,29 +3,29 @@
   "sounds": [
     {
       "name": "mob/zoglin/attack1",
-      "hash": "e52f8b58ee939123da80489af235de404710edc1",
+      "hash": "7001f57b712a6d03bbd924e8a8f4b36aedeeef56",
       "volume": 0.8,
-      "size": 20758
+      "size": 8703
     },
     {
       "name": "mob/zoglin/attack1",
-      "hash": "e52f8b58ee939123da80489af235de404710edc1",
+      "hash": "7001f57b712a6d03bbd924e8a8f4b36aedeeef56",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 20758
+      "size": 8703
     },
     {
       "name": "mob/zoglin/attack2",
-      "hash": "593ab48f7f92d6b84589222afdb2953f383cc78c",
+      "hash": "33a3f9645aad8c7d5ab8251b8f7fac67c5fb90ac",
       "volume": 0.8,
-      "size": 36440
+      "size": 13875
     },
     {
       "name": "mob/zoglin/attack2",
-      "hash": "593ab48f7f92d6b84589222afdb2953f383cc78c",
+      "hash": "33a3f9645aad8c7d5ab8251b8f7fac67c5fb90ac",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 36440
+      "size": 13875
     }
   ]
 }

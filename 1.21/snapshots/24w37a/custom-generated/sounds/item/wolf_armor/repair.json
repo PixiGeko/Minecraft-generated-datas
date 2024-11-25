@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "item/armor/repair_wolf1",
-      "hash": "f509239925846e79b4892d79bfb96c2f3c1e1e0e",
+      "hash": "3c435daad14ecb014d2b10681bdc579fb0f6383a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11368,
+      "size": 10175,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/armor/repair_wolf2",
-      "hash": "95b1be1afda74e2f278d0fa29489a4b7361c36b8",
+      "hash": "95cb05f2fe80e48c26c098922c67617ca31c7515",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11089,
+      "size": 9553,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/armor/repair_wolf3",
-      "hash": "5d9a0fe67d76e23dbb251c068d306ffd33edcc6d",
+      "hash": "3337aa5055fde65fc91ba5116fb83ca881b61b33",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10085,
+      "size": 9029,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/armor/repair_wolf4",
-      "hash": "abc827da22f5a9288fd562ea8b9b60593aa14640",
+      "hash": "ab154af601d656940408a300b8c283543b96b203",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9882,
+      "size": 8823,
       "preload": false,
       "stream": false
     }

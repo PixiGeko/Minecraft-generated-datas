@@ -3,31 +3,31 @@
   "sounds": [
     {
       "name": "entity/fish/flop1",
-      "hash": "a0cf662ca3aa0cece0f7b1a1ca79677edc76a491",
+      "hash": "6c0181e299523eb049795987bcd9261722f1c669",
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 14125
+      "size": 7615
     },
     {
       "name": "entity/fish/flop2",
-      "hash": "90575d7943863f224993ac6a583d6702ba5f4607",
+      "hash": "3932099acfba8a0deb270b414c6121b25d250a3c",
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 15242
+      "size": 7909
     },
     {
       "name": "entity/fish/flop3",
-      "hash": "f99b1795ca65dda4d74d83922fbb3af49bbd752f",
+      "hash": "09d7b8b447b3be33a021e055bbbc9345355c9f3f",
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 11320
+      "size": 6261
     },
     {
       "name": "entity/fish/flop4",
-      "hash": "25c195e57a783cf41bbae7ab7a417717b8fc0e0a",
+      "hash": "be9d8ea24b23fcc0e192df2698146b3d02451c4b",
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 12102
+      "size": 7311
     }
   ]
 }

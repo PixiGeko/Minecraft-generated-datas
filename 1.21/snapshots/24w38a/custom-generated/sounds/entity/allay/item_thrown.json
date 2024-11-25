@@ -3,9 +3,9 @@
   "sounds": [
     {
       "name": "mob/allay/item_thrown1",
-      "hash": "e56a9f248acfc53fd12e64a9d54ef14f2a7de5fb",
+      "hash": "4fb4b17f3aacd8cb53ce70c0c59a15767d97ec3a",
       "volume": 0.25,
-      "size": 26682
+      "size": 12075
     }
   ]
 }

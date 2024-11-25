@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "entity/snowman/hurt1",
-      "hash": "da71b9f569cffbd8b4c88dbd30767315aba8067b",
+      "hash": "c6405b145de8a51fd46d41eec8fa6082e29ed18e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6628,
+      "size": 7111,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/snowman/hurt2",
-      "hash": "50bf881d5a1a484f15f009bf0b86703111834516",
+      "hash": "8724b09ee35adb9ace9e61d670e5f353d1bfe11a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7087,
+      "size": 7487,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/snowman/hurt3",
-      "hash": "9a9d88fc2ba4c56b0089df4441f3a3ac1fcb8b0e",
+      "hash": "5094896e7cad39b5e02171fcfb46e4fd1f39faa5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6335,
+      "size": 6813,
       "preload": false,
       "stream": false
     }

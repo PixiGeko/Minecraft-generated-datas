@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "block/enderchest/close",
-      "hash": "5f3412ca2fe0141a412dfd66567aa13a26e89ec1",
+      "hash": "a76ef9378fc732b6df8902a9e1f1bc2ec6ce7fd0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7840,
+      "size": 7747,
       "preload": false,
       "stream": false
     }

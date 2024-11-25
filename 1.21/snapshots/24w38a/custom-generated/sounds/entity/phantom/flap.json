@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "mob/phantom/flap1",
-      "hash": "ee79756f04143b9e5c7ed9b3ac40b07a4c2dc872",
+      "hash": "05084588e272aca53e25940af43624f7a1449766",
       "volume": 0.9,
-      "size": 23438
+      "size": 15389
     },
     {
       "name": "mob/phantom/flap2",
-      "hash": "3a45316baca62f408e1ed9b2d7590935cef58ac1",
+      "hash": "9fa24ef0a1c545a8eb8014130dd022763f34f72e",
       "volume": 0.9,
-      "size": 27247
+      "size": 15766
     },
     {
       "name": "mob/phantom/flap3",
-      "hash": "801656b5bf62a6597cffe6ad91fc616fd51867fd",
+      "hash": "774ac8e0156d5afc13f49acd2c1193231c9ce383",
       "volume": 0.9,
-      "size": 23964
+      "size": 16097
     },
     {
       "name": "mob/phantom/flap4",
-      "hash": "c6c816f8889735b3f84e667a0ce1302cbe913c7e",
+      "hash": "e89273765e1e263333391605f1c1c33dfb9fd1a9",
       "volume": 0.9,
-      "size": 21587
+      "size": 12877
     },
     {
       "name": "mob/phantom/flap5",
-      "hash": "ffeb49a644259b2b6ed030ea27f097b22c2cc1a5",
+      "hash": "8e4ccaf6ce579b9951feacb9bfb8241ac1d94e48",
       "volume": 0.9,
-      "size": 21876
+      "size": 16048
     },
     {
       "name": "mob/phantom/flap6",
-      "hash": "dbedceff5ac5a6150ea4206a5aa05a21c5be5460",
+      "hash": "0308d7cbf420532ce02e650d13eb5c9f577b3067",
       "volume": 0.9,
-      "size": 22450
+      "size": 16338
     }
   ]
 }

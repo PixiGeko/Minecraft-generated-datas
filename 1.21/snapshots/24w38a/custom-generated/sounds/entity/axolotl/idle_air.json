@@ -3,56 +3,56 @@
   "sounds": [
     {
       "name": "mob/axolotl/idle_air1",
-      "hash": "398bdfb1b7b64dc83706f0d6ad824b70ce1f9569",
+      "hash": "89c8bd590966d3590a488567f376be501aa9d3be",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23291,
+      "size": 9106,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/axolotl/idle_air2",
-      "hash": "49ac74489b7a0463f8f08d54db100762ffbe2532",
+      "hash": "eefa3f8e293b2f05e43e2e1cac9e868b17bc19de",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19181,
+      "size": 8270,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/axolotl/idle_air3",
-      "hash": "bc781ad9f0f2a4480dea4646952c7d7bb1949d3d",
+      "hash": "290e827930e4333e78d13c08b2a2e341da29f1b2",
       "volume": 0.8,
       "pitch": 1.2,
-      "size": 19640
+      "size": 8412
     },
     {
       "name": "mob/axolotl/idle_air4",
-      "hash": "26549ef538f7406fb870432f3fe11a807c16ef82",
+      "hash": "a11cb77dfcf81418a9b562642a212cd1a4189add",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 24657,
+      "size": 9436,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/axolotl/idle_air5",
-      "hash": "1c262c483a694704cfe7badd978a9eeb49a167a0",
+      "hash": "9ba866dae3ef8f00106d91a611753daf6147ea58",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23333,
+      "size": 9503,
       "preload": false,
       "stream": false
     }

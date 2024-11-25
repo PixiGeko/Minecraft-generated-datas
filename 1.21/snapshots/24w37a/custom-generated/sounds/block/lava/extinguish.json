@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "random/fizz",
-      "hash": "c649e60ea9a99c97501a50d2dc4e579343e91ea8",
+      "hash": "bd76df5c882dc4b65925a8b25c0e7dbebef9bb2e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17002,
+      "size": 15222,
       "preload": false,
       "stream": false
     }

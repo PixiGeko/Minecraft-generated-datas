@@ -3,9 +3,9 @@
   "sounds": [
     {
       "name": "item/crossbow/loading_start",
-      "hash": "070f6bd78bcbf7a504a340870c713bfddbe030d6",
+      "hash": "7ac730a63061814535b75dece8711fc97e072654",
       "volume": 0.3,
-      "size": 29990
+      "size": 13727
     }
   ]
 }

@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "block/grindstone/grindstone1",
-      "hash": "035df7547acd8451e76b4f26fc01db3baeb6d006",
+      "hash": "ce7827134b654a394f9819ce77a1f3c9e0809070",
       "volume": 0.5,
-      "size": 19389
+      "size": 10281
     },
     {
       "name": "block/grindstone/grindstone2",
-      "hash": "2cf5f1639e8e3bdca4977dd0e46ac0d7cab42ecf",
+      "hash": "7bbbce598d019c64dd29959b6808bcd0b0e4d62b",
       "volume": 0.5,
-      "size": 26991
+      "size": 12336
     },
     {
       "name": "block/grindstone/grindstone3",
-      "hash": "9b665e99a4ae8eb6e3334f3750eda8a2485e798f",
+      "hash": "6b518182d367db6dd70fb81a204febd48821d4ef",
       "volume": 0.5,
-      "size": 29584
+      "size": 14431
     }
   ]
 }

@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "entity/itemframe/place1",
-      "hash": "fae49d67f7901e74e75c1343082096fd7f524ee7",
+      "hash": "dc788a6b10cd82aea9fb56f4c67eccaf53656fe2",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5362,
+      "size": 5860,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/itemframe/place2",
-      "hash": "dcddcc8d9845734c85e39afecb34cc2b1586905c",
+      "hash": "bb56db9d9bee7e10519d8010ccd350983ee4be87",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5009,
+      "size": 5453,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/itemframe/place3",
-      "hash": "06dafda29984d98c81df8cd5edeca2e96599f1f4",
+      "hash": "e9b9d6122cc2aba27ba876e5d6fc9fbb44d45e1b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5218,
+      "size": 5594,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/itemframe/place4",
-      "hash": "d6a7e9b6882630bc21a0efad67dcccd12ccb2eb5",
+      "hash": "dce04a1db885f8291e719977f560b96707df8147",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4542,
+      "size": 4998,
       "preload": false,
       "stream": false
     }

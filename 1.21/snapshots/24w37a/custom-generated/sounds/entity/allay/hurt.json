@@ -3,17 +3,17 @@
   "sounds": [
     {
       "name": "mob/allay/hurt1",
-      "hash": "d2b828c3e293a79503066437b747ab478fcf0182",
+      "hash": "a58f05597ae455373587e39f5d04eb7035d37cad",
       "volume": 0.8,
       "pitch": 1.5,
-      "size": 29055
+      "size": 12247
     },
     {
       "name": "mob/allay/hurt2",
-      "hash": "ebf587cdec36f56f65d35399254616f13a299e2e",
+      "hash": "cbfd69a8915dbdd6ba2331775f1896e6667eaaec",
       "volume": 0.8,
       "pitch": 1.5,
-      "size": 30660
+      "size": 12477
     }
   ]
 }

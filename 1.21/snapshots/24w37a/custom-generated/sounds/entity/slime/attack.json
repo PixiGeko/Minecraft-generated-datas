@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/slime/attack1",
-      "hash": "075e1ea92d5564d7bdf267ae975044315a41a686",
+      "hash": "c79241eee16ad345aba39b93f6e35d46c679fb25",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7806,
+      "size": 8832,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/slime/attack2",
-      "hash": "f6e2067571631aae206000a501c9adebe862e32a",
+      "hash": "5fb99bb93fb8a88844a7026b5ac3c906f053761e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7391,
+      "size": 7975,
       "preload": false,
       "stream": false
     }

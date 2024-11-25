@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/turtle/egg/jump_egg1",
-      "hash": "4fd5e63658d0c3f6495b8a56ed266f9923b404e2",
+      "hash": "f7e2e72cde7a1843375ec84428e8ec23e7e8f0da",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12528,
+      "size": 7874,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/egg/jump_egg2",
-      "hash": "5481fa7661670b3bdb942a15b7c3639f64be9961",
+      "hash": "5f38b63f4b9f7ce7640db73b6b9be4131629626e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15619,
+      "size": 9008,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/egg/jump_egg3",
-      "hash": "c63cfdcab6933d585a7feffb5e2c57899e11d556",
+      "hash": "fd27e5e8ab5f65e279180333ff6b5d952f639d62",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14623,
+      "size": 8240,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/egg/jump_egg4",
-      "hash": "0671f582b7c77b8cd33e82f8fdd6d1e95a7f6fb8",
+      "hash": "ddd41cdbf69a8fd9acdc36b1267735f8eb3712de",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18705,
+      "size": 10098,
       "preload": false,
       "stream": false
     }

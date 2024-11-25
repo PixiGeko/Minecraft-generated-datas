@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/zombie/metal1",
-      "hash": "d5b2d34e0c07a6c09c1adb17a15e50a626a88bc1",
+      "hash": "c61f0e983f4ab8acf150ed87805127aebd05b14c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8632,
+      "size": 10259,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/zombie/metal2",
-      "hash": "6c5a03460012d7b76c16d0dbaa01c443a6ba094e",
+      "hash": "a19eea7979d380661c1514a5d999e99e0eb61ee6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8889,
+      "size": 10662,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/zombie/metal3",
-      "hash": "322374d89ed809e75005cdc4f6479c959e15aee2",
+      "hash": "65919863c0a6fbb0ae175f1b2d9061532b1fd725",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8843,
+      "size": 10441,
       "preload": false,
       "stream": false
     }

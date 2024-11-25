@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/nether_wood_hanging_sign/break1",
-      "hash": "6823db7ff463d382f8e8017eea88c556308af79b",
+      "hash": "f32d15105885aa1a9956caa8032cc0b1e42cdd39",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18219,
+      "size": 8401,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/nether_wood_hanging_sign/break2",
-      "hash": "f22bba3d03b7469f194ee607f184a855cf33bd2f",
+      "hash": "d83668d3039380fa037aed5095044a06fef7a035",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15472,
+      "size": 7210,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/nether_wood_hanging_sign/break3",
-      "hash": "8c5f8f6ba499bc185e4133961c44129e806d2d1a",
+      "hash": "517a67bab994f6605fe10596da833b6185695dfe",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19157,
+      "size": 8413,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/nether_wood_hanging_sign/break4",
-      "hash": "f7e5befb2c3839b817c76d2dd118aaa57d9888dc",
+      "hash": "f7115c7f46d066c30fb62e85a9957e7d3c16b82f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16745,
+      "size": 7550,
       "preload": false,
       "stream": false
     }

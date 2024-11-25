@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/armadillo/hurt_reduced1",
-      "hash": "4feea37a3f783e2c9ea844ef2b4ee9f3cc20698d",
+      "hash": "f7c36c515cc267c0d461dbe1f3c2d6be62d99e8c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11959,
+      "size": 6061,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/hurt_reduced2",
-      "hash": "f29746a1c78de0e7e75adeac1d605c4f0e4da73e",
+      "hash": "2ed065e293ef62c22cb4d41eddb8cf26d4044376",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11321,
+      "size": 5991,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/hurt_reduced3",
-      "hash": "e8b4ff9971ce75716227605ae62da465a632c5d5",
+      "hash": "d6e6212132761652a9452cbaf683d51b60ad2505",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11869,
+      "size": 6016,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/hurt_reduced4",
-      "hash": "a4a4553b144aea8b4fa63778cf900b909b1c4d30",
+      "hash": "806720e66e2ddceb497081f3ee709c61877a3dc7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11541,
+      "size": 5976,
       "preload": false,
       "stream": false
     }

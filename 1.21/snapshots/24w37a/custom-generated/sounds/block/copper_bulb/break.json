@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/copper_bulb/break1",
-      "hash": "10b623aa5b21f3eebd19b0ad6cc6703c5ac4e9d1",
+      "hash": "6669a59d95aa4f21d7d5a8068b42513694508c75",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10497,
+      "size": 9042,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/copper_bulb/break2",
-      "hash": "43d226ad60714e32737509567d016fd5a675eb57",
+      "hash": "ea07abc11f8508d31b8e89386a4e2bb1bb602204",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10212,
+      "size": 9468,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/copper_bulb/break3",
-      "hash": "0fec721082e69afd88f9be89e4831e1d266fd2a7",
+      "hash": "556cab29343e57f6443848c8582d2de3ad81f64f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11117,
+      "size": 9045,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/copper_bulb/break4",
-      "hash": "826f002c21ee2c9a51ca9280ac3f5bdd855c662d",
+      "hash": "4599306fb9df32b50b76012d6bd64bcb4c6bada6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9127,
+      "size": 8167,
       "preload": false,
       "stream": false
     }

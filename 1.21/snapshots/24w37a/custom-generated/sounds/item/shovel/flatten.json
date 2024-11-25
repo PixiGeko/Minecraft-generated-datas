@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "item/shovel/flatten1",
-      "hash": "659b0fb0ef28429e3b779d833d6eedd8305cbbbc",
+      "hash": "1a6a34eba2c5041ddf9e8062367faf42025c72e3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6103,
+      "size": 6471,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/shovel/flatten2",
-      "hash": "ab51a39c66800bd6fd98c450131aac20790c535a",
+      "hash": "399ba913566d400fd1abbe0c2f2f3f7e9b470c2b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6290,
+      "size": 6673,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/shovel/flatten3",
-      "hash": "188e05f8f12787ea22dd1836fe2c9c7e4efd03af",
+      "hash": "5a5a34d32df0ff19a9754820ff486f0482d93dd9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6101,
+      "size": 6491,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/shovel/flatten4",
-      "hash": "2bf88ed6015273fa5b757531597cf156176b35f8",
+      "hash": "bf2d553ebf0778934013d2bc07d71c35bf86f851",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6671,
+      "size": 7064,
       "preload": false,
       "stream": false
     }

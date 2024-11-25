@@ -3,15 +3,15 @@
   "sounds": [
     {
       "name": "mob/drowned/water/death1",
-      "hash": "f6cf4a1595b52797b24f7bb7b3672564a64488c8",
+      "hash": "e2ee4ca2a71f25e26fc06bbc89616a40aed74384",
       "volume": 0.9,
-      "size": 36109
+      "size": 15576
     },
     {
       "name": "mob/drowned/water/death2",
-      "hash": "c41c1251ea09986d766ca45398d220aeeb817e4f",
+      "hash": "7fc3927e4c0258b3f3f9ee1945d411cbeeb2bdf6",
       "volume": 0.9,
-      "size": 40499
+      "size": 18323
     }
   ]
 }

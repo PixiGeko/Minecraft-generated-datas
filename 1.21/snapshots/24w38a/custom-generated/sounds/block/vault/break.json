@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/vault/break1",
-      "hash": "66af1974a94e5ec0f5960f267779c86465f8a606",
+      "hash": "9175b581230b552217fe55f19830d359a435ced6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 39659,
+      "size": 15402,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/vault/break2",
-      "hash": "3cb7a8b6fbfebb79dc8b425e1b758dcf3fb50148",
+      "hash": "92e6c376ee2745b5e05d3ac1820bedfa417f2ee4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 38302,
+      "size": 16564,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/vault/break3",
-      "hash": "2e1f3e84b3c1aea6b259d3659a64645146f8c10f",
+      "hash": "8c515ed4795bb3d7aed1b86849ba65703edf1306",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 38683,
+      "size": 15178,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/vault/break4",
-      "hash": "58516e499854a37b0ef09a4a94e57ac2825a5ab7",
+      "hash": "e1940bfcf38822799cd81279f642e0ec13920923",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 30165,
+      "size": 14507,
       "preload": false,
       "stream": false
     }

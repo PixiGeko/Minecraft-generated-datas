@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/rooted_dirt/step1",
-      "hash": "0c548af9a197ecb01293fea959b3aeba5facf56c",
+      "hash": "678a8fc38db841b7c5c66cd8486f30031e3a7c8b",
       "volume": 0.8,
-      "size": 24117
+      "size": 9242
     },
     {
       "name": "block/rooted_dirt/step2",
-      "hash": "f0b347346feff35af1cd8467d1ab363279d5e88f",
+      "hash": "7ac608958fbdffa90dd9cd4d9e518ef30260b6ea",
       "volume": 0.8,
-      "size": 23728
+      "size": 9163
     },
     {
       "name": "block/rooted_dirt/step3",
-      "hash": "fbc17029947cfa5f965c23744dc06283f3b1f85b",
+      "hash": "2ccfb856440fe00f1862e1292ca87a2168f924a0",
       "volume": 0.8,
-      "size": 19987
+      "size": 8680
     },
     {
       "name": "block/rooted_dirt/step4",
-      "hash": "e63fe3eca9d254207b115c9e17c776bcb066528c",
+      "hash": "3c636ebfa3a1540c450e3b16bd8ddd25cc086723",
       "volume": 0.8,
-      "size": 23891
+      "size": 8777
     },
     {
       "name": "block/rooted_dirt/step5",
-      "hash": "d4773ef3bc33bfd677c63fc79fb8759c12a42fbb",
+      "hash": "552218e330c62eb7f84420dcae85a816b2163c04",
       "volume": 0.8,
-      "size": 21706
+      "size": 8267
     },
     {
       "name": "block/rooted_dirt/step6",
-      "hash": "d8ee98f2b9bd43648f81fc0d3a276f11f7d4e998",
+      "hash": "1d38d387f662e11899756c5c41db05edf2eb241d",
       "volume": 0.8,
-      "size": 21068
+      "size": 8239
     }
   ]
 }

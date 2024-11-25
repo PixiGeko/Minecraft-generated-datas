@@ -15151,6 +15151,10 @@
     "hash": "5935a6c4874744a39f96527e5eca40ac94fb0b74",
     "size": 10590
   },
+  "minecraft/sounds/ui/hud/hud_bubble.ogg": {
+    "hash": "99a74f5734610b1ebe18a0e3589fc22a6e4dc307",
+    "size": 7218
+  },
   "minecraft/sounds/ui/loom/select_pattern1.ogg": {
     "hash": "e0391aeb167a8be978b25b5f415a5d655c40153b",
     "size": 11638

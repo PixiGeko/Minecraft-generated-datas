@@ -3,81 +3,81 @@
   "sounds": [
     {
       "name": "item/plant/crop1",
-      "hash": "632c93324d6342c23fe229287ff86ad3170cd5fe",
+      "hash": "2d01aa86f7a45e27cc61f6875c39f1f844aa7fd6",
       "volume": 0.45,
-      "size": 17325
+      "size": 8337
     },
     {
       "name": "item/plant/crop1",
-      "hash": "632c93324d6342c23fe229287ff86ad3170cd5fe",
+      "hash": "2d01aa86f7a45e27cc61f6875c39f1f844aa7fd6",
       "volume": 0.45,
       "pitch": 1.2,
-      "size": 17325
+      "size": 8337
     },
     {
       "name": "item/plant/crop2",
-      "hash": "0076a7bdf840e166559cd82e8f58e633c59382ea",
+      "hash": "107c9f66683a7c7d2fefc74dca1fb82117107831",
       "volume": 0.45,
-      "size": 21903
+      "size": 9512
     },
     {
       "name": "item/plant/crop2",
-      "hash": "0076a7bdf840e166559cd82e8f58e633c59382ea",
+      "hash": "107c9f66683a7c7d2fefc74dca1fb82117107831",
       "volume": 0.45,
       "pitch": 1.2,
-      "size": 21903
+      "size": 9512
     },
     {
       "name": "item/plant/crop3",
-      "hash": "42a6d1b8c9ef9c21d4a7a2684ac946ae822d49ac",
+      "hash": "442f78be85189bb938e703b19aad7d4823914a7b",
       "volume": 0.45,
-      "size": 18039
+      "size": 8026
     },
     {
       "name": "item/plant/crop3",
-      "hash": "42a6d1b8c9ef9c21d4a7a2684ac946ae822d49ac",
+      "hash": "442f78be85189bb938e703b19aad7d4823914a7b",
       "volume": 0.45,
       "pitch": 1.2,
-      "size": 18039
+      "size": 8026
     },
     {
       "name": "item/plant/crop4",
-      "hash": "b2190b1e1ad177232b337fea5f7534fbfe632d2e",
+      "hash": "0fba25df72d77f0434e0db24dce97aa7a98020ce",
       "volume": 0.45,
-      "size": 20711
+      "size": 9046
     },
     {
       "name": "item/plant/crop4",
-      "hash": "b2190b1e1ad177232b337fea5f7534fbfe632d2e",
+      "hash": "0fba25df72d77f0434e0db24dce97aa7a98020ce",
       "volume": 0.45,
       "pitch": 1.2,
-      "size": 20711
+      "size": 9046
     },
     {
       "name": "item/plant/crop5",
-      "hash": "a859d7056370c987ff986c15e4952e2123e0e59c",
+      "hash": "0524d6385119aa8478e5b9610bbcb06db6266f24",
       "volume": 0.45,
-      "size": 22511
+      "size": 9438
     },
     {
       "name": "item/plant/crop5",
-      "hash": "a859d7056370c987ff986c15e4952e2123e0e59c",
+      "hash": "0524d6385119aa8478e5b9610bbcb06db6266f24",
       "volume": 0.45,
       "pitch": 1.2,
-      "size": 22511
+      "size": 9438
     },
     {
       "name": "item/plant/crop6",
-      "hash": "dda6283eefbd528215c11f8e76c7e8e621f0d3b5",
+      "hash": "0e28e932a15ad310b652f070a7f0bc2edb9da141",
       "volume": 0.45,
-      "size": 22350
+      "size": 9751
     },
     {
       "name": "item/plant/crop6",
-      "hash": "dda6283eefbd528215c11f8e76c7e8e621f0d3b5",
+      "hash": "0e28e932a15ad310b652f070a7f0bc2edb9da141",
       "volume": 0.45,
       "pitch": 1.2,
-      "size": 22350
+      "size": 9751
     }
   ]
 }

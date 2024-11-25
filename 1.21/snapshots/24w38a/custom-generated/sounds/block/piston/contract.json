@@ -3,9 +3,9 @@
   "sounds": [
     {
       "name": "tile/piston/in",
-      "hash": "c83734c663e77e44a34e5779b3fb0bb0e50aad21",
+      "hash": "089c6bbbbbc25235352d41b844cf7bb7b7136f71",
       "attenuation_distance": 8,
-      "size": 15353
+      "size": 7948
     }
   ]
 }

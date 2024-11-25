@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "random/orb",
-      "hash": "e9833a1512b57bcf88ac4fdcc8df4e5a7e9d701d",
+      "hash": "8a04a60d5c28fc60df472a877ca57f37eabc78d7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7139,
+      "size": 7815,
       "preload": false,
       "stream": false
     }

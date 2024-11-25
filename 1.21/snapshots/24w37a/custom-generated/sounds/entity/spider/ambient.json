@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/spider/say1",
-      "hash": "65b49739d48ebc47879ca5528c8283329980b304",
+      "hash": "8a687fb7ea955d58a8e758a7e6ca8147c48dd477",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9045,
+      "size": 10210,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/spider/say2",
-      "hash": "501b40b97ee55cb7a97943ee620aa05131089fc2",
+      "hash": "0d61e1a8550820d63881a1cfb333c4dda042e86a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7405,
+      "size": 8521,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/spider/say3",
-      "hash": "f9f79162efa6667b753c1fbb46ff9888e8ce5f32",
+      "hash": "8cb03a82e064925b02b9f89b9b2a492feaeaa117",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7709,
+      "size": 8826,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/spider/say4",
-      "hash": "3cf3e8d3aab0a3092f6c6bf681ff156bc9653859",
+      "hash": "ceede14b6b28de916432ab1aa7b1de6b50c374fb",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6343,
+      "size": 6897,
       "preload": false,
       "stream": false
     }

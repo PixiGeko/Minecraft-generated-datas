@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/illusion_illager/mirror_move1",
-      "hash": "63baa63d5cbf7fff5421b1dc67973101b3c2b5ba",
+      "hash": "485339846fd58acb7ab863d914f42736db4583b1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21588,
+      "size": 22341,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/illusion_illager/mirror_move2",
-      "hash": "e28b515af2d53d9a3213eab5da9e2e776ff5e1fe",
+      "hash": "ced0b0d9e9d87dd090c42d240b0062c6c2f7cce6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 29202,
+      "size": 29884,
       "preload": false,
       "stream": false
     }

@@ -130,5 +130,16 @@
     "stable": false,
     "use_editor": false,
     "world": 4179
+  },
+  "1.21.4-pre2": {
+    "data_pack": 61,
+    "java": 21,
+    "launcher": 21,
+    "protocol": 1073742048,
+    "resource_pack": 46,
+    "series": "main",
+    "stable": false,
+    "use_editor": false,
+    "world": 4182
   }
 }

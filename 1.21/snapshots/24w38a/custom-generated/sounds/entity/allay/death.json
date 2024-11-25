@@ -3,15 +3,15 @@
   "sounds": [
     {
       "name": "mob/allay/death1",
-      "hash": "476ed5783a1e2256e98d6aef2c275e7b9fcfe9a2",
+      "hash": "5661b57b68464a0cd49e34349b2fffc4ae158182",
       "volume": 0.6,
-      "size": 72877
+      "size": 28345
     },
     {
       "name": "mob/allay/death2",
-      "hash": "de400349b09de19a1890bfb0242ed7a8cf1cd975",
+      "hash": "f985df2d8681c21b01e9bfd97f0b7202398944fa",
       "volume": 0.6,
-      "size": 66661
+      "size": 27446
     }
   ]
 }

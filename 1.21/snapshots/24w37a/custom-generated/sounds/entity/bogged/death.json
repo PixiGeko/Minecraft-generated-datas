@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/bogged/death",
-      "hash": "8bd17ca560e4355c5f8988ac995aa105952e3b19",
+      "hash": "eb3f71a2308f933eec6f2b7c04ac2dc3a59a0f99",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 53483,
+      "size": 18271,
       "preload": false,
       "stream": false
     }

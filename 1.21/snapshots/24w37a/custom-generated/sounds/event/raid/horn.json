@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "event/raid/raidhorn_01",
-      "hash": "b137be2a065c6009f0bdce78f4e0861d3060d5d0",
+      "hash": "e32932c73c601488f8dfaa290cfd8ee2457c764b",
       "volume": 0.01,
-      "size": 23484
+      "size": 42653
     },
     {
       "name": "event/raid/raidhorn_02",
-      "hash": "0dd9e291f62759f032b893ef5e7b0c22d3345c14",
+      "hash": "6cbd8afd0860ebfc0339cffc7963a9678fe81a68",
       "volume": 0.01,
-      "size": 22430
+      "size": 42115
     },
     {
       "name": "event/raid/raidhorn_03",
-      "hash": "db376f1466e6dc43054fa1e4fa797f87df9290c8",
+      "hash": "9fef290f4b3a4e312b4c2611e370244b7337be44",
       "volume": 0.01,
-      "size": 20343
+      "size": 39758
     },
     {
       "name": "event/raid/raidhorn_04",
-      "hash": "d75da0e9ae674c403866979d9957988fd8b09b06",
+      "hash": "3beb96e88535529e6e24f557e927fffd57956a3a",
       "volume": 0.01,
-      "size": 20988
+      "size": 37984
     }
   ]
 }

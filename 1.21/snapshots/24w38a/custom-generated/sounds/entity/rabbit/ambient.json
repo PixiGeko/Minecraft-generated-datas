@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/rabbit/idle1",
-      "hash": "9f61bdb718755ad41f71202c8fef5e993769c028",
+      "hash": "005ff4be3158efd7ea7851cddc9839c753d65773",
       "volume": 0.25,
-      "size": 5806
+      "size": 6367
     },
     {
       "name": "mob/rabbit/idle2",
-      "hash": "bde8c9c94b1a27db0c4b49cbe88251e220b5ee29",
+      "hash": "0f70fcfef5937a907041fe864c1403a6e6f3d377",
       "volume": 0.25,
-      "size": 6988
+      "size": 7594
     },
     {
       "name": "mob/rabbit/idle3",
-      "hash": "8906199918a85564590c7a01e854c3820853533e",
+      "hash": "1373cc1ac88329676d09f1607c1f7e5925da103d",
       "volume": 0.25,
-      "size": 5840
+      "size": 6450
     },
     {
       "name": "mob/rabbit/idle4",
-      "hash": "f226beeaf9c566c377e7dac03c8e748ac34b5f99",
+      "hash": "8fc7baf8356f85638a8cb7d1c12f5ba15a5c8fec",
       "volume": 0.25,
-      "size": 8691
+      "size": 9364
     }
   ]
 }

@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/wandering_trader/yes1",
-      "hash": "b54efe431983db40e442fd6bca39a144131804bf",
+      "hash": "622440e109b6fd67dcbb33a8210a9ab4f494d8b3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21230,
+      "size": 9558,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wandering_trader/yes2",
-      "hash": "2714ed98e33dfc1167b6ca08971cb108b23971ed",
+      "hash": "3d23df1c4aa63856b669ca18c27c240d346e7665",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21564,
+      "size": 11325,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wandering_trader/yes3",
-      "hash": "0dc9c8a2206a953c2d3a17ee61c2c676bf92f9eb",
+      "hash": "d3881122aa7b811e96a66b88a59f5c2b0d32c436",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 22377,
+      "size": 12366,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wandering_trader/yes4",
-      "hash": "ca48d4781f090fb582bba4cf70388d96a08f5cd9",
+      "hash": "92e577c282bb0f3afbcea470fde1c8292a4e098b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 30561,
+      "size": 13919,
       "preload": false,
       "stream": false
     }

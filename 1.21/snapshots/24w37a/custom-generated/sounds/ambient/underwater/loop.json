@@ -2,9 +2,9 @@
   "sounds": [
     {
       "name": "ambient/underwater/underwater_ambience",
-      "hash": "e34da9807a08eb38b8ab60936f2ce965be04a106",
+      "hash": "2619f8780101e7ed90979adae6e88e39a0222c29",
       "volume": 0.65,
-      "size": 650488,
+      "size": 355379,
       "stream": true
     }
   ]

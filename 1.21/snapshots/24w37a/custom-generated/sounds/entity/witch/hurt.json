@@ -3,19 +3,7 @@
   "sounds": [
     {
       "name": "entity/witch/hurt1",
-      "hash": "d4f9f7adb9789781a3a0ca1a94262a474cbee1db",
-      "weight": 1,
-      "type": "sounds",
-      "volume": 1,
-      "pitch": 1,
-      "attenuation_distance": 16,
-      "size": 6433,
-      "preload": false,
-      "stream": false
-    },
-    {
-      "name": "entity/witch/hurt2",
-      "hash": "608ce4dc409ef39df6b0409647b89f2f1a2d9ded",
+      "hash": "e650acca8d23cc14b08b7c287c99e6f1490f9b6c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
@@ -26,14 +14,26 @@
       "stream": false
     },
     {
-      "name": "entity/witch/hurt3",
-      "hash": "591bb8451ac56723d2b689d9bc95c8020bb4809b",
+      "name": "entity/witch/hurt2",
+      "hash": "c5c6ab39ac52459ec0738696b244baf231387d2c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6834,
+      "size": 7165,
+      "preload": false,
+      "stream": false
+    },
+    {
+      "name": "entity/witch/hurt3",
+      "hash": "71d54c16492583678134b4d6e2c7f960f72df97a",
+      "weight": 1,
+      "type": "sounds",
+      "volume": 1,
+      "pitch": 1,
+      "attenuation_distance": 16,
+      "size": 7304,
       "preload": false,
       "stream": false
     }

@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/muddy_mangrove_roots/step1",
-      "hash": "c7808eccafbe9e17183350fa96d130aef73025de",
+      "hash": "d2be579e57ef1e500b5435abd83ee7fdf8c261c8",
       "volume": 0.25,
-      "size": 19553
+      "size": 8735
     },
     {
       "name": "block/muddy_mangrove_roots/step2",
-      "hash": "05637f0776bdc29d678b0da8f2d735eba4906111",
+      "hash": "2059d7595f1873146adf2235a9a754880aa7655e",
       "volume": 0.25,
-      "size": 19218
+      "size": 8424
     },
     {
       "name": "block/muddy_mangrove_roots/step3",
-      "hash": "a42d47d511248af68e64c0eba5cd7530e98a9f66",
+      "hash": "64725912f2fa1fdd70cbf774fb0d2763483074e3",
       "volume": 0.25,
-      "size": 20045
+      "size": 9110
     },
     {
       "name": "block/muddy_mangrove_roots/step4",
-      "hash": "627200f7673f255c82d33ac284b6721cfb1fb339",
+      "hash": "7be87ed58c69281103a4bed34737f6058a2d31d7",
       "volume": 0.25,
-      "size": 22016
+      "size": 9319
     },
     {
       "name": "block/muddy_mangrove_roots/step5",
-      "hash": "a9b521652653721c30164ce4a81f898db964d2b0",
+      "hash": "26c4d57246aef249c4b5548e8c938b393a45a97a",
       "volume": 0.25,
-      "size": 20827
+      "size": 8848
     },
     {
       "name": "block/muddy_mangrove_roots/step6",
-      "hash": "a6b3ffdbe3b47469307ea610b8cc4a1f77daafbf",
+      "hash": "c326c225c104b675adf31bb5536a23ac7f2cd862",
       "volume": 0.25,
-      "size": 18989
+      "size": 8479
     }
   ]
 }

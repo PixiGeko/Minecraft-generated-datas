@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "note/xylobone",
-      "hash": "b7cf6b6ff19146fae41a39025ab709ea90bcc439",
+      "hash": "b97cfa83f2be06885ce9419522ad379bf96b90c7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4689,
+      "size": 4973,
       "preload": false,
       "stream": false
     }

@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "item/dye/dye",
-      "hash": "92dae4cc2ca5d8c5e33239db039ba1d6df56697f",
+      "hash": "d17c3ae92560cb8fb21ac26511c592bbec3d9696",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18736,
+      "size": 8142,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/dye/dye",
-      "hash": "92dae4cc2ca5d8c5e33239db039ba1d6df56697f",
+      "hash": "d17c3ae92560cb8fb21ac26511c592bbec3d9696",
       "pitch": 0.9,
-      "size": 18736
+      "size": 8142
     },
     {
       "name": "item/dye/dye",
-      "hash": "92dae4cc2ca5d8c5e33239db039ba1d6df56697f",
+      "hash": "d17c3ae92560cb8fb21ac26511c592bbec3d9696",
       "pitch": 0.95,
-      "size": 18736
+      "size": 8142
     },
     {
       "name": "item/dye/dye",
-      "hash": "92dae4cc2ca5d8c5e33239db039ba1d6df56697f",
+      "hash": "d17c3ae92560cb8fb21ac26511c592bbec3d9696",
       "pitch": 1.1,
-      "size": 18736
+      "size": 8142
     }
   ]
 }

@@ -3,31 +3,31 @@
   "sounds": [
     {
       "name": "block/frogspawn/break1",
-      "hash": "2e08047f23c6641665eb41b16fb5111ee611673a",
+      "hash": "2f5568d492a49c0bc36a9d2711f4bd87977f88c0",
       "volume": 0.2,
       "pitch": 1.5,
-      "size": 19893
+      "size": 9657
     },
     {
       "name": "block/frogspawn/break2",
-      "hash": "ce9affbee84d72633f64e260c1f2b14e5a35401e",
+      "hash": "f1b983140ad6a27be16a1f7079eef2f6942a1b73",
       "volume": 0.2,
       "pitch": 1.5,
-      "size": 16119
+      "size": 8196
     },
     {
       "name": "block/frogspawn/break3",
-      "hash": "e76951850898bde187cb14f0704e1a11c248a729",
+      "hash": "89e0fcbc59d01ef3d0929afbce9db78dfae29a3e",
       "volume": 0.2,
       "pitch": 1.5,
-      "size": 19145
+      "size": 9164
     },
     {
       "name": "block/frogspawn/break4",
-      "hash": "179538f0a9e872a27cb0411632ddbdfec342762e",
+      "hash": "e0bede88edb12879b3e34743f81ca5af1634c4c6",
       "volume": 0.2,
       "pitch": 1.5,
-      "size": 15326
+      "size": 7546
     }
   ]
 }

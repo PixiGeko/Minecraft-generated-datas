@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/evocation_illager/prepare_attack1",
-      "hash": "fd879aaac2253fbc2a8995a8bab4b48ec11d0d41",
+      "hash": "135ee4fcf11d359fdfed376277ed718767357c08",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 95577,
+      "size": 32116,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/evocation_illager/prepare_attack2",
-      "hash": "fc1a00ef9a40024a4b1ded698c4b772fe970cbef",
+      "hash": "3ca11902af61eec12ef68e9cca8da23d3874d131",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 75594,
+      "size": 26386,
       "preload": false,
       "stream": false
     }

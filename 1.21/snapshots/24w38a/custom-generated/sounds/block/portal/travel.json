@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "portal/travel",
-      "hash": "43388701fac432a567fe9fec421521e6348ad780",
+      "hash": "9022fcfb001438a87c65b268202a6abf5957b64a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 54283,
+      "size": 121443,
       "preload": false,
       "stream": false
     }

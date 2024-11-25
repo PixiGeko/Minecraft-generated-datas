@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "random/explode1",
-      "hash": "cd46e41023887558b134547e28327de6e7df189a",
+      "hash": "fa85b9e7e54c36c9f9d0249ca739444b5e3bb66c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19732,
+      "size": 23161,
       "preload": false,
       "stream": false
     },
     {
       "name": "random/explode2",
-      "hash": "a116e396d95a0ee245000dd4cdcc333d38ea9e3b",
+      "hash": "e55daa373e577f611565d57ec53cd28dcf472f99",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25246,
+      "size": 28696,
       "preload": false,
       "stream": false
     },
     {
       "name": "random/explode3",
-      "hash": "a94a69e56568f5789cab05382cfd81f601189fd1",
+      "hash": "3a92d0fd263265719532041f6f2ea44c7ba2f2e2",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25298,
+      "size": 28255,
       "preload": false,
       "stream": false
     },
     {
       "name": "random/explode4",
-      "hash": "f259be40364341edcaf88e339bc24ab01e49845a",
+      "hash": "09835e0c3138faf6047506a2b6f1da087c082d2e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25090,
+      "size": 27561,
       "preload": false,
       "stream": false
     }

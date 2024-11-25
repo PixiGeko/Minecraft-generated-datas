@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "block/decorated_pot/insert_fail1",
-      "hash": "fdae34c44ad48989b28d90188ea926292e994d68",
+      "hash": "1951d9003d62162a765700b587c573b109be7629",
       "volume": 0.9,
-      "size": 15019
+      "size": 7275
     },
     {
       "name": "block/decorated_pot/insert_fail2",
-      "hash": "335dd7a03f2a9e96de2b70a6c437b9d7e478e057",
+      "hash": "abf753c2ea6cb7c7a85eea69ec9c8487f96752a4",
       "volume": 0.9,
-      "size": 16264
+      "size": 7539
     },
     {
       "name": "block/decorated_pot/insert_fail3",
-      "hash": "32932435c2ff25af10f51f3900164ba650baf264",
+      "hash": "7e75d89480b76ae89c45503198b4b5834639b93a",
       "volume": 0.9,
-      "size": 15490
+      "size": 7362
     },
     {
       "name": "block/decorated_pot/insert_fail4",
-      "hash": "c5c6fc4088ca077f78f610ba6818f53b44ac8b18",
+      "hash": "964d2e9bf8294d6d271648c03a8da7c9f7b12a91",
       "volume": 0.9,
-      "size": 17020
+      "size": 7834
     },
     {
       "name": "block/decorated_pot/insert_fail5",
-      "hash": "e6c07deee281fc48ec09ae5b46cc7f4f6025e34f",
+      "hash": "a60f0eb2578fb8ab48b93a62c747a8d1c8597cca",
       "volume": 0.9,
-      "size": 16638
+      "size": 7697
     }
   ]
 }

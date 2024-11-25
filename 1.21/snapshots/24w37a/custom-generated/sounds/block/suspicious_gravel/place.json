@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/suspicious_gravel/place1",
-      "hash": "977edb7d2644a0172a9980006e999e2ae9b50c24",
+      "hash": "fe185fa59f21659207064439e17039bb39fbd73a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17026,
+      "size": 7959,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/suspicious_gravel/place2",
-      "hash": "ed6bf277df422461373802072964ac298756df94",
+      "hash": "13a974b130eaa184a6ad276308ad8ba32ba06e66",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18693,
+      "size": 8136,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/suspicious_gravel/place3",
-      "hash": "78ee7abb2a95e24be9f19236d94bafa2ceb812e1",
+      "hash": "d5ad8cea62f912013b0b1634077cfe85e2c68931",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18900,
+      "size": 8484,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/suspicious_gravel/place4",
-      "hash": "049c50db518e53da75d26ee8554adf0d62c2995a",
+      "hash": "8fb273a29573dc71202949abbbda0eb84a18327d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18235,
+      "size": 8288,
       "preload": false,
       "stream": false
     }

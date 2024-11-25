@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "block/vault/reject_rewarded_player",
-      "hash": "40b16b3beab7a29ce014d0d82d1747987d6847e4",
+      "hash": "9a4bfa8eeb8f34803bf89e55eee3fb062e9bbac6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15721,
+      "size": 15232,
       "preload": false,
       "stream": false
     }

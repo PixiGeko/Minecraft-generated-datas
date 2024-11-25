@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/camel/hurt1",
-      "hash": "96edd6f5bda1889ac2cf01d1bdcee3b03768f5ca",
+      "hash": "ee388df70e55bc7462b68ed49eda8532a6561498",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14513,
+      "size": 7073,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/camel/hurt2",
-      "hash": "ec7cb60f8d39960207800528e7881233897f20db",
+      "hash": "f9f57cf8b0743cd7b19aea4d30b1a5834e6dea40",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14736,
+      "size": 7210,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/camel/hurt3",
-      "hash": "51a01c7de5d3f48c70c76fd031ead3802cbe1219",
+      "hash": "c263373729022241c21e32693bef04fd8f50d476",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14710,
+      "size": 7149,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/camel/hurt4",
-      "hash": "a55fe7a4613fd5422013e670da00d98431cfae9f",
+      "hash": "9a83a8b7262544a0473802adc20a4250e2624602",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14624,
+      "size": 7019,
       "preload": false,
       "stream": false
     }

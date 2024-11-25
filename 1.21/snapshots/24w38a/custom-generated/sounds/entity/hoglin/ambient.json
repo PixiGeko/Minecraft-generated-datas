@@ -3,69 +3,69 @@
   "sounds": [
     {
       "name": "mob/hoglin/idle1",
-      "hash": "3cb548487ea6c1e06fd0d804d592c025b0c51ddd",
+      "hash": "d908e7f4a29d27e67d57260b2efa2d876c30613b",
       "volume": 0.65,
-      "size": 16958
+      "size": 7968
     },
     {
       "name": "mob/hoglin/idle2",
-      "hash": "235e7af4907c65bb96187d13f3f77e56345ed053",
+      "hash": "ae22f9af9ca8a88e0bbbe6b61088d8b9b1653572",
       "volume": 0.9,
-      "size": 14467
+      "size": 7748
     },
     {
       "name": "mob/hoglin/idle3",
-      "hash": "ae85acb37bc70876ac2f5f41b095a6105e420e00",
+      "hash": "bfaf9063e4cbc2b4b0ee1284ee2a56b53e02e6d2",
       "volume": 0.9,
-      "size": 16514
+      "size": 7712
     },
     {
       "name": "mob/hoglin/idle4",
-      "hash": "e959a8a67565ed213ab25af73e4182d01d4d75e2",
+      "hash": "36d5c0e23a741d7b4682fbc70ee624e87569e197",
       "volume": 0.7,
-      "size": 16567
+      "size": 7954
     },
     {
       "name": "mob/hoglin/idle5",
-      "hash": "1fe55546f73bad54acbba822b76d60490ce6606e",
+      "hash": "75b54f54e6bba7b1e908555fd99b27700c859508",
       "volume": 0.9,
-      "size": 28391
+      "size": 12300
     },
     {
       "name": "mob/hoglin/idle6",
-      "hash": "c1866335a6135274b4f63f053f68803e1b39f7a1",
+      "hash": "dee4bd36721024fea400710a427d4056ade2f435",
       "volume": 0.9,
-      "size": 32709
+      "size": 12917
     },
     {
       "name": "mob/hoglin/idle7",
-      "hash": "d93aff268816eda94a4d2d53f68de32143d8cf35",
+      "hash": "feacefb3c252238ed5d74d36386f187ca2cfc4f9",
       "volume": 0.9,
-      "size": 19959
+      "size": 9554
     },
     {
       "name": "mob/hoglin/idle8",
-      "hash": "8282ce7cf233d8f6e4e462c3bc12ffebd6a6eda6",
+      "hash": "374666b4b60e3f4139e932c2212f892632cb8ff3",
       "volume": 0.9,
-      "size": 22217
+      "size": 10601
     },
     {
       "name": "mob/hoglin/idle9",
-      "hash": "3c172958910e28286c5f1910b1d7cb5833b10f79",
+      "hash": "e959f24a326e15f17a727b4c58517aee9f368fa3",
       "volume": 0.9,
-      "size": 19079
+      "size": 9563
     },
     {
       "name": "mob/hoglin/idle10",
-      "hash": "aa4f5e1a319f933498791f0540127ab3366f501a",
+      "hash": "eb52e26ad35a1b251e45d7bd0a986b05b2628249",
       "volume": 0.9,
-      "size": 17076
+      "size": 9249
     },
     {
       "name": "mob/hoglin/idle11",
-      "hash": "1f9e21178ee6925556caae8ff875016bb2c8ef7f",
+      "hash": "57983674378a3d1bf827833e362a69839acd609e",
       "volume": 0.9,
-      "size": 16497
+      "size": 8390
     }
   ]
 }

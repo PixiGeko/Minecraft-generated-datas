@@ -3,9 +3,9 @@
   "sounds": [
     {
       "name": "portal/portal",
-      "hash": "9a20be18fed05330f745a54eb8aeba11aac5403b",
+      "hash": "5cab2f09f1fecc35ea879da5a30678b9c7daca23",
       "attenuation_distance": 10,
-      "size": 25153
+      "size": 45990
     }
   ]
 }

@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/sculk_sensor/sculk_clicking1",
-      "hash": "1b5871a3af4dc425f20f9c1e06297f5fff2f3545",
+      "hash": "a33ec641bf3173dda6d8c48d08516e4df9776a4e",
       "volume": 0.73,
-      "size": 12287
+      "size": 10998
     },
     {
       "name": "block/sculk_sensor/sculk_clicking2",
-      "hash": "ae5309997bb45581abda6f80b78c77648cef9313",
+      "hash": "dc0c30a5e32d773644d445f5a13f7c4fa079eb35",
       "volume": 0.73,
-      "size": 13337
+      "size": 11907
     },
     {
       "name": "block/sculk_sensor/sculk_clicking3",
-      "hash": "cba537acd887eb709d3fb44ff11dd2a370f64dc6",
+      "hash": "b9099a6d04dddc47ca2c01f6bcb751cb86b38d85",
       "volume": 0.73,
-      "size": 12310
+      "size": 10584
     },
     {
       "name": "block/sculk_sensor/sculk_clicking4",
-      "hash": "0350aeae0132a9a0b08532250861fbe2208d9f78",
+      "hash": "5ca580ea624bc79ea0d0dbf1befca09d639956f9",
       "volume": 0.73,
-      "size": 14777
+      "size": 13439
     },
     {
       "name": "block/sculk_sensor/sculk_clicking5",
-      "hash": "cd39ba3ef95ea55ccf82a164485fecab65f3cb69",
+      "hash": "cf9a16acc0ff7e958ca7857a62104cf84b77696a",
       "volume": 0.73,
-      "size": 10206
+      "size": 9340
     },
     {
       "name": "block/sculk_sensor/sculk_clicking6",
-      "hash": "9c137787095596d770aa3e4f0fe4f9de1ed0b635",
+      "hash": "a923bb37ed00273cb70623f6ebb750d8aa701e52",
       "volume": 0.73,
-      "size": 11430
+      "size": 10431
     }
   ]
 }

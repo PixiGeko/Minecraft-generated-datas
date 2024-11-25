@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "ui/cartography_table/drawmap1",
-      "hash": "9aa4cb9f9b429ef69a8e2ce7f2b9b96be3be540b",
+      "hash": "0fefe0a800702935cef8ff888cb2d711f0220628",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6699,
+      "size": 10432,
       "preload": false,
       "stream": false
     },
     {
       "name": "ui/cartography_table/drawmap2",
-      "hash": "ce47e698379fa88be08b5db0039cb316b6585d5e",
+      "hash": "c806bde5aa9dd27c81832f82c7a27a208f5b0a04",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6205,
+      "size": 9440,
       "preload": false,
       "stream": false
     },
     {
       "name": "ui/cartography_table/drawmap3",
-      "hash": "f0d0d2cc12bda03b297a06672de9519022403cc3",
+      "hash": "5935a6c4874744a39f96527e5eca40ac94fb0b74",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6556,
+      "size": 10590,
       "preload": false,
       "stream": false
     }

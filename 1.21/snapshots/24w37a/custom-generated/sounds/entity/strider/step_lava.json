@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "mob/strider/step_lava1",
-      "hash": "15cd753e49a8bf1b43facb03fcf73234960e176a",
+      "hash": "41ea11e04e24771a43a5cc0352321d18e88cc1ed",
       "volume": 0.2,
-      "size": 27729
+      "size": 11093
     },
     {
       "name": "mob/strider/step_lava2",
-      "hash": "7e2b7d6bdc2b899b11e881d6529d53587b5e463c",
+      "hash": "8f7cf140dac3cb400ccaacaef1fc8b2fa9c181c9",
       "volume": 0.2,
-      "size": 32511
+      "size": 11819
     },
     {
       "name": "mob/strider/step_lava3",
-      "hash": "ffcf157d407f03a5ec040e0fabea90948b7e9125",
+      "hash": "3c0464ed74b4fd0697f913420fa1839cf3298dd3",
       "volume": 0.2,
-      "size": 30790
+      "size": 12829
     },
     {
       "name": "mob/strider/step_lava4",
-      "hash": "e9b44bdf862d8332b113aeb0c2de94e2c1a829e3",
+      "hash": "8409d6b888dfde69412f0b24208d174511c347d0",
       "volume": 0.2,
-      "size": 42376
+      "size": 16168
     },
     {
       "name": "mob/strider/step_lava5",
-      "hash": "34ba5df38b450a7ccfbb272e0bad1b11da39faff",
+      "hash": "ed038e3fa6170bb1bef598e1e7c38bebf6fa591f",
       "volume": 0.2,
-      "size": 34237
+      "size": 14043
     },
     {
       "name": "mob/strider/step_lava6",
-      "hash": "3c364e117468d3232cb75c67777120d98b4b89f4",
+      "hash": "b6e8682f1b6276c1e81c5af3516613a874c5c532",
       "volume": 0.2,
-      "size": 33902
+      "size": 14358
     }
   ]
 }

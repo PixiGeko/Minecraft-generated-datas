@@ -3,31 +3,31 @@
   "sounds": [
     {
       "name": "mob/bee/pollinate1",
-      "hash": "2506c9b39df178c2ca6a22256220ff7f885a1b43",
+      "hash": "0185a95af09199750da74d9ac8b61fd5f9e351ae",
       "volume": 0.8,
       "attenuation_distance": 12,
-      "size": 23044
+      "size": 10318
     },
     {
       "name": "mob/bee/pollinate2",
-      "hash": "8fc8add729c5f3146edcf77755bdb644279dbd07",
+      "hash": "cac18dd78797e5396d38bf8856f4b615ee3dd94c",
       "volume": 0.8,
       "attenuation_distance": 12,
-      "size": 25585
+      "size": 11497
     },
     {
       "name": "mob/bee/pollinate3",
-      "hash": "430b4fa14f229d37140b63f522ed4873855ba670",
+      "hash": "d5643d66f5c0b412f2213c7d6ac63d961244967a",
       "volume": 0.8,
       "attenuation_distance": 12,
-      "size": 21488
+      "size": 10483
     },
     {
       "name": "mob/bee/pollinate4",
-      "hash": "24f9d27b2f110847f7e02cad9f53d0dc65558ec4",
+      "hash": "20b3a807754f6daf5778057c94bcc898d97884b9",
       "volume": 0.8,
       "attenuation_distance": 12,
-      "size": 26508
+      "size": 12526
     }
   ]
 }

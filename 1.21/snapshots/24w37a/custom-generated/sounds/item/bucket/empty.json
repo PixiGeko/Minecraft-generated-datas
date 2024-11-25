@@ -3,43 +3,43 @@
   "sounds": [
     {
       "name": "item/bucket/empty1",
-      "hash": "27987b7065ef4a27106246f9d32382a0514f87b2",
+      "hash": "f75e57175b69ab1e6c408ab3f32160c8416a8675",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10498,
+      "size": 10813,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bucket/empty1",
-      "hash": "27987b7065ef4a27106246f9d32382a0514f87b2",
+      "hash": "f75e57175b69ab1e6c408ab3f32160c8416a8675",
       "pitch": 0.9,
-      "size": 10498
+      "size": 10813
     },
     {
       "name": "item/bucket/empty2",
-      "hash": "a796e8907874e6ae174c30da28ff000f1cf566c3",
+      "hash": "270c29f3c5cbc795c36bd3e41fb9c367ab91ae0f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10277,
+      "size": 10547,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bucket/empty3",
-      "hash": "8dec8307dff359b0279e3e49798692309204d55e",
+      "hash": "ef7610b0effe7d9ae641938cc7cc317158a59b91",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9888,
+      "size": 10217,
       "preload": false,
       "stream": false
     }

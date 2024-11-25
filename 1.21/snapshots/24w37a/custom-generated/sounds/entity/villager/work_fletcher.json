@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "block/fletching_table/fletching_table1",
-      "hash": "11f7d6ffbd84861bf397adad3d3f3b7624a1cf8c",
+      "hash": "3a032babadb2e384f1412f6ac05a69e0bd0736b6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 31344,
+      "size": 13074,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/fletching_table/fletching_table2",
-      "hash": "2f69bcdb9f7300dd855c86a8c3594267723acc8b",
+      "hash": "9751fe8193532dae7df155f2a17eb45519c231b5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25627,
+      "size": 10554,
       "preload": false,
       "stream": false
     }

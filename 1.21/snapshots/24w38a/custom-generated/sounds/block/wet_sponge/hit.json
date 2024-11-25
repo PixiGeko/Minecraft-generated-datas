@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/sponge/wet_sponge/step1",
-      "hash": "0ca6d01e68ebf7e8b6d54a2d44515dd007315d27",
+      "hash": "66ad1d35e8e3d5f063346dbb2ee00f51aff6625b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18645,
+      "size": 7826,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/sponge/wet_sponge/step2",
-      "hash": "b81d84b6d8ef123324f4f58d99aa51a0d4914b98",
+      "hash": "6cdf620249c506b80bd7c781ec69ec3e332d2bf8",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19403,
+      "size": 8226,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/sponge/wet_sponge/step3",
-      "hash": "2bd332e7b7783ae10e846a51a0fb7209f892b540",
+      "hash": "74e8bb9c8c47da4916b971027dd78a2efe51430e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18523,
+      "size": 7721,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/sponge/wet_sponge/step4",
-      "hash": "c1635cc0219e601297a6d47f2d5cc3d109787525",
+      "hash": "c9b9082b0a2085bad5636eb01a89298428b588bf",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16346,
+      "size": 7222,
       "preload": false,
       "stream": false
     }

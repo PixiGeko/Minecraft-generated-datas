@@ -3,23 +3,23 @@
   "sounds": [
     {
       "name": "block/beehive/shear",
-      "hash": "64dac9f0ca2c90da7002d2db65ab70527fa78758",
+      "hash": "a10cb2f721ba376a7d2bfe85291cde903bff3d59",
       "volume": 0.8,
-      "size": 16396
+      "size": 7604
     },
     {
       "name": "block/beehive/shear",
-      "hash": "64dac9f0ca2c90da7002d2db65ab70527fa78758",
+      "hash": "a10cb2f721ba376a7d2bfe85291cde903bff3d59",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 16396
+      "size": 7604
     },
     {
       "name": "block/beehive/shear",
-      "hash": "64dac9f0ca2c90da7002d2db65ab70527fa78758",
+      "hash": "a10cb2f721ba376a7d2bfe85291cde903bff3d59",
       "volume": 0.8,
       "pitch": 0.9,
-      "size": 16396
+      "size": 7604
     }
   ]
 }

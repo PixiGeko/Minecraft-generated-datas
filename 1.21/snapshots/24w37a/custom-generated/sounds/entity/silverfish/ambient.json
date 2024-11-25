@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/silverfish/say1",
-      "hash": "515dffc5d6dd216550d69e61b2eb9c3593b19a20",
+      "hash": "2c571d88b34724382b12dc367df7195ac03ce468",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6584,
+      "size": 7497,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/silverfish/say2",
-      "hash": "396b8b46e593cf55d843853b704dc054ef614e55",
+      "hash": "358b7c6f74475a3496f47fabf5f5c07d31d2bcc4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9782,
+      "size": 10794,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/silverfish/say3",
-      "hash": "e7f0f24c2c9f4bf83286b17109580d3e845d19e3",
+      "hash": "b8f943d148af90b760a93a03fd4da89427a44986",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7060,
+      "size": 7492,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/silverfish/say4",
-      "hash": "4fce41a2d0890418ae1efb03d1142ca74d00aa61",
+      "hash": "c2843d6e69e87af69def41ee423488e6aeefdd76",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6394,
+      "size": 7118,
       "preload": false,
       "stream": false
     }

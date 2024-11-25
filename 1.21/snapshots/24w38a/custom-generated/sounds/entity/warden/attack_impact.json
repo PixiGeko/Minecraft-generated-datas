@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/warden/attack_impact_1",
-      "hash": "5379211dba68d17e573ce9cbd268634eae24148e",
+      "hash": "93d5a2d83f36efd582d31630801cd96c70c60715",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11965,
+      "size": 10902,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/warden/attack_impact_2",
-      "hash": "66f353305623a0d37fcfdbaa9fa4436956073b73",
+      "hash": "ce9a43bef1d1e9e42b60aa4323d32e31add4b1c0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15394,
+      "size": 13981,
       "preload": false,
       "stream": false
     }

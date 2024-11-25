@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/wither/hurt1",
-      "hash": "550da80d936e05a7bfda43ca5d8af5b3779320f1",
+      "hash": "befdf6ca94508a93e52b5324abb793aefef4066f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16650,
+      "size": 19584,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wither/hurt2",
-      "hash": "8072827813f0bffb9847e636245edebb5ddab198",
+      "hash": "9ec7172eac72fc7bcb96aa3f741777735a9baec6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16744,
+      "size": 19165,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wither/hurt3",
-      "hash": "a4cf4ebe4c475cd6a4852d6b4228a4b64cf5cb00",
+      "hash": "4b905fd80da30e902a26f0e34f1ade44df0fb51e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16731,
+      "size": 20663,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wither/hurt4",
-      "hash": "72a006be3bd693aa23cc2f8e9c9d13ea6f829aa1",
+      "hash": "a2b5af171e999ddfe59c01bbfc6401e7478d6760",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16699,
+      "size": 19926,
       "preload": false,
       "stream": false
     }

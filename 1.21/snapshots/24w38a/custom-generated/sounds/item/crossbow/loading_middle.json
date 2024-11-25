@@ -2,69 +2,69 @@
   "sounds": [
     {
       "name": "item/crossbow/loading_middle1",
-      "hash": "2f1f5a923c19c6864b3a63f2310b24586eafa7a5",
+      "hash": "024adc119457d65ad4e77d447c59af2df2e9d56d",
       "volume": 0.65,
-      "size": 35797
+      "size": 17599
     },
     {
       "name": "item/crossbow/loading_middle1",
-      "hash": "2f1f5a923c19c6864b3a63f2310b24586eafa7a5",
+      "hash": "024adc119457d65ad4e77d447c59af2df2e9d56d",
       "volume": 0.65,
       "pitch": 0.95,
-      "size": 35797
+      "size": 17599
     },
     {
       "name": "item/crossbow/loading_middle1",
-      "hash": "2f1f5a923c19c6864b3a63f2310b24586eafa7a5",
+      "hash": "024adc119457d65ad4e77d447c59af2df2e9d56d",
       "volume": 0.65,
       "pitch": 1.2,
-      "size": 35797
+      "size": 17599
     },
     {
       "name": "item/crossbow/loading_middle2",
-      "hash": "69cdea68f659610aab9889282a6e199308ae4e3a",
+      "hash": "bccd7d6902c9f32c6051ee7383886dbaf88f8632",
       "volume": 0.65,
-      "size": 32825
+      "size": 16036
     },
     {
       "name": "item/crossbow/loading_middle2",
-      "hash": "69cdea68f659610aab9889282a6e199308ae4e3a",
+      "hash": "bccd7d6902c9f32c6051ee7383886dbaf88f8632",
       "volume": 0.65,
       "pitch": 0.9,
-      "size": 32825
+      "size": 16036
     },
     {
       "name": "item/crossbow/loading_middle2",
-      "hash": "69cdea68f659610aab9889282a6e199308ae4e3a",
+      "hash": "bccd7d6902c9f32c6051ee7383886dbaf88f8632",
       "volume": 0.65,
       "pitch": 1.05,
-      "size": 32825
+      "size": 16036
     },
     {
       "name": "item/crossbow/loading_middle3",
-      "hash": "dccc89e8645e5bfa69e3c078300faade8830de6e",
+      "hash": "273f437147692f666f264dcc868dbb6ac9c69468",
       "volume": 0.65,
-      "size": 32058
+      "size": 15957
     },
     {
       "name": "item/crossbow/loading_middle3",
-      "hash": "dccc89e8645e5bfa69e3c078300faade8830de6e",
+      "hash": "273f437147692f666f264dcc868dbb6ac9c69468",
       "volume": 0.65,
       "pitch": 0.9,
-      "size": 32058
+      "size": 15957
     },
     {
       "name": "item/crossbow/loading_middle3",
-      "hash": "dccc89e8645e5bfa69e3c078300faade8830de6e",
+      "hash": "273f437147692f666f264dcc868dbb6ac9c69468",
       "volume": 0.65,
       "pitch": 1.05,
-      "size": 32058
+      "size": 15957
     },
     {
       "name": "item/crossbow/loading_middle4",
-      "hash": "361810bfeaae39c4c73b74e2357d6a40936e84cb",
+      "hash": "0ab6fd973e07708127ef918c69ab224add2cbd35",
       "volume": 0.65,
-      "size": 32271
+      "size": 15766
     }
   ]
 }

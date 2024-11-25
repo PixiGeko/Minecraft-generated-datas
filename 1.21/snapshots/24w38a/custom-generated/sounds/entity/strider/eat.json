@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/strider/eat1",
-      "hash": "1e168ded4b7814e80f1921764ca840ae63cc7174",
+      "hash": "27be6264413a59c1a574d4ddf2ae01053efa48d2",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 24326,
+      "size": 9344,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/strider/eat2",
-      "hash": "d1d1bc479296936784a17d1220be848f7c6b6175",
+      "hash": "a9bc27e80ed80eb61b9a505b52fc9efebd634453",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25513,
+      "size": 10075,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/strider/eat3",
-      "hash": "9254287419bdb1317fce78cb3a81d2092e5f3a13",
+      "hash": "bc35f9cb62ffb1ce4181c65179ebe3f53e3575f8",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25837,
+      "size": 10305,
       "preload": false,
       "stream": false
     }

@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/dolphin/hurt1",
-      "hash": "b67a80e53ea93c7831894e553fbf6aa74959b0cd",
+      "hash": "109e0c05235854b59f3b2f23fd97184be43d9992",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19400,
+      "size": 8963,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/dolphin/hurt2",
-      "hash": "916e06134d121d3e629df1c26b795ea917aeaab3",
+      "hash": "b36d24996ad848b9c33513b59ebb164a57952a5f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17044,
+      "size": 9003,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/dolphin/hurt3",
-      "hash": "e826c5df36b64ac233d81a493254e619fcf2f333",
+      "hash": "7a3534229d271f27229989b7f0c75a796500648a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19163,
+      "size": 9788,
       "preload": false,
       "stream": false
     }

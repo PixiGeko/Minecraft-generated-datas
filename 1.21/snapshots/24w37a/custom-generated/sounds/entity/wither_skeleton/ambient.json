@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/wither_skeleton/idle1",
-      "hash": "0e6d00d4c3f24a4e86eace20e63283a7d409854f",
+      "hash": "54b9403fc2362a9fc28b67e7f34f7c3efdfe0dce",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 28586,
+      "size": 12111,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wither_skeleton/idle2",
-      "hash": "8c5427b9b55d9cdc3910e5c608be4c70f83f90ea",
+      "hash": "63c3efe76ca17085f67edb073a762c5891dfe2d1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 30936,
+      "size": 13127,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wither_skeleton/idle3",
-      "hash": "12ad9b74b454e7156d42154eabb8228820f485e7",
+      "hash": "cdcd8fab475fd1b753231cc3f8d285e246f72c63",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25853,
+      "size": 11701,
       "preload": false,
       "stream": false
     }

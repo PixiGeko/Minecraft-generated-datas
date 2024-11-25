@@ -3,31 +3,31 @@
   "sounds": [
     {
       "name": "item/brush/brushing_generic1",
-      "hash": "5fd434e7b4c26ed4367ef44f606ac34f7c9c35f2",
+      "hash": "3035f8b719dfe54ce16d4bc2b9b93f9a968e7f2e",
       "volume": 0.4,
       "pitch": 0.8,
-      "size": 13417
+      "size": 6809
     },
     {
       "name": "item/brush/brushing_generic2",
-      "hash": "10417d85fa38d22906d61194594c966f98a653a1",
+      "hash": "b6c6761b701793ad12c4cad6034861c3e0b9f898",
       "volume": 0.4,
       "pitch": 0.8,
-      "size": 13361
+      "size": 6709
     },
     {
       "name": "item/brush/brushing_generic3",
-      "hash": "6cee4fa5a9ea86491c529ecf9eec09e45b9a7e5b",
+      "hash": "28809bee5a55462486cf62b32f0c6f9871836d00",
       "volume": 0.4,
       "pitch": 0.8,
-      "size": 15942
+      "size": 7448
     },
     {
       "name": "item/brush/brushing_generic4",
-      "hash": "9d90cbdc849a42e46c4daa0d1f41f01595cabb7a",
+      "hash": "376b4bf50eb6a2723c52196eeb8dc719584a06c8",
       "volume": 0.4,
       "pitch": 0.8,
-      "size": 13031
+      "size": 6473
     }
   ]
 }

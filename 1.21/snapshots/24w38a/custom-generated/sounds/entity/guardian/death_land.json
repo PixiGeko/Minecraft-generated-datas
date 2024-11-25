@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/guardian/land_death",
-      "hash": "5c5c046607c1694ef1af630729921e3551e4b5e8",
+      "hash": "2d0deed2af648ecb09b0380c1588993cfeb2c32a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11255,
+      "size": 11822,
       "preload": false,
       "stream": false
     }

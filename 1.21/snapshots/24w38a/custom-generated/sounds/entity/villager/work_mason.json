@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "ui/stonecutter/cut1",
-      "hash": "f9c33914acfd606ea5c624f25d33cccc60663e22",
+      "hash": "0cce5dacf1a8f44502b8e22cff699e6903deb13c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6235,
+      "size": 9279,
       "preload": false,
       "stream": false
     },
     {
       "name": "ui/stonecutter/cut1",
-      "hash": "f9c33914acfd606ea5c624f25d33cccc60663e22",
+      "hash": "0cce5dacf1a8f44502b8e22cff699e6903deb13c",
       "pitch": 0.92,
-      "size": 6235
+      "size": 9279
     },
     {
       "name": "ui/stonecutter/cut2",
-      "hash": "34eec70d1a60aba94b92065274fd456a97b1e036",
+      "hash": "daeb5ce102282ed1b537b15ffb98ac25bd5602da",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6247,
+      "size": 9398,
       "preload": false,
       "stream": false
     },
     {
       "name": "ui/stonecutter/cut2",
-      "hash": "34eec70d1a60aba94b92065274fd456a97b1e036",
+      "hash": "daeb5ce102282ed1b537b15ffb98ac25bd5602da",
       "pitch": 0.92,
-      "size": 6247
+      "size": 9398
     }
   ]
 }

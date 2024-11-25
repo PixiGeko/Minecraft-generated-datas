@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/irongolem/walk1",
-      "hash": "4e3e9f37c1e0c12c2993d25c28b89e2f0797ba5a",
+      "hash": "c736e96b2f2134cb2a590834152ae1b3b2af150d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7064,
+      "size": 7608,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/irongolem/walk2",
-      "hash": "356fdb6192cf96aa5d5d9c76413f412f6a4d66a4",
+      "hash": "98f8cdbd360822f55128801767f1fcf938caef56",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6945,
+      "size": 7639,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/irongolem/walk3",
-      "hash": "e0672d288b09996f7c7e1a0ca696de82b7a02d18",
+      "hash": "071db4363132ebb930caa4152024a72e373cf578",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6883,
+      "size": 7456,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/irongolem/walk4",
-      "hash": "88ae6c906f8f94add2fe904b59c94e844bbcef9a",
+      "hash": "ed5c965e0354fff9b8acca3021594a9c4402acd4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7021,
+      "size": 7623,
       "preload": false,
       "stream": false
     }

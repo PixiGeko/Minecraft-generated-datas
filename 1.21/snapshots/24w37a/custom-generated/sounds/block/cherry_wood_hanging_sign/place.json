@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/cherry_wood_hanging_sign/break1",
-      "hash": "707536e8e6beb5309db5cebda68963e9b36cdd24",
+      "hash": "f820f483ee022e9c8c7c64fdcc3205dfa3f57747",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12632,
+      "size": 6698,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/cherry_wood_hanging_sign/break2",
-      "hash": "50dc781ac900945b3e03fd265a835c1bd03ce04d",
+      "hash": "f1b078c5dffd1cfc4e96160a776d7788ef5e17b8",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12946,
+      "size": 6604,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/cherry_wood_hanging_sign/break3",
-      "hash": "01b151d31f674044b1c5cd455d00eb4e481ac686",
+      "hash": "b66b02ae251364316a87c04d23ce0818818456a9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14758,
+      "size": 7130,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/cherry_wood_hanging_sign/break4",
-      "hash": "a8be4f7da981f6b2dd4f8274426db3ff95e48375",
+      "hash": "097798914f7b4de095cbf76e6d154d58fc321f22",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17284,
+      "size": 7744,
       "preload": false,
       "stream": false
     }

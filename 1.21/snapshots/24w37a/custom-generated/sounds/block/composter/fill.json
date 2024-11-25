@@ -3,31 +3,31 @@
   "sounds": [
     {
       "name": "block/composter/fill1",
-      "hash": "4b9469a8a151cba0d28f14d87723244d8de74950",
+      "hash": "7e4c50715d8ae2e51d320cc9d35aa564124693f7",
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 13273
+      "size": 7694
     },
     {
       "name": "block/composter/fill2",
-      "hash": "8a930adbadfc8fe0168595302c03d3117dc60e0e",
+      "hash": "ca39057e2946eb481bb50b4186b52daadfbd7c1b",
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 12183
+      "size": 7690
     },
     {
       "name": "block/composter/fill3",
-      "hash": "0c6bb010b1b50f592881a1f858d5db5f0a181f22",
+      "hash": "985f000ff3b189601ad8de7997cda4d8af0c3f74",
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 13309
+      "size": 8383
     },
     {
       "name": "block/composter/fill4",
-      "hash": "9afc4d2fafd6dc6d779dd8cbf4b23bb50c165dc4",
+      "hash": "f78a2094a7952634accb4a3a94419040e237092b",
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 13048
+      "size": 7247
     }
   ]
 }

@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "entity/endereye/endereye_launch1",
-      "hash": "666efbebfe86709813900de26215e8db48acc1c6",
+      "hash": "ff13ffdb77813d916bd2cc25c2f3ac3d872a6313",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16925,
+      "size": 16979,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/endereye/endereye_launch2",
-      "hash": "73fa34c4065e2f9966189653983248eaa3f5b009",
+      "hash": "1825ee6ee58c2b237b00c5274496bff9e08aeeba",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16007,
+      "size": 16068,
       "preload": false,
       "stream": false
     }

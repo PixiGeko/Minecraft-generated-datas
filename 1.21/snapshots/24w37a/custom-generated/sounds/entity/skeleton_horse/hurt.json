@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/horse/skeleton/hit1",
-      "hash": "f111af513ba90b246a872e995f4b1722368899a9",
+      "hash": "5a9de95708ab5797123933e1523e47c9f504ea87",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7647,
+      "size": 8155,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/skeleton/hit2",
-      "hash": "721dffeec54cec90bb07986342532f327185886f",
+      "hash": "9c53c94ae67ad6ecff869d59ba162379fef65979",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7232,
+      "size": 8179,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/skeleton/hit3",
-      "hash": "df488adcf98b65d30473865945cb5ea1ee30108c",
+      "hash": "99b93c4e99d75c329a37c4b409f16df983a4e2fa",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8687,
+      "size": 9420,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/skeleton/hit4",
-      "hash": "68f186d1e9890fd4ede56106bfca198e904b57e4",
+      "hash": "fa0958c80d46b700cb620e27fa95fce58c8aed90",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8143,
+      "size": 9330,
       "preload": false,
       "stream": false
     }

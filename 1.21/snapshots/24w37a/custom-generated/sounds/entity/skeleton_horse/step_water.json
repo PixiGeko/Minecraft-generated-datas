@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "mob/horse/skeleton/water/soft1",
-      "hash": "2b970ab4e6c9607c6902f0f262a399f16b0673b1",
+      "hash": "3d0f02f1282f807234ace3f5d408d71069340857",
       "volume": 0.6,
-      "size": 16765
+      "size": 10414
     },
     {
       "name": "mob/horse/skeleton/water/soft2",
-      "hash": "2bb1c64b5128bba7b7f2ee9a9a722970119082f9",
+      "hash": "9785ad151bafe0ebbccd19115ec0292aaa4e221f",
       "volume": 0.6,
-      "size": 15948
+      "size": 10243
     },
     {
       "name": "mob/horse/skeleton/water/soft3",
-      "hash": "ffdf5853eb66e54a0a1a547443f591bdf18069b9",
+      "hash": "89ae8e1e64e97e96e9e29e432eaf623a20df8f5d",
       "volume": 0.6,
-      "size": 14193
+      "size": 9291
     },
     {
       "name": "mob/horse/skeleton/water/soft4",
-      "hash": "5cd9aeed7935512da58a07eafbbad6df39255e14",
+      "hash": "2e31efc9abd7b80f12589e1c5ca41436399f11ef",
       "volume": 0.6,
-      "size": 15914
+      "size": 10084
     },
     {
       "name": "mob/horse/skeleton/water/soft5",
-      "hash": "379f03fa65c3c72ddd5ac9badd6ee2854dff25c9",
+      "hash": "8831f30b872dc52fb18fcf2e842a13889111e3d7",
       "volume": 0.6,
-      "size": 16697
+      "size": 10177
     },
     {
       "name": "mob/horse/skeleton/water/soft6",
-      "hash": "175b7b2f5fe549279ee388b94da8219a2d7e58f1",
+      "hash": "86a81954be9aaa84854aa606f8100ff9e9d31000",
       "volume": 0.6,
-      "size": 15423
+      "size": 9867
     }
   ]
 }

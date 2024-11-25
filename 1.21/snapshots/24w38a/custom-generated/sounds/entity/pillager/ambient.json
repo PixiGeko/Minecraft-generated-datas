@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/pillager/idle1",
-      "hash": "6fac3bf41fed7bf076b31fb7868e197039983a48",
+      "hash": "3d1ca64f306c4ca5c7009a5cd2aaa4ead3f49651",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 33096,
+      "size": 13630,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/pillager/idle2",
-      "hash": "2f3a168627ca9f171eeda3db73b57696125e23b4",
+      "hash": "401a4f86da4f4e33ecd55e46048b51344268332f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21884,
+      "size": 10756,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/pillager/idle3",
-      "hash": "1b94779deaf996024639114b3f401171d167ed1c",
+      "hash": "5798b9c17b5b00a7acfded2c24d42f6a700f24de",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 22642,
+      "size": 11430,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/pillager/idle4",
-      "hash": "50d0a8b501e0aa54787623f8a33f27dc322c4867",
+      "hash": "3a73a4136d37e22bd44e92a2caf584f4f55dd70c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 32224,
+      "size": 12617,
       "preload": false,
       "stream": false
     }

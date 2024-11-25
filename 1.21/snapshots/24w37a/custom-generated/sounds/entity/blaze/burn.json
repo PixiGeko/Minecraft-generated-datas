@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "fire/fire",
-      "hash": "8b260108a73470c16cd244325242d4780cfb7d78",
+      "hash": "132b4cd65581c2a3658af6a0d4eedc6a0c1e17ed",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 28689,
+      "size": 25286,
       "preload": false,
       "stream": false
     }

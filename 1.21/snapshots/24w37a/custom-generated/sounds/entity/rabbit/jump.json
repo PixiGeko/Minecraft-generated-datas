@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/rabbit/hop1",
-      "hash": "18dc3ef276a8769bd88202520943bb174c0aad8c",
+      "hash": "1b212fdf64a28ebb7796686dfc0de2c665fad429",
       "volume": 0.1,
-      "size": 5938
+      "size": 6566
     },
     {
       "name": "mob/rabbit/hop2",
-      "hash": "e62d75641464ead6ff27101010b54573eb1c1d4c",
+      "hash": "983b8598fa068b6f3a2a1d8a1c28ac6bd57e177b",
       "volume": 0.1,
-      "size": 6993
+      "size": 7770
     },
     {
       "name": "mob/rabbit/hop3",
-      "hash": "461436665544dc44e12f79cad893de2ad02ddffc",
+      "hash": "1624c603e4fc24f7375265e27ebecf1a681b5e93",
       "volume": 0.1,
-      "size": 6597
+      "size": 7509
     },
     {
       "name": "mob/rabbit/hop4",
-      "hash": "c4456c473ff44786c6f9d7e6c91f652ca0a7f7d4",
+      "hash": "9cce2f0d3657b83380e1746c6fe5444cf1c613f6",
       "volume": 0.1,
-      "size": 5811
+      "size": 6425
     }
   ]
 }

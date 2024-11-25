@@ -3,45 +3,45 @@
   "sounds": [
     {
       "name": "mob/fox/aggro1",
-      "hash": "9ba55f3373d2e6a89319143dc792cbc0872ae5e7",
+      "hash": "69d4af7d21df68c5398d7728ed67b7b1198fc2d5",
       "volume": 0.65,
-      "size": 22620
+      "size": 10479
     },
     {
       "name": "mob/fox/aggro2",
-      "hash": "0760f75c8aca96e03e046c892e6b15276ee7991d",
+      "hash": "8a7b847203edef386f62a33fd3124ea1f2df7398",
       "volume": 0.65,
-      "size": 21844
+      "size": 10848
     },
     {
       "name": "mob/fox/aggro3",
-      "hash": "6d5ef6c2912c3dd93f5b79ddc90bfd750139855b",
+      "hash": "3c9f164e25e55a37175f1eaf60ed2675df0612b6",
       "volume": 0.65,
-      "size": 25036
+      "size": 10848
     },
     {
       "name": "mob/fox/aggro4",
-      "hash": "b560dd945d5b34948ef5fa75e7b1ecfc1afaf18a",
+      "hash": "767d49561422e3833d1da8232d82f45c582a52f4",
       "volume": 0.65,
-      "size": 23986
+      "size": 10559
     },
     {
       "name": "mob/fox/aggro5",
-      "hash": "fa6a70a21f9f9bbb569694241fa6152f7a3c166c",
+      "hash": "61262ee70465e468013fc106e148a95a4afd83d5",
       "volume": 0.65,
-      "size": 17133
+      "size": 9016
     },
     {
       "name": "mob/fox/aggro6",
-      "hash": "c2475eceb5ea233d66ac407eae74835b1c178e05",
+      "hash": "9e4fc69aa5e5a7044047a409db552b1d9c51934a",
       "volume": 0.65,
-      "size": 28813
+      "size": 12956
     },
     {
       "name": "mob/fox/aggro7",
-      "hash": "15949a3df44bf1628d85cec31991355e1e73ec57",
+      "hash": "fbb55f4189b2c02105b54c30b54f356c85bbbbd1",
       "volume": 0.65,
-      "size": 15504
+      "size": 8567
     }
   ]
 }

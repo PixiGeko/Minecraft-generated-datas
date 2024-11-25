@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/pointed_dripstone/drip_lava_cauldron1",
-      "hash": "fec5940d535308fc8bf09a2e87bd604084e5c498",
+      "hash": "7396c2c7c63bb6b1e46ba4a80c61d98a76d17768",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 22107,
+      "size": 9729,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/pointed_dripstone/drip_lava_cauldron2",
-      "hash": "d3f4bded5a3b767734d44ccb005a65fecbe1c2b7",
+      "hash": "54ff654f2f156090ebbe0452e2f798c89fb825bb",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 34450,
+      "size": 13163,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/pointed_dripstone/drip_lava_cauldron3",
-      "hash": "49a757b3ffaf7217809c553ef71b3f5386ff4289",
+      "hash": "4affb685bfbfd9aeef1998e9d711e6014c5563f5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25243,
+      "size": 10314,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/pointed_dripstone/drip_lava_cauldron4",
-      "hash": "e45eb4b5de8e5e7421e7dc5b5678ff45287c2caa",
+      "hash": "b3b5e5b2d89265d37de563ac906f951ff98586a6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 22639,
+      "size": 10010,
       "preload": false,
       "stream": false
     }

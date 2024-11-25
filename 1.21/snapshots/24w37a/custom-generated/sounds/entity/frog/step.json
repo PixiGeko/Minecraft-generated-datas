@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/frog/step1",
-      "hash": "73c29e0ac5ff0de60f54680f750cb0e2a946b45b",
+      "hash": "50991b159a03d7fc14205505fb133115a8664deb",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13757,
+      "size": 6570,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/frog/step2",
-      "hash": "59c5e6354e6693e911641b68d0cbd9bd64bcc9dc",
+      "hash": "6ef362393b703aa5538cd99bdce71c33cc42c4ba",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15248,
+      "size": 7089,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/frog/step3",
-      "hash": "415552d5f3fc455cc6611a37619b1d299b2c2bb0",
+      "hash": "ae1059f3bbf5308f127d5388afccf03a8d2cafce",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11342,
+      "size": 6061,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/frog/step4",
-      "hash": "207b5670aee2f35605f205bb4223ed8a37eb4db3",
+      "hash": "56f0a473389b4051c181ed4b7e59097a44b6059e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11922,
+      "size": 5924,
       "preload": false,
       "stream": false
     }

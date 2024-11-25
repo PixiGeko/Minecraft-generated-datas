@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/vindication_illager/celebrate1",
-      "hash": "2dea72908470f559ba7cb98b7d98ebe2889e7577",
+      "hash": "ec9c805cef9f502a8f6bae558c7ddaa5d202be8b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 27448,
+      "size": 12130,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/vindication_illager/celebrate2",
-      "hash": "31eb56075dce04558f7a5c26477cfa7cb56ec3f1",
+      "hash": "1eaf3b9c3bdc23af573d7a46c60b0b2e5ad84f12",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 26319,
+      "size": 11679,
       "preload": false,
       "stream": false
     }

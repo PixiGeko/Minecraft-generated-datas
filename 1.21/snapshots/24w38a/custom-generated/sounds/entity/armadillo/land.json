@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/armadillo/land1",
-      "hash": "eb187a91ae4ea9efb383b9ee15bc74ce4d5631c1",
+      "hash": "87d5e6747f08cc6c82aecba1fee3a1bbfb57a82e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8798,
+      "size": 5269,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/land2",
-      "hash": "b238154dc455d7b96a654d2d88df7a5d9f1f1c5a",
+      "hash": "d083154a29f9d698b41390693cef34783a7f89d6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8295,
+      "size": 4979,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/land3",
-      "hash": "f3e6ddd0a1388cc27a92668bd7501c1b880fcd43",
+      "hash": "095b229dfd83927251ec0ec6e79f8c3158f99a3b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7406,
+      "size": 4775,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/land4",
-      "hash": "167e7bc7da370415d4a3f40aa6614fca472b71a0",
+      "hash": "f09c1001fd7e9982e0e6e3fabf4e1a7ced9b2cce",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9617,
+      "size": 5528,
       "preload": false,
       "stream": false
     }

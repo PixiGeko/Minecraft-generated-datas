@@ -2,23 +2,23 @@
   "sounds": [
     {
       "name": "music/game/swamp/aerie",
-      "hash": "6615ab7f668384cf98b0cb034ce8e4c52eaf86b2",
+      "hash": "7d2d4b60ec51462992b7429aa861d03048cd43c1",
       "volume": 0.4,
-      "size": 15414697,
+      "size": 4081082,
       "stream": true
     },
     {
       "name": "music/game/swamp/firebugs",
-      "hash": "352bc5b46e08effbb8d92298b601e688cc36c4de",
+      "hash": "bea9b17990e1d513cab127ead72c8f655995109e",
       "volume": 0.4,
-      "size": 16534449,
+      "size": 4459869,
       "stream": true
     },
     {
       "name": "music/game/swamp/labyrinthine",
-      "hash": "b83bbafa9799680da24f10215de2c40b73ce1fe3",
+      "hash": "c1a20b3df904eb16e6775b5624cbd3aa8619d3cb",
       "volume": 0.4,
-      "size": 17462951,
+      "size": 4702419,
       "stream": true
     }
   ]

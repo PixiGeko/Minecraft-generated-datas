@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/horse/armor",
-      "hash": "2ccb16055e7974aba40987a46c4b6370b9296106",
+      "hash": "4bc6be271666131b075137efc1bfc8e943e41482",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15195,
+      "size": 18358,
       "preload": false,
       "stream": false
     }

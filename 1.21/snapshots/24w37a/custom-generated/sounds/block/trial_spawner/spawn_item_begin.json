@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "block/trial_spawner/spawn_item_begin1",
-      "hash": "3c7b02d6f14374133a5547541abb204310cc7835",
+      "hash": "567755439fc5118a0ede2e191a552ca0c1db8d25",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 26529,
+      "size": 23327,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/trial_spawner/spawn_item_begin2",
-      "hash": "7f6352836fc2b50256a151e870f9471358d18163",
+      "hash": "45986752eaebf2c004da7e1e297df0ccf55c929e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 36424,
+      "size": 30293,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/trial_spawner/spawn_item_begin3",
-      "hash": "2efe09834496f1b3a85de27b60e3e182778c5eee",
+      "hash": "2368a0e0b26e33051af360cc4c14cfdcf6246bc0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 30216,
+      "size": 27367,
       "preload": false,
       "stream": false
     }

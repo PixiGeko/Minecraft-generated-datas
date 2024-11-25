@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "block/bubble_column/whirlpool_ambient1",
-      "hash": "14c43698c10079ec8230d6deccb3d14d9fe4d07f",
+      "hash": "228b652fbb8d9f3d982ead2d0ab07fbd061a6908",
       "volume": 0.6,
-      "size": 83869
+      "size": 38431
     },
     {
       "name": "block/bubble_column/whirlpool_ambient2",
-      "hash": "d37e0050ac3bf4514d4331da5b4fc6b76d40fc47",
+      "hash": "5492b1d8b471f403f7e2af774f2bfdee4e678889",
       "volume": 0.6,
-      "size": 70276
+      "size": 33918
     },
     {
       "name": "block/bubble_column/whirlpool_ambient3",
-      "hash": "739d157cea881e2ce67ed7deb4bb87f7fc7eb3e3",
+      "hash": "b1d714df1dff66b11a3fb2bf95f56fd3de7ee542",
       "volume": 0.6,
-      "size": 63797
+      "size": 31166
     },
     {
       "name": "block/bubble_column/whirlpool_ambient4",
-      "hash": "c2367ef1e142e531aa03808236325b5ded5cb184",
+      "hash": "7e985242c1b9b47ad6395daf23b9b23b6e57fac7",
       "volume": 0.6,
-      "size": 59997
+      "size": 29133
     },
     {
       "name": "block/bubble_column/whirlpool_ambient5",
-      "hash": "711db30a0ea786c95247d89a0a34b0043dd16210",
+      "hash": "6741e6a76f59d61730042f7b9a5aabbcc440a77e",
       "volume": 0.6,
-      "size": 45366
+      "size": 22323
     }
   ]
 }

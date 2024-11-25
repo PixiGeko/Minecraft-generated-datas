@@ -2,39 +2,39 @@
   "sounds": [
     {
       "name": "block/mud/step1",
-      "hash": "cfc4bbcfc51bcf55414d537325fb27f7357ee6f6",
+      "hash": "85539a26d936aa5cbbd328f98a16d9cdebab2d01",
       "volume": 0.5,
-      "size": 12049
+      "size": 6306
     },
     {
       "name": "block/mud/step2",
-      "hash": "aaec051cc4ddb40c565b9a733365b137faa22d20",
+      "hash": "1f5c45e15d90873197142e61cc7bffd2c0be82f7",
       "volume": 0.5,
-      "size": 12149
+      "size": 5944
     },
     {
       "name": "block/mud/step3",
-      "hash": "4b9732e037f8e2e230fb1c29511a30aa41f86cd7",
+      "hash": "892b2053c7272c2a2f14f63c78b908a08b25adff",
       "volume": 0.5,
-      "size": 12431
+      "size": 6658
     },
     {
       "name": "block/mud/step4",
-      "hash": "cd908b08236268799b14f34b9cab1a604528861d",
+      "hash": "9f8d9380de46bf37ecb6c000663c40b176e62948",
       "volume": 0.5,
-      "size": 12905
+      "size": 6420
     },
     {
       "name": "block/mud/step5",
-      "hash": "83bf881a30e378efa548382a91d8c83484774fe9",
+      "hash": "42429ae14b45439a7017145063b2cceea99ab2fc",
       "volume": 0.5,
-      "size": 12872
+      "size": 6570
     },
     {
       "name": "block/mud/step6",
-      "hash": "b29410168529ff13fc772aac7fb1071dd2270d4e",
+      "hash": "18b3d3903494179868173d1f1dd0dc03f8de637a",
       "volume": 0.5,
-      "size": 12019
+      "size": 5986
     }
   ]
 }

@@ -3786,6 +3786,7 @@ tile/piston/out.ogg
 ui/cartography_table/drawmap1.ogg
 ui/cartography_table/drawmap2.ogg
 ui/cartography_table/drawmap3.ogg
+ui/hud/hud_bubble.ogg
 ui/loom/select_pattern1.ogg
 ui/loom/select_pattern2.ogg
 ui/loom/select_pattern3.ogg

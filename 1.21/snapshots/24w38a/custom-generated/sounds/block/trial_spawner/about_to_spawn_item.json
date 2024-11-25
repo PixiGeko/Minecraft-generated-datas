@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "block/trial_spawner/about_to_spawn_item",
-      "hash": "ef5d4c64b62a616a2556e24714cf919603205b2f",
+      "hash": "7f09c286de0c2a186c84eb67c777ad35a50562e9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 36796,
+      "size": 28646,
       "preload": false,
       "stream": false
     }

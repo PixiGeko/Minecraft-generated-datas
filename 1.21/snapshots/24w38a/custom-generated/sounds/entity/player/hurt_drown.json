@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "entity/player/hurt/drown1",
-      "hash": "ca9e12d7b01c10932a3d16e33b9e317396c3d2ea",
+      "hash": "cc446b2f1d46b2f4f5c90dfc932dc3d1963a2136",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12495,
+      "size": 12483,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/player/hurt/drown2",
-      "hash": "8011c7d566d5a6958832855d7328edba54702076",
+      "hash": "a3fea7b6f54b4e7a789f7ad5249586956c3412c4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12677,
+      "size": 13018,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/player/hurt/drown3",
-      "hash": "66057f99ba11a223e1824ce006b4e2b288b6f895",
+      "hash": "cd83862ecc762663e81f7c7e404b32cff4f53793",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9420,
+      "size": 9777,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/player/hurt/drown4",
-      "hash": "d7637457a9290d5e10d965f3bea4a4e19937f87b",
+      "hash": "8a87818be8e38de3e3b185356057e81f5e021ce0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13406,
+      "size": 13615,
       "preload": false,
       "stream": false
     }

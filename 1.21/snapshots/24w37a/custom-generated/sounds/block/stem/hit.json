@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/stem/step1",
-      "hash": "e3b2702fca190cb04f9a8c20b0c371e9678dc6bb",
+      "hash": "bdffa80cb8875b1b71cd80d07d05aa642630211a",
       "volume": 0.8,
-      "size": 26370
+      "size": 11860
     },
     {
       "name": "block/stem/step2",
-      "hash": "4e78551d06e0e7c120586d9e3dbdbe735e937915",
+      "hash": "f3f31701219ad15323ecbc13041be88c7bde103a",
       "volume": 0.8,
-      "size": 21702
+      "size": 8881
     },
     {
       "name": "block/stem/step3",
-      "hash": "b4d5cc3cd369efec7b0b1d27b9fd5153905a591a",
+      "hash": "e443b124baab6ce502b079268f3025e07dbff6d6",
       "volume": 0.8,
-      "size": 22910
+      "size": 10845
     },
     {
       "name": "block/stem/step4",
-      "hash": "d95a39ddb127bdf9bba43a3981e8b3e6b93e28b2",
+      "hash": "72e89b6a9ca8f72c1f5f67c09c8d3dbc6d6f2ae2",
       "volume": 0.8,
-      "size": 24853
+      "size": 10427
     },
     {
       "name": "block/stem/step5",
-      "hash": "11a0ce995bcc34a60df6eeeedae613b20a30213f",
+      "hash": "94097d3a1ca59a7e2d2ab9b4c948eb5393e50592",
       "volume": 0.8,
-      "size": 23639
+      "size": 11455
     },
     {
       "name": "block/stem/step6",
-      "hash": "f72d7ae413b12a0d05e39d5911006af721521f61",
+      "hash": "e04f8abb9df2de85ddad179aa71a006648c20a31",
       "volume": 0.8,
-      "size": 22331
+      "size": 9294
     }
   ]
 }

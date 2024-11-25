@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/zombie/unfect",
-      "hash": "403c56cd190fb7587a26bcd1b7d2abac598c3ec0",
+      "hash": "b02f3e6b3857de2ab43035a0127b789347ae23ee",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19917,
+      "size": 22141,
       "preload": false,
       "stream": false
     }

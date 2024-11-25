@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "entity/shulker/hurt1",
-      "hash": "b049ab95eb3a6f7fba35259cda3df9437259f590",
+      "hash": "05b10bf6d4554c28cb2fbd0ed85a505e92140e2e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5465,
+      "size": 6133,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker/hurt2",
-      "hash": "0714e023bd5b42e409b1aa12aee17376810282fe",
+      "hash": "12edc7d00dc3c2ee5d82f26875be77586c46a7ed",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6371,
+      "size": 6771,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker/hurt3",
-      "hash": "394253f2575216683fc1926a0a387a3e5e90bc16",
+      "hash": "e4df499058ce4b7f52801a7b6966de47c948feee",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6445,
+      "size": 6888,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker/hurt4",
-      "hash": "ba03ef98d9acdfc6696f41ddec0d0c95cb289d16",
+      "hash": "80c1c8a3de011b5c08169f0c532c272ca586d355",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6044,
+      "size": 6499,
       "preload": false,
       "stream": false
     }

@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/wandering_trader/hurt1",
-      "hash": "829edbab79f24656fb7d8d0d8502e5e85e90b68d",
+      "hash": "b6acecebe32d8dcc80075de586df9cac260e95aa",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13985,
+      "size": 7795,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wandering_trader/hurt2",
-      "hash": "cfaeadca6ef963079d47c7ac647029aafe31ee38",
+      "hash": "443bb8b2c22f2137e17c0e1df188da31c51b4c7c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11984,
+      "size": 7091,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wandering_trader/hurt3",
-      "hash": "d0a5002e4993e051c0a2621f0ef8b5d2085ecd44",
+      "hash": "9b7fdf9628c04364222af0c6d339a7494679afd0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11670,
+      "size": 7535,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wandering_trader/hurt4",
-      "hash": "94b3a88973277ba1df46754cdf70e4d061e25b95",
+      "hash": "007b6d9297e842b63ac7b876b38916212a3c9b51",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13629,
+      "size": 8115,
       "preload": false,
       "stream": false
     }

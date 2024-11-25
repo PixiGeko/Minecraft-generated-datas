@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "block/end_portal/endportal",
-      "hash": "bebfd40c216a3ad53a6d5b1b90b8ce1335b53310",
+      "hash": "26cd0eda5615a02f1954de91dbf03d30670c031a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 69852,
+      "size": 72318,
       "preload": false,
       "stream": false
     }

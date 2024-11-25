@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "dig/grass1",
-      "hash": "41cbf5dd08e951ad65883854e74d2e034929f572",
+      "hash": "39fd80b9346a28f891c6ffabd197b974fa61f2cd",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7468,
+      "size": 8187,
       "preload": false,
       "stream": false
     },
     {
       "name": "dig/grass2",
-      "hash": "86cb1bb0c45625b18e00a64098cd425a38f6d3f2",
+      "hash": "f2da10547bfa0f1babdfd2ea5c31e09cd871a3aa",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7691,
+      "size": 8279,
       "preload": false,
       "stream": false
     },
     {
       "name": "dig/grass3",
-      "hash": "f7d7e5c7089c9b45fa5d1b31542eb455fad995db",
+      "hash": "cebb2bda1cd962516882e36ad2a9927167aadfa1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7194,
+      "size": 7966,
       "preload": false,
       "stream": false
     },
     {
       "name": "dig/grass4",
-      "hash": "c7b1005d4926f6a2e2387a41ab1fb48a72f18e98",
+      "hash": "a0b221f6c8e23628108a46804ab2afb15c180b5a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7163,
+      "size": 8124,
       "preload": false,
       "stream": false
     }

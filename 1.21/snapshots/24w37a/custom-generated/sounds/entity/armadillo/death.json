@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/armadillo/death1",
-      "hash": "cf49a8ee96f115fa39086722a7220b15c120b6b7",
+      "hash": "25b67879adb4eea054d75f9191f42e38a91b6043",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 45160,
+      "size": 16056,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/death2",
-      "hash": "a872475442b2944eda22d845e71e30d43dff1e0b",
+      "hash": "942f8aa6ef1ea1d4a7baa192d2d1c1abfabf0b90",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 44123,
+      "size": 15859,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/death3",
-      "hash": "4178494fd182b540929b0c1f52233d6089fa5ca2",
+      "hash": "cf4041926ae66fe4fbf2ec5927f92ad3da938b2f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 41101,
+      "size": 15013,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/death4",
-      "hash": "20a8f42ea5b8b2bc2f7b3f6b2d57cfc8fbf8bfbd",
+      "hash": "9628106bdc110328920700c5af43d7319ef327d6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 38899,
+      "size": 14286,
       "preload": false,
       "stream": false
     }

@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "block/chest/close_locked",
-      "hash": "871634413de37a092d0e5fe7844a37917c27bbf2",
+      "hash": "6b2c846ec8ed094f959d6134058d689430a2d67b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6789,
+      "size": 7061,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/chest/open_locked",
-      "hash": "4ed1f29f3e1378811f7fcc49db743400b8e3284f",
+      "hash": "70b0d0dabb74efcd05476a832d9a1af6b6f87d46",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8011,
+      "size": 8238,
       "preload": false,
       "stream": false
     }

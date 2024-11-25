@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/zoglin/hurt1",
-      "hash": "7dda6ffb34caad97b8f1c619c46311c8eba4336f",
+      "hash": "86911c8c9eb54a3be3addaaf045a349647691afb",
       "volume": 0.83,
-      "size": 31986
+      "size": 13362
     },
     {
       "name": "mob/zoglin/hurt2",
-      "hash": "03252f780f1e85ac6202567fca515f7afebc9cf0",
+      "hash": "891fcac353b7c81b1a2cff12e1e59f4cb96a4d91",
       "volume": 0.9,
-      "size": 18672
+      "size": 9725
     },
     {
       "name": "mob/zoglin/hurt3",
-      "hash": "d9191c272475d12f49449bd7cfc8598efecc0f8d",
+      "hash": "decab13d1ed36d8c3d0ad2f6d1e064b5dc74ab11",
       "volume": 0.9,
-      "size": 26353
+      "size": 11667
     }
   ]
 }

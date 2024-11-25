@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "entity/witch/death1",
-      "hash": "627c939e2aa48a5e3f516848e66a76acb992c2a8",
+      "hash": "651b016a545d9abcd5593e80c95b9a757a02041d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10591,
+      "size": 11360,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/witch/death2",
-      "hash": "b5e67bcc0f5af24fa6d01f377215143ee7a1cf67",
+      "hash": "1cd7a5c2740f295ee14c60b1a16036440a4e4beb",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10038,
+      "size": 10782,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/witch/death3",
-      "hash": "4c02a13757318403e7837260c1b30069dcb7be69",
+      "hash": "8808491b110a6e15d0599d5108978f46a7140099",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7754,
+      "size": 8456,
       "preload": false,
       "stream": false
     }

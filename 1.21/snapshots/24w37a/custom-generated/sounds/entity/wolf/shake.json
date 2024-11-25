@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/wolf/shake",
-      "hash": "3d95ea49e91b4295859b193bb41b009b92250a44",
+      "hash": "dc6280367f55275a1b5cd90823561c98f8faaff0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13502,
+      "size": 16170,
       "preload": false,
       "stream": false
     }

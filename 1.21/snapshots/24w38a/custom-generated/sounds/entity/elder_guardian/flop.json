@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/guardian/flop1",
-      "hash": "09b6bbe5a03eed221630ea36b21d14e2de043b78",
+      "hash": "1330faec2b5a6ed7dbb3932e4002966a854df137",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7422,
+      "size": 8363,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/guardian/flop2",
-      "hash": "3fb1db01cf63dc87d73ea459ff35237b22a1b490",
+      "hash": "43bd3b146f2647c02261c662c1fa2604303fe991",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7355,
+      "size": 8075,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/guardian/flop3",
-      "hash": "24859b29b627b20251e47f38a1a4cab44bff9b11",
+      "hash": "24d54ac72d33f31ab903a14581f2c294d6622c0b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6994,
+      "size": 7888,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/guardian/flop4",
-      "hash": "ba44dc4f2af22798b017d548acca7296a7a3d87c",
+      "hash": "b479c2b39fadb1211c87bc4857d2b15d269f63bc",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7371,
+      "size": 8228,
       "preload": false,
       "stream": false
     }

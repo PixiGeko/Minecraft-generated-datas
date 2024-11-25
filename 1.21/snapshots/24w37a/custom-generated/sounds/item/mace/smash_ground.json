@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "item/mace/smash_ground1",
-      "hash": "88efd3b53d45f8cc6ae2ab39a414aa20d9760c46",
+      "hash": "8f5008b42cf998a0bf391a9772fab8aa69049cac",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23223,
+      "size": 21491,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/mace/smash_ground2",
-      "hash": "df4382620752d04c27e3f33be08bacc2fc89078c",
+      "hash": "9f8089db25a221807d6650835ea6af22659ba4d1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 24672,
+      "size": 21670,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/mace/smash_ground3",
-      "hash": "d761b39e2ae68753d68a3611c3d8efbf213e669a",
+      "hash": "f0212098e16342cc0270c6b64eaffd7a6edc5c4c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 26866,
+      "size": 24144,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/mace/smash_ground4",
-      "hash": "42409a52c41c8dee98159236a4fd98813f29bef6",
+      "hash": "e747ec6761e14fa3fbb6e9e6c1dacb0891ef52f9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25897,
+      "size": 25329,
       "preload": false,
       "stream": false
     }

@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "fireworks/blast_far1",
-      "hash": "cd9062e9e81f7cd35164a99669e5db32891a5cb5",
+      "hash": "b391080c22475f5196be93af0d7475cdb78e7003",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14727,
+      "size": 15945,
       "preload": false,
       "stream": false
     }

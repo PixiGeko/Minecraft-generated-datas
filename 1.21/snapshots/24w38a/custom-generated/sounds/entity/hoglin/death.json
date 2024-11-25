@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/hoglin/death1",
-      "hash": "0cb4d27eb86fa2cb33047c3117c82f57ecaa7809",
+      "hash": "2c3628f6c930d4659dc70eff2210aab53e05bb8f",
       "volume": 0.9,
-      "size": 42660
+      "size": 15974
     },
     {
       "name": "mob/hoglin/death2",
-      "hash": "d8426a5ba17567bd362ab804d89b08bd8abf305f",
+      "hash": "59268870f300ebbe170f4ec17a6811e7d6880f62",
       "volume": 0.9,
-      "size": 38982
+      "size": 15069
     },
     {
       "name": "mob/hoglin/death3",
-      "hash": "60557c7aa9bb8480e292c0b97ecaaa187ff4bc43",
+      "hash": "6aa1dc196bf2f337dacc30a5927ba8a24006a921",
       "volume": 0.9,
-      "size": 49013
+      "size": 17998
     }
   ]
 }

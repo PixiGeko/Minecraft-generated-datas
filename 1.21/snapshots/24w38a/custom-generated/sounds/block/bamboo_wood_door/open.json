@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "block/bamboo_wood_door/toggle1",
-      "hash": "03a9d41d398c7f8f0314a856982c94901279474d",
+      "hash": "86082b956f8f548dc909ff4bcb5a2f729c65397e",
       "volume": 0.9,
-      "size": 24966
+      "size": 10004
     },
     {
       "name": "block/bamboo_wood_door/toggle2",
-      "hash": "7efe23d9b72b22045a45104e64696dc26d7a0868",
+      "hash": "1cfbc7d97388508caa9df121fb41d7c2ff1897ff",
       "volume": 0.9,
-      "size": 25075
+      "size": 10061
     },
     {
       "name": "block/bamboo_wood_door/toggle3",
-      "hash": "199192a54b00af0f694cd069ceecee9394660c44",
+      "hash": "ee4cb58c10d927cd71fb93a91bc26f7e82c4f6b9",
       "volume": 0.9,
-      "size": 21898
+      "size": 9327
     },
     {
       "name": "block/bamboo_wood_door/toggle4",
-      "hash": "c8118021f93a6fad75cbb84525d9c621aeaa0c0d",
+      "hash": "81917a810e2d000ffcecee236fd59fba0383896a",
       "volume": 0.9,
-      "size": 24387
+      "size": 10270
     }
   ]
 }

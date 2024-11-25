@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "block/iron_door/close1",
-      "hash": "108c61bfecd4f969778173578984503e08dd7898",
+      "hash": "c05d9ec6189da10f1a353eba44b2dd848e76ae15",
       "volume": 0.9,
-      "size": 6550
+      "size": 6948
     },
     {
       "name": "block/iron_door/close2",
-      "hash": "aec962400204953cc7eefef2c0cc1942bbeaff38",
+      "hash": "c15f4576c221d1b81601594fc2d21cdda5b14d0a",
       "volume": 0.9,
-      "size": 6590
+      "size": 6817
     },
     {
       "name": "block/iron_door/close3",
-      "hash": "278ae35982e186ab9f4a9ef5728b18793c939e98",
+      "hash": "7c26ac099f78d5f8d147ee6204036c1dc4cde134",
       "volume": 0.9,
-      "size": 6465
+      "size": 6717
     },
     {
       "name": "block/iron_door/close4",
-      "hash": "4710afcb488c6ee3881e3b896dfcd5cc2069049a",
+      "hash": "498fa8e1d3dbf88fb4db534232f3cef53ccd198f",
       "volume": 0.9,
-      "size": 6579
+      "size": 6912
     }
   ]
 }

@@ -3,15 +3,15 @@
   "sounds": [
     {
       "name": "mob/hoglin/converted1",
-      "hash": "e1f8f1ee7995732be6784baa666970ec1272b221",
+      "hash": "38c25af3e2a2d245b1778f681e53eb16af740f7c",
       "volume": 0.8,
-      "size": 50494
+      "size": 21656
     },
     {
       "name": "mob/hoglin/converted2",
-      "hash": "1eaaae4a97cd2cbc75ad2d9c7102aafe0d08eae9",
+      "hash": "10d0f3010e33c6a1b563d7e628bb32a4619a8547",
       "volume": 0.8,
-      "size": 52778
+      "size": 19554
     }
   ]
 }

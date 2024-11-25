@@ -3,10 +3,10 @@
   "sounds": [
     {
       "name": "block/cherrywood_button/cherrywood_click",
-      "hash": "4dde7bcaca14f997cd72c638c651ca293bf4411a",
+      "hash": "c246d102d0ff657a94b8a39f3ba6cf31f88e06ff",
       "volume": 0.4,
       "pitch": 0.5,
-      "size": 8912
+      "size": 5267
     }
   ]
 }

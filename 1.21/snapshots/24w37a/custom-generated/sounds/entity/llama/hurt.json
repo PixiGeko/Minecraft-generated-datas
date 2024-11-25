@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/llama/hurt1",
-      "hash": "ec88e60f461446217590da0ca3f5b9723aea440a",
+      "hash": "7fa3cc293a0ade6cbe4e1d0a08cd683b70c5b848",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16720,
+      "size": 8105,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/llama/hurt2",
-      "hash": "0eb97ddb69796a7f0cfa8c582da49b0ea3f078a1",
+      "hash": "08b13d73e321b2def27d361ae6785ebfef90fdbb",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11844,
+      "size": 6701,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/llama/hurt3",
-      "hash": "4be797a654ef7d62adbba23f531324f97b8f0da2",
+      "hash": "fc67392704eb817ccec3043ebbadb1bd1a8879c0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15435,
+      "size": 7799,
       "preload": false,
       "stream": false
     }

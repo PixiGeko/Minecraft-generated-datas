@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "note/flute",
-      "hash": "a7f05f19c3e553c61deb61e5e8123a82cdbec758",
+      "hash": "0445f088325b39038df2b37a958ec6c987f5e714",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8137,
+      "size": 8349,
       "preload": false,
       "stream": false
     }

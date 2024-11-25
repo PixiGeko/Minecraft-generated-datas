@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "mob/turtle/swim/swim1",
-      "hash": "c0b0bcde4bbc76a746c78be14bc0385c20077cef",
+      "hash": "4df04261a31036a117c1e0b6a29586491cdd74f1",
       "volume": 0.6,
-      "size": 29316
+      "size": 13720
     },
     {
       "name": "mob/turtle/swim/swim2",
-      "hash": "0a4a39b4106614dafbae88adf3da90e48ded1ad3",
+      "hash": "b0386400d7a47f087313bb7924b75a579dd59e32",
       "volume": 0.3,
-      "size": 31561
+      "size": 15101
     },
     {
       "name": "mob/turtle/swim/swim3",
-      "hash": "41b1e0e25803369e2ea1657c5d26bb30998ebb64",
+      "hash": "3d1a5c2a922aca9957398b9ab3765c00b3309033",
       "volume": 0.2,
-      "size": 34277
+      "size": 15836
     },
     {
       "name": "mob/turtle/swim/swim4",
-      "hash": "8adb75272b3e1d7ba0e6a257b00e054e219d8f67",
+      "hash": "f0c27e02d0ba89942516f75439ef211264f2e997",
       "volume": 0.6,
-      "size": 31553
+      "size": 15061
     },
     {
       "name": "mob/turtle/swim/swim5",
-      "hash": "d4f51a4da28eda59d8d64304bf48c2c90b7c0240",
+      "hash": "c7d7f137752824568b828e45574f7bdbdba12cac",
       "volume": 0.3,
-      "size": 23774
+      "size": 11293
     }
   ]
 }

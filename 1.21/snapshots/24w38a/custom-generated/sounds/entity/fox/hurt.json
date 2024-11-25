@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/fox/hurt1",
-      "hash": "9562404ee0e24467f7d2c0d715b1c5dfa16fa9e8",
+      "hash": "1fbc058a646eae018f463781d2881617c5c0d209",
       "volume": 0.75,
-      "size": 10757
+      "size": 6375
     },
     {
       "name": "mob/fox/hurt2",
-      "hash": "4f3a2c3edf64d8559d3ecd79b0cd14d54ec3d51f",
+      "hash": "ba051eb9851481f52f1989bd2f42e3f9dc6582f1",
       "volume": 0.75,
-      "size": 10759
+      "size": 6594
     },
     {
       "name": "mob/fox/hurt3",
-      "hash": "d7aa6f32a21b10577d9f8a33a0c67560b9d8131d",
+      "hash": "142f978e76ef856d86a979bc0ee8281d861ee924",
       "volume": 0.75,
-      "size": 9030
+      "size": 5953
     },
     {
       "name": "mob/fox/hurt4",
-      "hash": "aaea02b509aae02a380a2e90dd8a6c66b0bccb25",
+      "hash": "596514f2cc18e8439a6691fa173e6bb628f443d7",
       "volume": 0.75,
-      "size": 8989
+      "size": 5968
     }
   ]
 }

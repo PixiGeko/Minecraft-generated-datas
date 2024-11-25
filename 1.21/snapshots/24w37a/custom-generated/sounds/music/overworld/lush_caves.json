@@ -2,97 +2,97 @@
   "sounds": [
     {
       "name": "music/game/an_ordinary_day",
-      "hash": "fb47d8c0ba3756e2c5066fcd865e866fa209ae2d",
+      "hash": "ac88b24961961f52fbaf8efc55ae7e260b6f4ad2",
       "weight": 2,
-      "size": 14770387,
+      "size": 4424026,
       "stream": true
     },
     {
       "name": "music/game/clark",
-      "hash": "74da65c99aa578486efa7b69983d3533e14c0d6e",
+      "hash": "bbb301a6ed65e5e92eb97b601b9ea9979324bccf",
       "weight": 2,
-      "size": 1976731,
+      "size": 2145295,
       "stream": true
     },
     {
       "name": "music/game/echo_in_the_wind",
-      "hash": "a40303dd9d4bfbb0986e66fc93553a0755621880",
+      "hash": "5c97ac9788ab81e560bae32b0f5e4fc244e544b4",
       "weight": 2,
       "volume": 0.4,
-      "size": 13445440,
+      "size": 3666137,
       "stream": true
     },
     {
       "name": "music/game/featherfall",
-      "hash": "c497c8c1dada852bafaa9ac17c5c30f37d0befed",
+      "hash": "0c62057c8a75b57a8f06e7c1bc1b21a7f88d4820",
       "weight": 2,
       "volume": 0.4,
-      "size": 18074685,
+      "size": 4731149,
       "stream": true
     },
     {
       "name": "music/game/floating_dream",
-      "hash": "45bdfe06cc8c375dc507e59527c9a89105980085",
+      "hash": "dec42f5a10b6a0018594bdb868882ddccf04f52e",
       "weight": 2,
-      "size": 4761864,
+      "size": 2239177,
       "stream": true
     },
     {
       "name": "music/game/left_to_bloom",
-      "hash": "aa1d3aace1c481ac32d5827fba287294b6bc99fb",
+      "hash": "a971ae2004798c14bc3387cfd1b89420092b3263",
       "weight": 4,
       "volume": 0.4,
-      "size": 17607318,
+      "size": 4663128,
       "stream": true
     },
     {
       "name": "music/game/mice_on_venus",
-      "hash": "9528b6a76e7bac64ca1145cc682e8a8448cc04e5",
+      "hash": "06a2f38a094573652977232abcc4f268cf6745ad",
       "weight": 2,
-      "size": 2665984,
+      "size": 2943549,
       "stream": true
     },
     {
       "name": "music/game/minecraft",
-      "hash": "50a59a4f56e4046701b758ddbb1c1587efa4cadf",
+      "hash": "7f7777e5d5b163c5d64201fd53e5682599548a49",
       "weight": 2,
-      "size": 2530812,
+      "size": 2860084,
       "stream": true
     },
     {
       "name": "music/game/one_more_day",
-      "hash": "8b0b49dcab54157bb02ef81380990dac2a187b99",
+      "hash": "324f58251829988ad3f4a5f7dc39b647fdcc2639",
       "weight": 2,
       "volume": 0.4,
-      "size": 14684917,
+      "size": 4014339,
       "stream": true
     },
     {
       "name": "music/game/swamp/aerie",
-      "hash": "6615ab7f668384cf98b0cb034ce8e4c52eaf86b2",
+      "hash": "7d2d4b60ec51462992b7429aa861d03048cd43c1",
       "volume": 0.4,
-      "size": 15414697,
+      "size": 4081082,
       "stream": true
     },
     {
       "name": "music/game/swamp/firebugs",
-      "hash": "352bc5b46e08effbb8d92298b601e688cc36c4de",
+      "hash": "bea9b17990e1d513cab127ead72c8f655995109e",
       "volume": 0.4,
-      "size": 16534449,
+      "size": 4459869,
       "stream": true
     },
     {
       "name": "music/game/swamp/labyrinthine",
-      "hash": "b83bbafa9799680da24f10215de2c40b73ce1fe3",
+      "hash": "c1a20b3df904eb16e6775b5624cbd3aa8619d3cb",
       "volume": 0.4,
-      "size": 17462951,
+      "size": 4702419,
       "stream": true
     },
     {
       "name": "music/game/sweden",
-      "hash": "14ae57a6bce3d4254daa8be2b098c2d99743cc3f",
+      "hash": "be9b14926936c4509f7fe5002cdfbba3b2752d82",
       "weight": 2,
-      "size": 2232651,
+      "size": 2551609,
       "stream": true
     }
   ]

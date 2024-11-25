@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/hanging_sign/break1",
-      "hash": "f41ba2e4cd1f152e8ffc18dfbfe7ee1a7a95caa0",
+      "hash": "33dcd77a59abcf70fef080015aa4305149a8f6d8",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15462,
+      "size": 7801,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/hanging_sign/break2",
-      "hash": "8c4fdc724edf4be64e7f0541d6f60772c70c9394",
+      "hash": "1843cc603e40b465bc5e5047c74aef8a991f1e69",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16075,
+      "size": 7742,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/hanging_sign/break3",
-      "hash": "47ab18c2789b99266f25672a7aeb453c59a1ccb8",
+      "hash": "296ec244acae70f236c8f1220380976b8fa9e636",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16549,
+      "size": 8086,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/hanging_sign/break4",
-      "hash": "670a96ecdac04bb1083b0d4025d8afb05fd9b200",
+      "hash": "e19b634969f9f5a8e637d60be81488d86d835185",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18736,
+      "size": 8396,
       "preload": false,
       "stream": false
     }

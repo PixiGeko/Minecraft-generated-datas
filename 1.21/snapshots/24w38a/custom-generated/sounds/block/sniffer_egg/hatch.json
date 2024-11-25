@@ -3,15 +3,15 @@
   "sounds": [
     {
       "name": "mob/turtle/egg/egg_break1",
-      "hash": "ba7d23893ae4740476f904450dd764a7a78b9d21",
+      "hash": "e15a8f7fdce4175e05fe4799f5bd28468aedfa8c",
       "pitch": 0.8,
-      "size": 40508
+      "size": 18020
     },
     {
       "name": "mob/turtle/egg/egg_break2",
-      "hash": "ede6207fca58c1530ab8ca51a54f082509ff790e",
+      "hash": "52b667e0cd5778872f8523cb5ce486b04c6391ef",
       "pitch": 0.8,
-      "size": 34382
+      "size": 15327
     }
   ]
 }

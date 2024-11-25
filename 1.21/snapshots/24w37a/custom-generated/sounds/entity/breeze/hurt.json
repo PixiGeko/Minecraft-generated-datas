@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/breeze/hurt1",
-      "hash": "ba8211d400e834c2f7663af2214a68e44ee82942",
+      "hash": "4e320073a5d3980a784cf2e3ed875b50a9764550",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11368,
+      "size": 10430,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/breeze/hurt2",
-      "hash": "fc603184d75b017650f1d4b4d02254a81aa801df",
+      "hash": "e0553315e49647f8cae2425f23edfafffea0609b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11697,
+      "size": 10584,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/breeze/hurt3",
-      "hash": "51fff105f89bb1a21a59c621911d80ae231214d9",
+      "hash": "ba9e27200653712bc3396983774bc61d4fc88b3b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14950,
+      "size": 13521,
       "preload": false,
       "stream": false
     }

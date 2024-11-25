@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/cat/hiss1",
-      "hash": "06d087c7afeb3c26fe37cd38b247a7c91d2c58eb",
+      "hash": "3dc3bc30c986313bb320a4d1513b413afad48254",
       "volume": 0.4,
-      "size": 34535
+      "size": 14612
     },
     {
       "name": "mob/cat/hiss2",
-      "hash": "6dfd0785da0beb8f6eb1efa4bcb7fdc6ba85c492",
+      "hash": "844749c39f3519ef6123527240c5c05c40a1abd1",
       "volume": 0.4,
-      "size": 32637
+      "size": 13748
     },
     {
       "name": "mob/cat/hiss3",
-      "hash": "ab8845c4f44fb336cde822ca458e4dc831b1b2cc",
+      "hash": "51245a824bb389a71c48749288269c3a0d5ac320",
       "volume": 0.4,
-      "size": 30263
+      "size": 13267
     }
   ]
 }

@@ -3,15 +3,15 @@
   "sounds": [
     {
       "name": "entity/bobber/retrieve1",
-      "hash": "76416d1c4fc50356e17a1aef8a80358d85174f5c",
+      "hash": "990232db6a8b7edfb8e7fd0e167b79c2eef9c37d",
       "pitch": 2.4,
-      "size": 6788
+      "size": 7134
     },
     {
       "name": "entity/bobber/retrieve2",
-      "hash": "bcc3d222a1eac38ad85b03c33e513a751629a8fd",
+      "hash": "d07f7fc78faef5c32fd7dd1dc908f7dc98240259",
       "pitch": 2.4,
-      "size": 7034
+      "size": 7484
     }
   ]
 }

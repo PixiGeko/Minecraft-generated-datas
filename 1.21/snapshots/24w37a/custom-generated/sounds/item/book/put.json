@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "item/book/close_put1",
-      "hash": "1bd5a33c1b50627d5fd45a44cf78ad6d96f483dd",
+      "hash": "d8530109173c289e3e880135b3651743fee623dd",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4702,
+      "size": 6107,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/book/close_put2",
-      "hash": "eefec8ea4c0e3a2cf4357226bdcc1b2b7919e8ac",
+      "hash": "5aa31e94e64488e10a8e0cb985cb2b3ea5ac089e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4981,
+      "size": 6341,
       "preload": false,
       "stream": false
     }

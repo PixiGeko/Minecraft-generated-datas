@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/pillager/death1",
-      "hash": "12365c224970df985cce386bbcaeb357b4b85496",
+      "hash": "fccc80974524000a83635308c53a645d0d1a2a97",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 28882,
+      "size": 12711,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/pillager/death2",
-      "hash": "b440f29191234eb91f36354bbf43d62dcba0973e",
+      "hash": "37a2fd80b646c30bc4caaf19fedc61357a698348",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 24070,
+      "size": 12149,
       "preload": false,
       "stream": false
     }

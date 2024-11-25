@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "item/goat_horn/call5",
-      "hash": "c46d08ba3d59fde7805e7c453a777dd6e0803af6",
+      "hash": "5be8ac36d235793819eb009a90ca55c05a1ddc46",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 164264,
+      "size": 64557,
       "preload": false,
       "stream": false
     }

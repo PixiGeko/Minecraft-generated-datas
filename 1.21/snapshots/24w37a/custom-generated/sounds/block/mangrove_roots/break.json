@@ -3,45 +3,45 @@
   "sounds": [
     {
       "name": "block/mangrove_roots/break1",
-      "hash": "c606cd58f2be3e6b7ef0f3e6aac8f791b10a0e9a",
+      "hash": "96314f3d851ca570a0f167121963d7c53f61c60f",
       "volume": 0.25,
       "pitch": 1.2,
-      "size": 23212
+      "size": 10194
     },
     {
       "name": "block/mangrove_roots/break2",
-      "hash": "ea01016f9450bb6ed016942134ee07e28efcbed5",
+      "hash": "28c1c3858c3ca4cc6f7a8fc2de3c4864ba54e204",
       "volume": 0.25,
       "pitch": 1.2,
-      "size": 20646
+      "size": 9356
     },
     {
       "name": "block/mangrove_roots/break3",
-      "hash": "f44762fab6e47b0f4292a50a30d86d3b754a56c9",
+      "hash": "f2fcb54f88e85b5cc704358208395451c106ad1a",
       "volume": 0.25,
       "pitch": 1.2,
-      "size": 28037
+      "size": 10167
     },
     {
       "name": "block/mangrove_roots/break4",
-      "hash": "ed4c5881fc14815f2b422469663e866e280047f2",
+      "hash": "d419da1a4dfa239ea298171abc8d367a0a58a56d",
       "volume": 0.25,
       "pitch": 1.2,
-      "size": 22816
+      "size": 9003
     },
     {
       "name": "block/mangrove_roots/break5",
-      "hash": "6f7648d8ac3ac000a849df5bffe0bee2a601e113",
+      "hash": "dcbb4157877fbe0ba458fce5331441e593b68a71",
       "volume": 0.25,
       "pitch": 1.2,
-      "size": 27923
+      "size": 11300
     },
     {
       "name": "block/mangrove_roots/break6",
-      "hash": "f51f515aa19bfdece4112f0d8e9433c1ce39b432",
+      "hash": "ce7bcce2a58673654f76816af6c73f24823b5d2e",
       "volume": 0.25,
       "pitch": 1.2,
-      "size": 24816
+      "size": 9989
     }
   ]
 }

@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "item/armor/unequip_wolf1",
-      "hash": "e3f04a632629e09c2d016ec81cbb5e611946a008",
+      "hash": "8515daefb7997178c39bf3ee44e418122098fb71",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23011,
+      "size": 9395,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/armor/unequip_wolf2",
-      "hash": "e24a2cac0ddc2f27cd6e74181ad0719b2cda33c6",
+      "hash": "04ac3b928398bfa3762c6c2874cc66dcd8381472",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21604,
+      "size": 9238,
       "preload": false,
       "stream": false
     }

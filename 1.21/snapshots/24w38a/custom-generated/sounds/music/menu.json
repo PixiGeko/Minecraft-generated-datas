@@ -2,89 +2,89 @@
   "sounds": [
     {
       "name": "music/game/deeper",
-      "hash": "86c13073d03ea8891b5009e17b9fdc04844d2768",
+      "hash": "8e901a9a5e4daee7e3cbff8a3529d0a4148f8406",
       "volume": 0.4,
-      "size": 16490768,
+      "size": 4419136,
       "stream": true
     },
     {
       "name": "music/game/eld_unknown",
-      "hash": "1f1449907421a81fee5f78d6c6861fa7a2d80ba4",
+      "hash": "1346ff09e77c8506476a017f63d9a820f25f0839",
       "volume": 0.4,
-      "size": 16979197,
+      "size": 4959623,
       "stream": true
     },
     {
       "name": "music/game/endless",
-      "hash": "68db83394860feaabdafb2b01a6acb029e7705d9",
+      "hash": "14221fedadd7431bc557f36be1af86582955f7c5",
       "volume": 0.4,
-      "size": 21252875,
+      "size": 5323546,
       "stream": true
     },
     {
       "name": "music/game/featherfall",
-      "hash": "c497c8c1dada852bafaa9ac17c5c30f37d0befed",
+      "hash": "0c62057c8a75b57a8f06e7c1bc1b21a7f88d4820",
       "volume": 0.4,
-      "size": 18074685,
+      "size": 4731149,
       "stream": true
     },
     {
       "name": "music/game/komorebi",
-      "hash": "16f4e71923c1ebfbe33fd27c858bc068c9ea370e",
+      "hash": "c3e6d3f34a7221360ad11d18335edd6709df4609",
       "volume": 0.8,
-      "size": 14553435,
+      "size": 3932384,
       "stream": true
     },
     {
       "name": "music/game/pokopoko",
-      "hash": "e1b9ec95afb8fbb100bc4bf724316e9450b0bfa2",
+      "hash": "2142a00de645aa748b908c74fc275a3025b8bd90",
       "volume": 0.8,
-      "size": 15076977,
+      "size": 4084418,
       "stream": true
     },
     {
       "name": "music/game/puzzlebox",
-      "hash": "953ae3a3073e78def006e3cb73c6687ae4cc1280",
+      "hash": "cb01089f7f2a4e84b36790efa99f3ed89ef08f5e",
       "volume": 0.4,
-      "size": 17516191,
+      "size": 4245980,
       "stream": true
     },
     {
       "name": "music/game/watcher",
-      "hash": "27132102cc62dbd42716cd0bf5906420265bb32d",
+      "hash": "4878a57f39655fedb891c16425e55a3cd91a2d70",
       "volume": 0.4,
-      "size": 17083011,
+      "size": 4645995,
       "stream": true
     },
     {
       "name": "music/game/yakusoku",
-      "hash": "695ebecf6c36de73a4d57a080811ef63802011cf",
+      "hash": "e36444071568c3273ea00627ed5462275cd6828e",
       "volume": 0.8,
-      "size": 14348153,
+      "size": 4009698,
       "stream": true
     },
     {
       "name": "music/menu/beginning_2",
-      "hash": "87722a59c8d488370f3d430cd4c97a3161081785",
-      "size": 1724614,
+      "hash": "fe440be99066e6efcdb809c00d706bc62a500184",
+      "size": 2176741,
       "stream": true
     },
     {
       "name": "music/menu/floating_trees",
-      "hash": "15f38314274e759c44f50ac641d11bde12474a25",
-      "size": 2017245,
+      "hash": "3cf507fd0a0288688962bd265839e4a706f5d24b",
+      "size": 2316450,
       "stream": true
     },
     {
       "name": "music/menu/moog_city_2",
-      "hash": "783ddccf4681a0c50d3e651f4e6ac27a0f4ea76f",
-      "size": 1809290,
+      "hash": "215583bfda553bb04b5b15ef27d643abfe5fa2f1",
+      "size": 2050243,
       "stream": true
     },
     {
       "name": "music/menu/mutation",
-      "hash": "c157c56846f0e50620f808fecd9d069423dd6c41",
-      "size": 1744657,
+      "hash": "f5d6381c34a8154bfd3fdbb67fa87d9fca6794f0",
+      "size": 2062591,
       "stream": true
     }
   ]

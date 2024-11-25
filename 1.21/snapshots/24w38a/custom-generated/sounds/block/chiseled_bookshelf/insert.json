@@ -3,83 +3,83 @@
   "sounds": [
     {
       "name": "block/chiseled_bookshelf/insert1",
-      "hash": "922d1220c168dcc899672b6b26bbbbd3662507bb",
+      "hash": "ff0253a660370841a8e7a1e3370c66c0e3a29dac",
       "volume": 0.8,
-      "size": 15038
+      "size": 7146
     },
     {
       "name": "block/chiseled_bookshelf/insert1",
-      "hash": "922d1220c168dcc899672b6b26bbbbd3662507bb",
+      "hash": "ff0253a660370841a8e7a1e3370c66c0e3a29dac",
       "volume": 0.8,
       "pitch": 0.85,
-      "size": 15038
+      "size": 7146
     },
     {
       "name": "block/chiseled_bookshelf/insert1",
-      "hash": "922d1220c168dcc899672b6b26bbbbd3662507bb",
+      "hash": "ff0253a660370841a8e7a1e3370c66c0e3a29dac",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 15038
+      "size": 7146
     },
     {
       "name": "block/chiseled_bookshelf/insert2",
-      "hash": "d422688a19eb4e943b40c28d38f7b7b6f51f9332",
+      "hash": "b9a13347bb6c94d96fe798668415fd04092915f4",
       "volume": 0.8,
-      "size": 13486
+      "size": 7114
     },
     {
       "name": "block/chiseled_bookshelf/insert2",
-      "hash": "d422688a19eb4e943b40c28d38f7b7b6f51f9332",
+      "hash": "b9a13347bb6c94d96fe798668415fd04092915f4",
       "volume": 0.8,
       "pitch": 0.85,
-      "size": 13486
+      "size": 7114
     },
     {
       "name": "block/chiseled_bookshelf/insert2",
-      "hash": "d422688a19eb4e943b40c28d38f7b7b6f51f9332",
+      "hash": "b9a13347bb6c94d96fe798668415fd04092915f4",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 13486
+      "size": 7114
     },
     {
       "name": "block/chiseled_bookshelf/insert3",
-      "hash": "8ea84646d64a6a45e53b9f648ca3fae7c825ef34",
+      "hash": "7739ae87621d47ff47a36d6cadf2984438f7ffe5",
       "volume": 0.8,
-      "size": 12618
+      "size": 6546
     },
     {
       "name": "block/chiseled_bookshelf/insert3",
-      "hash": "8ea84646d64a6a45e53b9f648ca3fae7c825ef34",
+      "hash": "7739ae87621d47ff47a36d6cadf2984438f7ffe5",
       "volume": 0.8,
       "pitch": 0.85,
-      "size": 12618
+      "size": 6546
     },
     {
       "name": "block/chiseled_bookshelf/insert3",
-      "hash": "8ea84646d64a6a45e53b9f648ca3fae7c825ef34",
+      "hash": "7739ae87621d47ff47a36d6cadf2984438f7ffe5",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 12618
+      "size": 6546
     },
     {
       "name": "block/chiseled_bookshelf/insert4",
-      "hash": "5cf323a496d65365dbcc7eb219a4fcc0bb5f57a1",
+      "hash": "c1cf9cd1fa97cb04795683a80959be56b5a08374",
       "volume": 0.8,
-      "size": 15043
+      "size": 7524
     },
     {
       "name": "block/chiseled_bookshelf/insert4",
-      "hash": "5cf323a496d65365dbcc7eb219a4fcc0bb5f57a1",
+      "hash": "c1cf9cd1fa97cb04795683a80959be56b5a08374",
       "volume": 0.8,
       "pitch": 0.85,
-      "size": 15043
+      "size": 7524
     },
     {
       "name": "block/chiseled_bookshelf/insert4",
-      "hash": "5cf323a496d65365dbcc7eb219a4fcc0bb5f57a1",
+      "hash": "c1cf9cd1fa97cb04795683a80959be56b5a08374",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 15043
+      "size": 7524
     }
   ]
 }

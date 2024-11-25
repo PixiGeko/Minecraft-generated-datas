@@ -3,31 +3,31 @@
   "sounds": [
     {
       "name": "item/brush/brushing_gravel1",
-      "hash": "5cb45773f1d399db399d0214efc75f3ade0f81d5",
+      "hash": "ee2eaa8a52780fe3d3ca89860fe4ec408038face",
       "volume": 0.6,
       "pitch": 0.6,
-      "size": 25379
+      "size": 9741
     },
     {
       "name": "item/brush/brushing_gravel2",
-      "hash": "051771e490ab3e8bad5fd8efd92ff9ec712d0330",
+      "hash": "41055e11b0eaa0a3d53408b63a505e77c85958b8",
       "volume": 0.6,
       "pitch": 0.6,
-      "size": 20653
+      "size": 8648
     },
     {
       "name": "item/brush/brushing_gravel3",
-      "hash": "f663456261959e7d133189a77ad553c762d4d664",
+      "hash": "9263cdc07e710b3ab85d72c4d64799f3b23dd493",
       "volume": 0.6,
       "pitch": 0.6,
-      "size": 24377
+      "size": 9632
     },
     {
       "name": "item/brush/brushing_gravel4",
-      "hash": "44fd98a98f08ff8ff436f2f836252208a3d52ad2",
+      "hash": "d13a0f970a059d6af9364f4e84588c109773bbb7",
       "volume": 0.6,
       "pitch": 0.6,
-      "size": 21717
+      "size": 9142
     }
   ]
 }

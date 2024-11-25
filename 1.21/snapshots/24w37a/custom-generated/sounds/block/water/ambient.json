@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "liquid/water",
-      "hash": "3483650440deb3934255e044ddabff5b01a65356",
+      "hash": "e75c6077b1bfa4a791d62d9951d6e8891757ad1c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 36329,
+      "size": 30275,
       "preload": false,
       "stream": false
     }

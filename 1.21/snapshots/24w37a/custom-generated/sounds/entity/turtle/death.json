@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/turtle/death1",
-      "hash": "4624c464dbcf6eaa5dba21355ae45d6101c4c905",
+      "hash": "ce6bae8ef864dfac0f666120b8e2c8cccf0f7a2f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 41904,
+      "size": 20006,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/death2",
-      "hash": "c35bf3329b44361a911f71325bf6d47998013dfa",
+      "hash": "fd1c4105ae5f14595ee6dc230594740d8d809f0b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 46779,
+      "size": 20658,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/death3",
-      "hash": "9a827dd1c53aa200bbd0a0b899807756ea76b9cc",
+      "hash": "387af78d9a3c17f3f09a42c7dceef2fa4f2cd161",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 46448,
+      "size": 20410,
       "preload": false,
       "stream": false
     }

@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/wolf/bark1",
-      "hash": "2452c64a55eaef86bf1b668bb4d5f3b641cd8f25",
+      "hash": "527618d2fbb9712950357c4d5e95cfb86ffee417",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5398,
+      "size": 5972,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wolf/bark2",
-      "hash": "9f1708a6409d04370ec12d0add015b11abbd5371",
+      "hash": "91e49e790fcff847789f84be16acd4baed935b95",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5447,
+      "size": 5877,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wolf/bark3",
-      "hash": "1ddae4e8dfa605e27ec8278b3e312597b674437e",
+      "hash": "c75a24f3faeecd3a93af8bea54694c059b079fc4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5645,
+      "size": 6340,
       "preload": false,
       "stream": false
     }

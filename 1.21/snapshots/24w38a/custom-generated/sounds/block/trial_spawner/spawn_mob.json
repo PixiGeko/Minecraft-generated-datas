@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/trial_spawner/spawn1",
-      "hash": "3608722543847655288247fa525a1fa049a5aa08",
+      "hash": "f95e9a960a796d7582c3cebff6fe3e5333164911",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 45092,
+      "size": 16832,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/trial_spawner/spawn2",
-      "hash": "59f4b7fc2d26a2c35125c97c6c535f545ea92fd8",
+      "hash": "4904ea79799cddee7169cef551c0d09450ac31bd",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 54774,
+      "size": 20767,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/trial_spawner/spawn3",
-      "hash": "58fdda424b9be880eca4a9da0d0aaf6ede10b4d2",
+      "hash": "8f6d15acc509936941efdc566b60c66365b1561e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 55424,
+      "size": 20802,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/trial_spawner/spawn4",
-      "hash": "4c6ef668e5a68fec125882632b143a5ffc3f4438",
+      "hash": "abbb3a6b3bfe83e1c3e75db04580d6bdd0adbcaf",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 57431,
+      "size": 20138,
       "preload": false,
       "stream": false
     }

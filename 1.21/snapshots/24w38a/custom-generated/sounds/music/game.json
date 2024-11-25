@@ -2,144 +2,144 @@
   "sounds": [
     {
       "name": "music/game/a_familiar_room",
-      "hash": "c1c3b7233b080ffc17389af8b68a46b2df798ef1",
+      "hash": "7f77e186063198933a7dd67eb492ae4d74839dd9",
       "volume": 0.4,
-      "size": 6669455,
+      "size": 2325765,
       "stream": true
     },
     {
       "name": "music/game/clark",
-      "hash": "74da65c99aa578486efa7b69983d3533e14c0d6e",
-      "size": 1976731,
+      "hash": "bbb301a6ed65e5e92eb97b601b9ea9979324bccf",
+      "size": 2145295,
       "stream": true
     },
     {
       "name": "music/game/comforting_memories",
-      "hash": "cab779f1a15d9fe49bcc975d077717ebd1f87cda",
+      "hash": "1c9aa4f2710ac7025a56f99feb132a29cf5a2b64",
       "volume": 0.4,
-      "size": 11097991,
+      "size": 3516383,
       "stream": true
     },
     {
       "name": "music/game/danny",
-      "hash": "5e7d63e75c6e042f452bc5e151276911ef92fed8",
-      "size": 2558252,
+      "hash": "603fd41ebe3eac0795ebfa0b31195be1866d1e9c",
+      "size": 2950673,
       "stream": true
     },
     {
       "name": "music/game/dry_hands",
-      "hash": "0f374764aafba398f4ba90dba05a53a9e6166138",
-      "size": 542805,
+      "hash": "53976ed366c97ad86c1d7ce21497c9985f33d4f1",
+      "size": 634322,
       "stream": true
     },
     {
       "name": "music/game/featherfall",
-      "hash": "c497c8c1dada852bafaa9ac17c5c30f37d0befed",
+      "hash": "0c62057c8a75b57a8f06e7c1bc1b21a7f88d4820",
       "volume": 0.4,
-      "size": 18074685,
+      "size": 4731149,
       "stream": true
     },
     {
       "name": "music/game/floating_dream",
-      "hash": "45bdfe06cc8c375dc507e59527c9a89105980085",
+      "hash": "dec42f5a10b6a0018594bdb868882ddccf04f52e",
       "volume": 0.4,
-      "size": 4761864,
+      "size": 2239177,
       "stream": true
     },
     {
       "name": "music/game/haggstrom",
-      "hash": "dd85fb564e96ee2dbd4754f711ae9deb08a169f9",
-      "size": 1923269,
+      "hash": "c25705e16f1d51a56a2b0a4604250b3844ceadcf",
+      "size": 2178666,
       "stream": true
     },
     {
       "name": "music/game/key",
-      "hash": "cc1a80b6becfc6d6489c069f053d0a8adc71c339",
-      "size": 156322,
+      "hash": "8ee9d608f0bbb2d0513af7bfc1b55e591ada05ea",
+      "size": 656170,
       "stream": true
     },
     {
       "name": "music/game/komorebi",
-      "hash": "16f4e71923c1ebfbe33fd27c858bc068c9ea370e",
+      "hash": "c3e6d3f34a7221360ad11d18335edd6709df4609",
       "volume": 0.8,
-      "size": 14553435,
+      "size": 3932384,
       "stream": true
     },
     {
       "name": "music/game/left_to_bloom",
-      "hash": "aa1d3aace1c481ac32d5827fba287294b6bc99fb",
+      "hash": "a971ae2004798c14bc3387cfd1b89420092b3263",
       "volume": 0.4,
-      "size": 17607318,
+      "size": 4663128,
       "stream": true
     },
     {
       "name": "music/game/living_mice",
-      "hash": "ceaaaa1d57dfdfbb0bd4da5ea39628b42897a687",
-      "size": 1754429,
+      "hash": "532fdae2fd43bc046f78a1b7b79f28161f25fc4c",
+      "size": 2008986,
       "stream": true
     },
     {
       "name": "music/game/mice_on_venus",
-      "hash": "9528b6a76e7bac64ca1145cc682e8a8448cc04e5",
-      "size": 2665984,
+      "hash": "06a2f38a094573652977232abcc4f268cf6745ad",
+      "size": 2943549,
       "stream": true
     },
     {
       "name": "music/game/minecraft",
-      "hash": "50a59a4f56e4046701b758ddbb1c1587efa4cadf",
-      "size": 2530812,
+      "hash": "7f7777e5d5b163c5d64201fd53e5682599548a49",
+      "size": 2860084,
       "stream": true
     },
     {
       "name": "music/game/one_more_day",
-      "hash": "8b0b49dcab54157bb02ef81380990dac2a187b99",
+      "hash": "324f58251829988ad3f4a5f7dc39b647fdcc2639",
       "volume": 0.4,
-      "size": 14684917,
+      "size": 4014339,
       "stream": true
     },
     {
       "name": "music/game/oxygene",
-      "hash": "78152dc42b036e0de7616e6e669ce5a81d17f82a",
-      "size": 219029,
+      "hash": "b99889832d7f9abe35725506e4cd48075e25f957",
+      "size": 765694,
       "stream": true
     },
     {
       "name": "music/game/puzzlebox",
-      "hash": "953ae3a3073e78def006e3cb73c6687ae4cc1280",
+      "hash": "cb01089f7f2a4e84b36790efa99f3ed89ef08f5e",
       "volume": 0.4,
-      "size": 17516191,
+      "size": 4245980,
       "stream": true
     },
     {
       "name": "music/game/subwoofer_lullaby",
-      "hash": "df1ff11b79757432c5c3f279e5ecde7b63ceda64",
-      "size": 1972217,
+      "hash": "0dbcd56e6d8a931818f0913a0e23f784106d4ad8",
+      "size": 2196234,
       "stream": true
     },
     {
       "name": "music/game/sweden",
-      "hash": "14ae57a6bce3d4254daa8be2b098c2d99743cc3f",
-      "size": 2232651,
+      "hash": "be9b14926936c4509f7fe5002cdfbba3b2752d82",
+      "size": 2551609,
       "stream": true
     },
     {
       "name": "music/game/watcher",
-      "hash": "27132102cc62dbd42716cd0bf5906420265bb32d",
+      "hash": "4878a57f39655fedb891c16425e55a3cd91a2d70",
       "volume": 0.4,
-      "size": 17083011,
+      "size": 4645995,
       "stream": true
     },
     {
       "name": "music/game/wet_hands",
-      "hash": "98a918eb2694defd19726436d4b9dca9e7dd6a65",
-      "size": 824333,
+      "hash": "e8a73969b515a15df138a4d55b07f4ff573db25f",
+      "size": 986427,
       "stream": true
     },
     {
       "name": "music/game/yakusoku",
-      "hash": "695ebecf6c36de73a4d57a080811ef63802011cf",
+      "hash": "e36444071568c3273ea00627ed5462275cd6828e",
       "volume": 0.8,
-      "size": 14348153,
+      "size": 4009698,
       "stream": true
     }
   ]

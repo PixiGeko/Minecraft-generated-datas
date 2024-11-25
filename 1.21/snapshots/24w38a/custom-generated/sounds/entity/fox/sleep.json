@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "mob/fox/sleep1",
-      "hash": "19ba043db0954941955f7132ccd67d5b777c226b",
+      "hash": "e3cc500d7f48934f7f7198e5a88f529a72016dcd",
       "volume": 0.8,
-      "size": 34706
+      "size": 15700
     },
     {
       "name": "mob/fox/sleep2",
-      "hash": "9e743fd55eb8fee778514e9882ef303d714550d6",
+      "hash": "5dc64ea990d5980f7b435d65590b5fadc583c22c",
       "volume": 0.8,
-      "size": 23596
+      "size": 11262
     },
     {
       "name": "mob/fox/sleep3",
-      "hash": "b2925156f26131f9e762951360d066284caf5a5a",
+      "hash": "bb1c912446199a6b0e45e18c6d5ff586f6261610",
       "volume": 0.8,
-      "size": 36516
+      "size": 17770
     },
     {
       "name": "mob/fox/sleep4",
-      "hash": "01fedceeef03d06f3f419b371c0dfa6e1dca0939",
+      "hash": "cdfc9ce095217d16a3783fa493b32b1d39cb3332",
       "volume": 0.8,
-      "size": 41799
+      "size": 20350
     },
     {
       "name": "mob/fox/sleep5",
-      "hash": "f4895142852b2fadc78939bbf37fdcfc9524d3fd",
+      "hash": "d9766e5713edb90c8b20409701f630b287e0a23d",
       "volume": 0.8,
-      "size": 29247
+      "size": 14611
     }
   ]
 }

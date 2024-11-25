@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "entity/player/attack/knockback1",
-      "hash": "08626fc2a337c28b5dfdafb6daa9ea31f9a70571",
+      "hash": "75d437919fe1cbd8b594762778abe50262adddf6",
       "volume": 0.7,
-      "size": 8148
+      "size": 8531
     },
     {
       "name": "entity/player/attack/knockback2",
-      "hash": "0556f8b2dc424e7368b4ab9f8a315aa26982e3fc",
+      "hash": "9c20f972468b42ef0e91d36f163059b8cad93677",
       "volume": 0.7,
-      "size": 7428
+      "size": 8108
     },
     {
       "name": "entity/player/attack/knockback3",
-      "hash": "085a6cd2e023877254d1118c403f39e556c003cb",
+      "hash": "3083ff465e1d177eebb73788a43a1855b9ec64ed",
       "volume": 0.7,
-      "size": 8234
+      "size": 8516
     },
     {
       "name": "entity/player/attack/knockback4",
-      "hash": "1c722dfd43b06c28273bc8c56d1d02c1a6ea5e48",
+      "hash": "93c50c20f4eb2d3f6116f8b354fb5d5090e78712",
       "volume": 0.7,
-      "size": 8442
+      "size": 8962
     }
   ]
 }

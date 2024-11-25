@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "mob/armadillo/scute_drop1",
-      "hash": "ab106a4d5ebb591dd998cd021bd53a446800ff34",
+      "hash": "41a397f9f400b11f378a94f1e56f5a78c8d66d1d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10673,
+      "size": 5863,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/scute_drop1",
-      "hash": "ab106a4d5ebb591dd998cd021bd53a446800ff34",
+      "hash": "41a397f9f400b11f378a94f1e56f5a78c8d66d1d",
       "pitch": 0.9,
-      "size": 10673
+      "size": 5863
     },
     {
       "name": "mob/armadillo/scute_drop2",
-      "hash": "64c7611a394b9adf8a532156cdc168fba9ef28eb",
+      "hash": "f35d5bf4f37c7206f51c736918e72ee0f77efe3a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11574,
+      "size": 6066,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/armadillo/scute_drop2",
-      "hash": "64c7611a394b9adf8a532156cdc168fba9ef28eb",
+      "hash": "f35d5bf4f37c7206f51c736918e72ee0f77efe3a",
       "pitch": 0.9,
-      "size": 11574
+      "size": 6066
     }
   ]
 }

@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "entity/fish/hurt1",
-      "hash": "7c913182e2d4ddba07c784252a52c12f6bd9e326",
+      "hash": "d6daf3b5976d491e69f19becea691611027656ed",
       "pitch": 0.8,
-      "size": 17697
+      "size": 8392
     },
     {
       "name": "entity/fish/hurt2",
-      "hash": "0d49fd8c436e66eb5af3a1c0244d20606e4f7716",
+      "hash": "0595544638db96f0add571c3a6ef133d0e90f4db",
       "pitch": 0.8,
-      "size": 19945
+      "size": 10036
     },
     {
       "name": "entity/fish/hurt3",
-      "hash": "209a37c10f716cd20eb9837e2a89fb2b60614703",
+      "hash": "c020d240c75d0f7722c8a9389e9360adf0b141ac",
       "pitch": 0.8,
-      "size": 13973
+      "size": 7989
     },
     {
       "name": "entity/fish/hurt4",
-      "hash": "2d52b67698da28316cd9cdb50eb8d6eb93a2abf4",
+      "hash": "246b84dff55d2750e1656fe94964f127a0d14ec2",
       "pitch": 0.8,
-      "size": 21995
+      "size": 11133
     }
   ]
 }

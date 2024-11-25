@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/endermen/hit1",
-      "hash": "753a88c1d9b3b46210c18ff07974955463edd18b",
+      "hash": "a6edf57f2e84d56a45c1936f34f88da69184ebb4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6883,
+      "size": 7373,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/endermen/hit2",
-      "hash": "cf60aefd0b742c3fa15e808c1a0c33aebd534cc5",
+      "hash": "54ab48277ef3c82cf46e0b044180aced6fa08c9c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6491,
+      "size": 7102,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/endermen/hit3",
-      "hash": "aaa8f1705c873ebc05da460657c8b83fa01ffd57",
+      "hash": "6e9c3f42dabbab33be160964f49f145ac181c711",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6564,
+      "size": 7158,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/endermen/hit4",
-      "hash": "6e0f9074e049a6c30402d70cc75a5da99042e00c",
+      "hash": "f0af45e814823e47963d702a38ef90c7d515bdc9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5573,
+      "size": 6079,
       "preload": false,
       "stream": false
     }

@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "entity/witch/throw1",
-      "hash": "455016d86e1ace53fc732190416dccca8cad40fa",
+      "hash": "a2ba5981d87d17865c72fb54463bfaa344888851",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4747,
+      "size": 5097,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/witch/throw2",
-      "hash": "b81ffdb8b4932bdc9f0692423d426b8f2334da6c",
+      "hash": "895d6705151e0df42c7f95e62935159da7324976",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4652,
+      "size": 5030,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/witch/throw3",
-      "hash": "c07715ed9a7c41e554f30c86ab2e6818b4d4a6c8",
+      "hash": "8188fca013d11018a5fa2ebfe1543e8595576831",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5137,
+      "size": 5588,
       "preload": false,
       "stream": false
     }

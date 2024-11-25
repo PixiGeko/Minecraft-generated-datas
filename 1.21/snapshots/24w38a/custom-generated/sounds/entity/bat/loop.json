@@ -2,13 +2,13 @@
   "sounds": [
     {
       "name": "mob/bat/loop",
-      "hash": "e260582909112ec3c255d1ec0375c7913df5f9f8",
+      "hash": "7a9bef29a41d8a734e861952d5ce14076a80c1e1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16510,
+      "size": 17796,
       "preload": false,
       "stream": false
     }

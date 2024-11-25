@@ -3,29 +3,29 @@
   "sounds": [
     {
       "name": "mob/hoglin/attack1",
-      "hash": "510b03b2e3acaca0d7f16c401c50d079dc89ccd7",
+      "hash": "bf3b3574b32a1a2f607cbbd4eb0b88b9e6b531c1",
       "volume": 0.8,
-      "size": 18936
+      "size": 8532
     },
     {
       "name": "mob/hoglin/attack1",
-      "hash": "510b03b2e3acaca0d7f16c401c50d079dc89ccd7",
+      "hash": "bf3b3574b32a1a2f607cbbd4eb0b88b9e6b531c1",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 18936
+      "size": 8532
     },
     {
       "name": "mob/hoglin/attack2",
-      "hash": "34d5945158b5e347b6a107fb051175b48ef3cf26",
+      "hash": "d3fd06b9ff3f8c6696169a19e5031de6bbfa15de",
       "volume": 0.8,
-      "size": 30984
+      "size": 13114
     },
     {
       "name": "mob/hoglin/attack2",
-      "hash": "34d5945158b5e347b6a107fb051175b48ef3cf26",
+      "hash": "d3fd06b9ff3f8c6696169a19e5031de6bbfa15de",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 30984
+      "size": 13114
     }
   ]
 }

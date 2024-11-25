@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/vindication_illager/hurt1",
-      "hash": "b28d52e4ac00b71576a78bdbad0f773ec8756b66",
+      "hash": "8d22f72686dcf0e857e35620b7a2a44624471f3a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6290,
+      "size": 6655,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/vindication_illager/hurt2",
-      "hash": "04d181f5f4d61d2215175a1e63e7caaf9b624ab2",
+      "hash": "b9361288a03fad98053bf519ea7eced31e072099",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6573,
+      "size": 6860,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/vindication_illager/hurt3",
-      "hash": "4d279a6cc6dd3161ed273cc6796ae99d1a3a2175",
+      "hash": "2e8e4851fce57c409245a321827275f390158f89",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6764,
+      "size": 7242,
       "preload": false,
       "stream": false
     }

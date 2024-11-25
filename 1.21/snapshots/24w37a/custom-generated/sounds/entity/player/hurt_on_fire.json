@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "entity/player/hurt/fire_hurt1",
-      "hash": "6c5e816813bc17b1d7b65676e1ee29496d88015b",
+      "hash": "90256cbc94aa370ec98b61726693a57093112b14",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18677,
+      "size": 19056,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/player/hurt/fire_hurt2",
-      "hash": "ee8edac9e045dbc0417c4f8bec83d291df40da61",
+      "hash": "b487d1bff4d74ff09603ee6fc5134c6d7382b768",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16723,
+      "size": 17215,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/player/hurt/fire_hurt3",
-      "hash": "d5a6435947ff3b0b2a161cc37d419cd7c49cf8b4",
+      "hash": "7215144981a575cebaf1def177005af78969d644",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16619,
+      "size": 17249,
       "preload": false,
       "stream": false
     }

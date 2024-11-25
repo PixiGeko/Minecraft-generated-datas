@@ -3,75 +3,75 @@
   "sounds": [
     {
       "name": "item/bundle/insert1",
-      "hash": "13067cc3d724d3e2d454de39d2b9a038ca87f985",
+      "hash": "c67d6555fcbd313040687c2d8df3036ad4c18275",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17240,
+      "size": 7527,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bundle/insert1",
-      "hash": "13067cc3d724d3e2d454de39d2b9a038ca87f985",
+      "hash": "c67d6555fcbd313040687c2d8df3036ad4c18275",
       "pitch": 0.95,
-      "size": 17240
+      "size": 7527
     },
     {
       "name": "item/bundle/insert1",
-      "hash": "13067cc3d724d3e2d454de39d2b9a038ca87f985",
+      "hash": "c67d6555fcbd313040687c2d8df3036ad4c18275",
       "pitch": 1.05,
-      "size": 17240
+      "size": 7527
     },
     {
       "name": "item/bundle/insert2",
-      "hash": "f3df51414c25d7f0416dff5b5f628fee5ecbd22f",
+      "hash": "8ac3455f9b5cc8b7e92bfa750ee40186389bbb55",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16999,
+      "size": 7482,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bundle/insert2",
-      "hash": "f3df51414c25d7f0416dff5b5f628fee5ecbd22f",
+      "hash": "8ac3455f9b5cc8b7e92bfa750ee40186389bbb55",
       "pitch": 0.95,
-      "size": 16999
+      "size": 7482
     },
     {
       "name": "item/bundle/insert2",
-      "hash": "f3df51414c25d7f0416dff5b5f628fee5ecbd22f",
+      "hash": "8ac3455f9b5cc8b7e92bfa750ee40186389bbb55",
       "pitch": 1.05,
-      "size": 16999
+      "size": 7482
     },
     {
       "name": "item/bundle/insert3",
-      "hash": "e5d5aaf75d0f8907647a65435f051e915297b723",
+      "hash": "526895e2cd6d5655326f39f8b045a2761c89094d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17838,
+      "size": 7497,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bundle/insert3",
-      "hash": "e5d5aaf75d0f8907647a65435f051e915297b723",
+      "hash": "526895e2cd6d5655326f39f8b045a2761c89094d",
       "pitch": 0.95,
-      "size": 17838
+      "size": 7497
     },
     {
       "name": "item/bundle/insert3",
-      "hash": "e5d5aaf75d0f8907647a65435f051e915297b723",
+      "hash": "526895e2cd6d5655326f39f8b045a2761c89094d",
       "pitch": 1.05,
-      "size": 17838
+      "size": 7497
     }
   ]
 }

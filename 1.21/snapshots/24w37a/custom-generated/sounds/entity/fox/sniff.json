@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/fox/sniff1",
-      "hash": "5a25e46c2e04a151df997af3824a8f37eb0a6826",
+      "hash": "afc9566a2e61b2065ce99bb1d5e7184b65930408",
       "volume": 0.6,
-      "size": 22166
+      "size": 10846
     },
     {
       "name": "mob/fox/sniff2",
-      "hash": "4635dcc99501a4a3dab6875b48d2011c5a0064f1",
+      "hash": "cb32aeeebd928a290e60f59e51ea309edeefcfa0",
       "volume": 0.6,
-      "size": 24237
+      "size": 11390
     },
     {
       "name": "mob/fox/sniff3",
-      "hash": "62e1d8bee8e027e1d2e665f1a81092fd851d1265",
+      "hash": "1215e91ae93d796612c0e7bc4b46d2d600a6a204",
       "volume": 0.6,
-      "size": 17024
+      "size": 8691
     },
     {
       "name": "mob/fox/sniff4",
-      "hash": "821018ad1ae5eb291ca7de5b0a4f781585601f86",
+      "hash": "4d9169f5ec84feb825c784696b1b45368fd77611",
       "volume": 0.6,
-      "size": 16451
+      "size": 8348
     }
   ]
 }

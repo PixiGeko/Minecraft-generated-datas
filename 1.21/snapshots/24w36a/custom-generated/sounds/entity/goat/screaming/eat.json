@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/goat/eat1",
-      "hash": "e2f87dcb0a48a7155b5f2e85de6e137adab2bb21",
+      "hash": "5e881ee2418a6311e99592bfdb745faa8987792e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 38912,
+      "size": 14180,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/goat/eat2",
-      "hash": "09d91f722797cc5b7098f329eb219db508edcd0b",
+      "hash": "b95f32ed10e41cb19986179bcb35fad4ee89e146",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 32688,
+      "size": 12423,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/goat/eat3",
-      "hash": "7db2a9027c7327f1402d3b4d67f455974750dae1",
+      "hash": "53d78c3a4afe30b5ec5a54e969647572bf72e9d2",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 26049,
+      "size": 10547,
       "preload": false,
       "stream": false
     }

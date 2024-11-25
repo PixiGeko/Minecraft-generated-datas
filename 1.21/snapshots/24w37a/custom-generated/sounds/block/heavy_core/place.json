@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/heavy_core/break1",
-      "hash": "a29251cdc7c577524079dfc850af830d058a6af1",
+      "hash": "8b4ac501a75c7a3f64b2a822b1f099a828ea8297",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14121,
+      "size": 7738,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/heavy_core/break2",
-      "hash": "bd6d8184b282408937f17485ed1b22ccca29b596",
+      "hash": "2f5ef01938e2150b020e84704f8f1d1097dc8879",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15391,
+      "size": 8152,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/heavy_core/break3",
-      "hash": "59cc8b47d9e893e6e329ae8477f3bcb7ef71166f",
+      "hash": "9c80b75f314a4da35fe312c4455577526e0098ab",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13683,
+      "size": 7322,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/heavy_core/break4",
-      "hash": "96a21a8fa4e8bbbdc2eaf3b720ffb9f9234b8c93",
+      "hash": "77b0b1385766ddfaf61bf952bf4bc056fb594782",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15124,
+      "size": 8059,
       "preload": false,
       "stream": false
     }

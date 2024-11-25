@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "block/vault/activate",
-      "hash": "73df1a455ae665dc711edc5471740f4415f3a30d",
+      "hash": "92dab48dc7436bd2b2cc564c9190f934f9fd5463",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 35322,
+      "size": 14535,
       "preload": false,
       "stream": false
     }

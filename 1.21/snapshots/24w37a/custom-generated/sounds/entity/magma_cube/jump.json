@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/magmacube/jump1",
-      "hash": "86a2a7206c769aaa9435aabba70be201cb3e3a6b",
+      "hash": "1e00e965fd5a742ae5557c5dfb9091d65fb1db59",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12540,
+      "size": 13100,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/magmacube/jump2",
-      "hash": "3285a993220dcea1fc37e98b9aa9219422c2c095",
+      "hash": "a844931912efa27ca3f73a5d75ad377536ffea92",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12973,
+      "size": 13862,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/magmacube/jump3",
-      "hash": "5a2449cc3d4a6ad36598847e501f956e5a3528bd",
+      "hash": "d835073b99f1d326dd0f0c2dd6c0a97e19118062",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12258,
+      "size": 13180,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/magmacube/jump4",
-      "hash": "500e2543034b4c026fb175d48c47196c5d013fe8",
+      "hash": "b8bdf3ad47c431c1da576c60eeb018754357edab",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12902,
+      "size": 14643,
       "preload": false,
       "stream": false
     }

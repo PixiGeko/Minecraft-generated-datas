@@ -2,23 +2,23 @@
   "sounds": [
     {
       "name": "music/game/water/axolotl",
-      "hash": "ee92e4ed79b3c4c47eabe71b36375b5d3f05b017",
+      "hash": "12c0a5f206d75f11eaceb2395005038a496c8f11",
       "volume": 0.4,
-      "size": 10423856,
+      "size": 4228818,
       "stream": true
     },
     {
       "name": "music/game/water/dragon_fish",
-      "hash": "6be4491a5d1a5f0dd68fb36c310ecfe3501cafe1",
+      "hash": "b6955f323aa2f2eb7f6b480c9d2f053f6a314b50",
       "volume": 0.4,
-      "size": 12241436,
+      "size": 4938753,
       "stream": true
     },
     {
       "name": "music/game/water/shuniji",
-      "hash": "fd8db6a4ceb400e6abafb2a6b3ac53d871910b42",
+      "hash": "94e5b3f27e93bd060066e3e8aa45aac7eeababf6",
       "volume": 0.4,
-      "size": 8697303,
+      "size": 3410016,
       "stream": true
     }
   ]

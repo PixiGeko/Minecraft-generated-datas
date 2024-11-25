@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "dig/coral1",
-      "hash": "cd61da7894c952afa4ce081c6dff0bc00e20d5ac",
+      "hash": "e717312f23b16407ffba767e236da64fde668e7b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15927,
+      "size": 8549,
       "preload": false,
       "stream": false
     },
     {
       "name": "dig/coral2",
-      "hash": "251f772fcc263d83b98d448f1a234b877ae24730",
+      "hash": "02b6bcbd9c941183a6ebff340c10e4b7c3c5eb4c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15406,
+      "size": 8215,
       "preload": false,
       "stream": false
     },
     {
       "name": "dig/coral3",
-      "hash": "c7697521726dfabb88db2db7eeba3f9a3efbcc83",
+      "hash": "fa373b2d51876345ba5ac309fcc3f2536398caf0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19164,
+      "size": 9597,
       "preload": false,
       "stream": false
     },
     {
       "name": "dig/coral4",
-      "hash": "e398c144e0b7ff60ac7400020015bb370a70d1f6",
+      "hash": "affbfd1a44bb29795b914c1f7dafbaae7b652194",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15066,
+      "size": 8161,
       "preload": false,
       "stream": false
     }

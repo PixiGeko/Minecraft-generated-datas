@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/vex/idle1",
-      "hash": "412fbf472c29b9eef3a08cafcf665c0c9bd93ab8",
+      "hash": "7a13ec82ec28b2adf2424a415ad5bcb67bbc4ccd",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16578,
+      "size": 16638,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/vex/idle2",
-      "hash": "23360665fe34480dae0056e9f11ef6c47cc8e3df",
+      "hash": "c7ce80fe971fc4644d149da5bf4756181468ed0e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 22480,
+      "size": 22565,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/vex/idle3",
-      "hash": "756529ea99c4e259d66b1dd0b945e7d62904e2c8",
+      "hash": "aa745efd1abcd1fa4c3b660d7e386f62df11cb7b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 24561,
+      "size": 24639,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/vex/idle4",
-      "hash": "e1473161a5f6e52bee97c38b1c05c8342503bbf2",
+      "hash": "6eb62a07da842363c903f38c3a67e520ceaa097f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 26684,
+      "size": 26729,
       "preload": false,
       "stream": false
     }

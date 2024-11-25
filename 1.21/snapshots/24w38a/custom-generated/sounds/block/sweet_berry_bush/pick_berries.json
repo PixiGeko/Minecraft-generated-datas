@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "item/sweet_berries/pick_from_bush1",
-      "hash": "46f39e069bda986e13f1e249abb7fbe40ab6d670",
+      "hash": "6a9c1661d8915ca8528e2d8ee88c4cd6ff238307",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5356,
+      "size": 6328,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/sweet_berries/pick_from_bush2",
-      "hash": "6b43c008ee6f0bfdb830a10a960e366e8d6fc17c",
+      "hash": "25d61770bb505d80389d91fd2dfe47d0ca09a4f7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4936,
+      "size": 6317,
       "preload": false,
       "stream": false
     }

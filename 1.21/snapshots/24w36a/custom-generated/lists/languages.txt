@@ -52,6 +52,7 @@ gl_es.json
 haw_us.json
 he_il.json
 hi_in.json
+hn_no.json
 hr_hr.json
 hu_hu.json
 hy_am.json

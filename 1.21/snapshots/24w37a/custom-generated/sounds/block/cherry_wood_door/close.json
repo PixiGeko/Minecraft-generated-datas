@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/cherrywood_door/toggle1",
-      "hash": "d4d026beefbd60dde82c3ac8aa3230abe1ace1fc",
+      "hash": "8028f043cf9b7e73d4c89c3fcdb61b63f56e7322",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18878,
+      "size": 8396,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/cherrywood_door/toggle2",
-      "hash": "91e90c476138ab63fd578477dd95f76ac14934a2",
+      "hash": "bdda303d3448d7c3d0db185515fb2ac9c4923470",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17616,
+      "size": 7636,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/cherrywood_door/toggle3",
-      "hash": "cb4173aa39e5c90134e569f456831a33e724cb09",
+      "hash": "f9012db5040e08d07a22a620dcc405cdc3972ee5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16136,
+      "size": 7585,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/cherrywood_door/toggle4",
-      "hash": "75c7b109405d04ff20e1f5750969b3899a590358",
+      "hash": "411f1dfe2ae82294cf873be8195359911d089e86",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17346,
+      "size": 7987,
       "preload": false,
       "stream": false
     }

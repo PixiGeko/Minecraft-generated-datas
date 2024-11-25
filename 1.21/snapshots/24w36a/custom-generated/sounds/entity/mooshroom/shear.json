@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/sheep/shear",
-      "hash": "5d9055cf25f126c47e18637aeef917fa1ef61a42",
+      "hash": "1349548ded32689a6405b4f3bec19bba6da42d83",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6870,
+      "size": 7529,
       "preload": false,
       "stream": false
     }

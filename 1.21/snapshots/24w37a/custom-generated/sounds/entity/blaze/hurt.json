@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/blaze/hit1",
-      "hash": "cb1cf4b405d930ad27f09ea39d6a64f35fc13308",
+      "hash": "6e958c47928b592951feacce8015e0b308e39934",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7189,
+      "size": 7658,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/blaze/hit2",
-      "hash": "00b38fae5d28d99514a3e73a913af16359b12b7a",
+      "hash": "7b39a6fffd8da4772a541574ca89fe52825bb0e6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7356,
+      "size": 8198,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/blaze/hit3",
-      "hash": "97e09d51c82b78ab82fb3a4dbbb8cd701b2d0aeb",
+      "hash": "eabb8fadff028f3c7c6833ca7718e933ce88773b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7229,
+      "size": 8191,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/blaze/hit4",
-      "hash": "3f447f3e331b59ad014d9bd4a6536f98cf3a08c3",
+      "hash": "15d82386ec6836665d83b047bbb1738233b0e916",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7383,
+      "size": 8188,
       "preload": false,
       "stream": false
     }

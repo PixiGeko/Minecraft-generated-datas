@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "block/lodestone/lock1",
-      "hash": "e87cf2ab1472de6941912ad097396a65356900d9",
+      "hash": "4553885dcba9ad468a6cbda4f809d27eed83aeee",
       "pitch": 0.85,
-      "size": 49387
+      "size": 31548
     },
     {
       "name": "block/lodestone/lock1",
-      "hash": "e87cf2ab1472de6941912ad097396a65356900d9",
+      "hash": "4553885dcba9ad468a6cbda4f809d27eed83aeee",
       "pitch": 0.95,
-      "size": 49387
+      "size": 31548
     },
     {
       "name": "block/lodestone/lock2",
-      "hash": "1dcbca3b0a1c694b7a1e4fb6930c0689840658c0",
+      "hash": "60aa21f8848710db1609a5aa433efae63d8f0857",
       "pitch": 0.85,
-      "size": 44998
+      "size": 30022
     },
     {
       "name": "block/lodestone/lock2",
-      "hash": "1dcbca3b0a1c694b7a1e4fb6930c0689840658c0",
+      "hash": "60aa21f8848710db1609a5aa433efae63d8f0857",
       "pitch": 0.95,
-      "size": 44998
+      "size": 30022
     }
   ]
 }

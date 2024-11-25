@@ -3,15 +3,15 @@
   "sounds": [
     {
       "name": "mob/mooshroom/convert1",
-      "hash": "2dea3fdfdfc69bdc96372979bcc14e40e73515f7",
+      "hash": "8d045ea00ba8696c421713a369be842ecf5af593",
       "volume": 0.75,
-      "size": 57088
+      "size": 34902
     },
     {
       "name": "mob/mooshroom/convert2",
-      "hash": "a98df98b23a86e463a70d7539cc49b80b5b514b0",
+      "hash": "640c1c6b998a8a121b66f9e018a1a008ec8d778d",
       "volume": 0.75,
-      "size": 53249
+      "size": 31830
     }
   ]
 }

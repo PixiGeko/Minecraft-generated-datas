@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/zombie/wood1",
-      "hash": "fa73977dd28020544f7fe2553e5604a6865ec1a6",
+      "hash": "ecf6be58a57906919271ba4608f31fa0a4f0a4f2",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7761,
+      "size": 8708,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/zombie/wood2",
-      "hash": "dc86fbd59cf0e87cd35b22df2a2df899ab8c1f7f",
+      "hash": "7269af1c1d8773763c1af8bfa4bd38e13b3e1f98",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7649,
+      "size": 9061,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/zombie/wood3",
-      "hash": "8184e851170619de93aa56244fb12c472a2ddd7d",
+      "hash": "af1be61826d289bdae090eaa58dd4cc257595f2f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8090,
+      "size": 9559,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/zombie/wood4",
-      "hash": "1028d0a373790e14c34786a925c4656bdaeb4c4d",
+      "hash": "5b37751d224d4a409435095ea29bfbd8b5218092",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7608,
+      "size": 8915,
       "preload": false,
       "stream": false
     }

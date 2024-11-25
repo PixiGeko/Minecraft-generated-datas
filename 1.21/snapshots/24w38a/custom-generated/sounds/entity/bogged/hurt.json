@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/bogged/hurt1",
-      "hash": "de88522690b70fe1765c2a043c771ea220b01b55",
+      "hash": "a19a5a096ec8856616c25a286c6bb5cec949ae17",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 33171,
+      "size": 11784,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/bogged/hurt2",
-      "hash": "eb94d6b07d96b35a034539bacbef956870fdeb71",
+      "hash": "d1253ce9c86d56603fbbf45256b894370ff6ed58",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 22915,
+      "size": 9533,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/bogged/hurt3",
-      "hash": "8d82ba7b46b05bdfae5d4d4e840d3782dc2c1398",
+      "hash": "c13d499b09561cf2e65e8038e987a678fe17ea23",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 24070,
+      "size": 9853,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/bogged/hurt4",
-      "hash": "07f8691ee57050c62d6d1230c13f74f9fcad5dab",
+      "hash": "2f792cc686394f284b8fd3a9c021fc945ad6cc09",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 31178,
+      "size": 11270,
       "preload": false,
       "stream": false
     }

@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "block/end_portal/eyeplace1",
-      "hash": "d9b6703a5dcaaa4c62358d4d7372f8314941e891",
+      "hash": "4a005d06d7684a38172f6cc763470e28b511c012",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12211,
+      "size": 12547,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/end_portal/eyeplace2",
-      "hash": "1b256a2a6b360fd2f2858cf1a42c4ca4917a1de1",
+      "hash": "86e50969063621cfdf9388d207cc20e83195e763",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13533,
+      "size": 14214,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/end_portal/eyeplace3",
-      "hash": "c92f79879a1a8c2a5487bc29b87896297f4dccc4",
+      "hash": "95a4c1e7dc57e1d8fb1dec2349d7474968ecce30",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14092,
+      "size": 14466,
       "preload": false,
       "stream": false
     }

@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/turtle/baby/hurt1",
-      "hash": "df520e00ad65242c93b8649530c9dedd9bc89ebb",
+      "hash": "52c0af0dd09fc812e8c99fd7a98f595bec2868db",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 20280,
+      "size": 9150,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/baby/hurt2",
-      "hash": "d28a73bcc2d9f7c47dc2050e7abbc81ac8fd843d",
+      "hash": "32e6ef3cbceaa79dfb5ba09643eed25ee2f5e4d6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 20526,
+      "size": 9238,
       "preload": false,
       "stream": false
     }

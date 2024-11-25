@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/drowned/water/hurt1",
-      "hash": "d13ea8dc070eb218261cd4096aa964f05698e550",
+      "hash": "657d76d798d33b71bad04bb220b7b88c339327bf",
       "volume": 0.9,
-      "size": 27371
+      "size": 12919
     },
     {
       "name": "mob/drowned/water/hurt2",
-      "hash": "b84f104627021ffa165a249ea489a9aaece01e15",
+      "hash": "466021d015a199472996b848d1beb1fe86db8bf2",
       "volume": 0.9,
-      "size": 18112
+      "size": 9863
     },
     {
       "name": "mob/drowned/water/hurt3",
-      "hash": "4a17ecca2ce3fffc6817748fcae82da521e85b38",
+      "hash": "93ac6c1f1ced2cc9eed75e6a7b94ede19fe09658",
       "volume": 0.9,
-      "size": 21670
+      "size": 10742
     }
   ]
 }

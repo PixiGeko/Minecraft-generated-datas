@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "block/scaffold/place1",
-      "hash": "e54f93b413612f82ac995c4d3be9d4a0be0b86b8",
+      "hash": "7a286cc442a5e57c1affe56d03efca5a28d42d3b",
       "volume": 0.9,
-      "size": 12166
+      "size": 7230
     },
     {
       "name": "block/scaffold/place2",
-      "hash": "fbc96020d3410733cd97cbfa99ed8471ace343ef",
+      "hash": "e3103a151f27376d8584aeb342c49d1eb71ef12b",
       "volume": 0.9,
-      "size": 10491
+      "size": 6597
     },
     {
       "name": "block/scaffold/place3",
-      "hash": "e13cd6eaea8057ab3c7b637af4c58a2165d84c42",
+      "hash": "7206e030a8bb50f75a88306a361e829cf8e065d0",
       "volume": 0.9,
-      "size": 11794
+      "size": 6995
     },
     {
       "name": "block/scaffold/place4",
-      "hash": "1b33ca18f1e7d8e9427ab9bd7246bb1ff58812a7",
+      "hash": "c35ae74e4d097c52687f23e6badf2b2e69eb5d2e",
       "volume": 0.9,
-      "size": 10857
+      "size": 6593
     }
   ]
 }

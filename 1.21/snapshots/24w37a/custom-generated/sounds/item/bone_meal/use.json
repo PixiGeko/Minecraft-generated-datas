@@ -3,123 +3,123 @@
   "sounds": [
     {
       "name": "item/bonemeal/bonemeal1",
-      "hash": "3c110e8daaedc779da97c827d30cc73668824f97",
+      "hash": "36bc5d9141cf26819f795772caaf69bbe213fc1e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 34376,
+      "size": 12701,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bonemeal/bonemeal1",
-      "hash": "3c110e8daaedc779da97c827d30cc73668824f97",
+      "hash": "36bc5d9141cf26819f795772caaf69bbe213fc1e",
       "pitch": 0.9,
-      "size": 34376
+      "size": 12701
     },
     {
       "name": "item/bonemeal/bonemeal1",
-      "hash": "3c110e8daaedc779da97c827d30cc73668824f97",
+      "hash": "36bc5d9141cf26819f795772caaf69bbe213fc1e",
       "pitch": 1.1,
-      "size": 34376
+      "size": 12701
     },
     {
       "name": "item/bonemeal/bonemeal2",
-      "hash": "2e2f05457af0bdda5c63d3e28cd286ae5fe2f272",
+      "hash": "6dc95a1516b8e454d48cd789453110f4ae770809",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 36702,
+      "size": 13129,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bonemeal/bonemeal2",
-      "hash": "2e2f05457af0bdda5c63d3e28cd286ae5fe2f272",
+      "hash": "6dc95a1516b8e454d48cd789453110f4ae770809",
       "pitch": 0.9,
-      "size": 36702
+      "size": 13129
     },
     {
       "name": "item/bonemeal/bonemeal2",
-      "hash": "2e2f05457af0bdda5c63d3e28cd286ae5fe2f272",
+      "hash": "6dc95a1516b8e454d48cd789453110f4ae770809",
       "pitch": 1.1,
-      "size": 36702
+      "size": 13129
     },
     {
       "name": "item/bonemeal/bonemeal3",
-      "hash": "f548f0e60d971cd9ddb2736463a4a872097ca601",
+      "hash": "a99e7021b3ad14414532a2c988728094a1e29967",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 39162,
+      "size": 13664,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bonemeal/bonemeal3",
-      "hash": "f548f0e60d971cd9ddb2736463a4a872097ca601",
+      "hash": "a99e7021b3ad14414532a2c988728094a1e29967",
       "pitch": 0.9,
-      "size": 39162
+      "size": 13664
     },
     {
       "name": "item/bonemeal/bonemeal3",
-      "hash": "f548f0e60d971cd9ddb2736463a4a872097ca601",
+      "hash": "a99e7021b3ad14414532a2c988728094a1e29967",
       "pitch": 1.1,
-      "size": 39162
+      "size": 13664
     },
     {
       "name": "item/bonemeal/bonemeal4",
-      "hash": "0ff31eb8381878ed4394515fa2df5714fde1742b",
+      "hash": "8f569038378aab43810f2b1c2f4054da7b21c3b7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 34385,
+      "size": 12526,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bonemeal/bonemeal4",
-      "hash": "0ff31eb8381878ed4394515fa2df5714fde1742b",
+      "hash": "8f569038378aab43810f2b1c2f4054da7b21c3b7",
       "pitch": 0.9,
-      "size": 34385
+      "size": 12526
     },
     {
       "name": "item/bonemeal/bonemeal4",
-      "hash": "0ff31eb8381878ed4394515fa2df5714fde1742b",
+      "hash": "8f569038378aab43810f2b1c2f4054da7b21c3b7",
       "pitch": 1.1,
-      "size": 34385
+      "size": 12526
     },
     {
       "name": "item/bonemeal/bonemeal5",
-      "hash": "1e38ab01b7b4b6b6b9b29d889801440d285cb508",
+      "hash": "2ea7872655ca486677b75f64775ef59357ac2d32",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 38428,
+      "size": 12835,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bonemeal/bonemeal5",
-      "hash": "1e38ab01b7b4b6b6b9b29d889801440d285cb508",
+      "hash": "2ea7872655ca486677b75f64775ef59357ac2d32",
       "pitch": 0.9,
-      "size": 38428
+      "size": 12835
     },
     {
       "name": "item/bonemeal/bonemeal5",
-      "hash": "1e38ab01b7b4b6b6b9b29d889801440d285cb508",
+      "hash": "2ea7872655ca486677b75f64775ef59357ac2d32",
       "pitch": 1.1,
-      "size": 38428
+      "size": 12835
     }
   ]
 }

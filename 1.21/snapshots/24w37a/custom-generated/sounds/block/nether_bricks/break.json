@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/nether_bricks/break1",
-      "hash": "7690c52b7190d7e63681d868bba510f9c9301b7a",
+      "hash": "455eb202c42b52ea55893d9e5b74ec100a2efb67",
       "volume": 0.8,
-      "size": 19381
+      "size": 8402
     },
     {
       "name": "block/nether_bricks/break2",
-      "hash": "fe6802230737802d680dfcefef033c23a0f7f085",
+      "hash": "b99e052c58dd8a95606292a1dc252c2a824dbf40",
       "volume": 0.8,
-      "size": 17083
+      "size": 7710
     },
     {
       "name": "block/nether_bricks/break3",
-      "hash": "7c0780f28fd89565666f69131e98ca72aa739c05",
+      "hash": "47ed66641523134ad5f07e41e8fef27000c88454",
       "volume": 0.8,
-      "size": 19755
+      "size": 8755
     },
     {
       "name": "block/nether_bricks/break4",
-      "hash": "038aed8ef08d5f6eb01712b843cb5e128463efe1",
+      "hash": "672de5ad67eabcc62f2a71cb19d3bceb60e5fc4a",
       "volume": 0.8,
-      "size": 19481
+      "size": 8489
     },
     {
       "name": "block/nether_bricks/break5",
-      "hash": "ed14d4e785bbbedbef7e85d57b7108ddc630a678",
+      "hash": "83cf0ff6d3ff09f0c4209a91325c5525e10848e8",
       "volume": 0.8,
-      "size": 21093
+      "size": 9119
     },
     {
       "name": "block/nether_bricks/break6",
-      "hash": "8478523f063bb2f3daba313c8b7a9e91e117f236",
+      "hash": "2bc9a4fb9201db00c68cb85e28b22c788b8b478d",
       "volume": 0.8,
-      "size": 18385
+      "size": 8114
     }
   ]
 }

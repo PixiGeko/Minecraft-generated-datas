@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "block/shulker_box/open",
-      "hash": "0fadce9827b247d2da715d8e5a8213db83fbe44f",
+      "hash": "0cdec84d6a3e1089d879410a960d2ae05dceaeb6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9352,
+      "size": 9551,
       "preload": false,
       "stream": false
     }

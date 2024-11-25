@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "block/nether_sprouts/break1",
-      "hash": "4915df7706b31f979e742a9187cf99967371ad98",
+      "hash": "806fabe0425d34d9953f148ffe47cbd6dbedc500",
       "volume": 0.7,
-      "size": 22516
+      "size": 9133
     },
     {
       "name": "block/nether_sprouts/break2",
-      "hash": "559dd086a17d5da60c3b24f0f3316f7590e02642",
+      "hash": "309f360ea3ad1fb4b6ef78e5bb209d6cb415dd5c",
       "volume": 0.7,
-      "size": 24014
+      "size": 10095
     },
     {
       "name": "block/nether_sprouts/break3",
-      "hash": "e7b2aef6fa65d5a0cf2e6e0beb3ca5598357a339",
+      "hash": "afcad12625ae39469e9e2053d12030e90d3da360",
       "volume": 0.7,
-      "size": 20347
+      "size": 7954
     },
     {
       "name": "block/nether_sprouts/break4",
-      "hash": "9acffdb09bf65558b9cf05499795a209b6f37fb3",
+      "hash": "edaa44ef0bc25bcf62d529329fc8feac4c27e52d",
       "volume": 0.7,
-      "size": 26928
+      "size": 10355
     }
   ]
 }

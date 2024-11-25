@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/cat/ocelot/idle1",
-      "hash": "8015c5b90446f2f14e7ccdd58122a52be1a67f72",
+      "hash": "6a85025309bdff20ddd146ec932e7eebc8acd711",
       "volume": 0.3,
-      "size": 16851
+      "size": 10100
     },
     {
       "name": "mob/cat/ocelot/idle2",
-      "hash": "1536358af061e60a4a3d65ec5fa35bb4b29e30cf",
+      "hash": "8fc64dea15a395ccba89d91501c7767a6f816418",
       "volume": 0.3,
-      "size": 15533
+      "size": 9020
     },
     {
       "name": "mob/cat/ocelot/idle3",
-      "hash": "fdb82ae44f25f6e2bacbf79a3e12c3ee300f0a42",
+      "hash": "1e81bb7439dc52568e691419beff6900f271578c",
       "volume": 0.35,
-      "size": 13863
+      "size": 7981
     },
     {
       "name": "mob/cat/ocelot/idle4",
-      "hash": "738bb3c2fab41638ab22dfeede5ddb022c432629",
+      "hash": "888efd5ccb2366b7d37f6cb706ab5bec225a0a4a",
       "volume": 0.45,
-      "size": 15794
+      "size": 9859
     }
   ]
 }

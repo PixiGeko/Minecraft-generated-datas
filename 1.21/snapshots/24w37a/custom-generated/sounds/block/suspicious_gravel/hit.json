@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "block/suspicious_gravel/step1",
-      "hash": "88f38de73a3433b8bdb0e4dda12a9c1c90e8c7f0",
+      "hash": "a9e03b9f5f11663bcaf413014f16a394c067514c",
       "volume": 0.8,
-      "size": 21141
+      "size": 8997
     },
     {
       "name": "block/suspicious_gravel/step2",
-      "hash": "3a024d45be1a2493a66b2edff81ffc1d8c9fe7fd",
+      "hash": "859a02ca8ab17a21bd05bc05f1f66811b6e03444",
       "volume": 0.8,
-      "size": 21315
+      "size": 9011
     },
     {
       "name": "block/suspicious_gravel/step3",
-      "hash": "1722e1ed0e9813ff750f7579476221f3ad06e8d4",
+      "hash": "e0269c5d612057cd820cd73822caaed30a0a1a73",
       "volume": 0.8,
-      "size": 20516
+      "size": 8624
     },
     {
       "name": "block/suspicious_gravel/step4",
-      "hash": "c2341d2e39962e5a412632c8b7369d5cc3e871bb",
+      "hash": "7bf0b305e76d86071003474114ff211e2e9a581f",
       "volume": 0.8,
-      "size": 21849
+      "size": 9021
     }
   ]
 }

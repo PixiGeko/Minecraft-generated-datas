@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/turtle/baby/egg_hatched1",
-      "hash": "5982988ed5219cc0531f84784cfece94eec3f569",
+      "hash": "74881aa5bd8452cc167d86ee09382fc5919d0207",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 40705,
+      "size": 17371,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/baby/egg_hatched2",
-      "hash": "e0276f162b6e0289899335b408040472c41b07ad",
+      "hash": "6ae10cffc71848dd5bf4a28d2134f446a7d7603d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 34496,
+      "size": 15304,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/baby/egg_hatched3",
-      "hash": "25c7d39466742203c044958a6063b13c0a372ebb",
+      "hash": "5a12a9ce0f818640c7ef49832c13266edd27207c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 41099,
+      "size": 17231,
       "preload": false,
       "stream": false
     }

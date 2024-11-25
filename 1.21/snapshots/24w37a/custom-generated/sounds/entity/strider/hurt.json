@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/strider/hurt1",
-      "hash": "22d8738b0d26532de8cedee5a742d388f2dafca3",
+      "hash": "948e5c119ba5fa1923b76b03a4d80292b8b58b5d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21844,
+      "size": 9394,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/strider/hurt2",
-      "hash": "b97f6383820442ef31ee00aadfb844f8b8cd5874",
+      "hash": "e19398687322f38946201580a929be39e10b309e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19236,
+      "size": 9314,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/strider/hurt3",
-      "hash": "89c21f58161f9a243bcbd9a76733496bdf44894a",
+      "hash": "c130bec73d7395b44bb9311ab0176f97512861b3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23827,
+      "size": 9768,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/strider/hurt4",
-      "hash": "9efeafa8b1b8bb2d0bb40da50c59a8853602615a",
+      "hash": "6f619afea6bdaa066c29c0fd782e49e4e1a2c2fe",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18306,
+      "size": 8657,
       "preload": false,
       "stream": false
     }

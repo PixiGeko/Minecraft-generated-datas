@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "entity/player/attack/crit1",
-      "hash": "509656b6d02a4491f46c686e66b615950c6c1408",
+      "hash": "caa8f5d2de3c3fa53eca358967e930a45cafca18",
       "volume": 0.7,
-      "size": 8223
+      "size": 8946
     },
     {
       "name": "entity/player/attack/crit2",
-      "hash": "1b172129daf7cd9a36d2b0f7820baf2e479e381a",
+      "hash": "3a27444995a679ffa6b87daf3fde2a02451629ef",
       "volume": 0.7,
-      "size": 9783
+      "size": 10257
     },
     {
       "name": "entity/player/attack/crit3",
-      "hash": "15bbaf7901d7abff12bb872ff88a6ad541f5227a",
+      "hash": "0366f0465a1b6a3f186b495b4578c7b1c8929943",
       "volume": 0.7,
-      "size": 8273
+      "size": 8878
     }
   ]
 }

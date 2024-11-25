@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/enderdragon/growl1",
-      "hash": "049a3049a5ac8631a6c5f367b7d824fc0d8de39b",
+      "hash": "b5f9d965c227474231582b52f14f8167b97bf476",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 26384,
+      "size": 29909,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/enderdragon/growl2",
-      "hash": "d859c9c5be04ffc41479b306814a933983eaa235",
+      "hash": "b814e7cbcdd572ed7f926a947250d009f206c07b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 27101,
+      "size": 30591,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/enderdragon/growl3",
-      "hash": "ba35053358ede7c3bf33a4c344d66680f09008c9",
+      "hash": "37e634797f199982107aa7d296a0f14d69135227",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 27102,
+      "size": 32839,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/enderdragon/growl4",
-      "hash": "c84b0cf222e7dcbedde8eb9deb98835032f4d402",
+      "hash": "c263ae99db287bd803591b0b6cd7865435e6c54a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25574,
+      "size": 28533,
       "preload": false,
       "stream": false
     }

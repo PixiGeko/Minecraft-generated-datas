@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/soul_soil/break1",
-      "hash": "1e197317f402ccc3a62f0ce331889a277cb24365",
+      "hash": "3bbb9dc8987ea084ed200fc419b6fb60454c6e13",
       "volume": 0.8,
-      "size": 29180
+      "size": 11731
     },
     {
       "name": "block/soul_soil/break2",
-      "hash": "6be94b5f5daf271e5d8e059eba721f9edecbbc57",
+      "hash": "5489c44a4fbedfb800d3d3ba978ae6e1b5eaee5e",
       "volume": 0.8,
-      "size": 28641
+      "size": 11446
     },
     {
       "name": "block/soul_soil/break3",
-      "hash": "e23c57397e1a7f079ac9afbcf3ee020f4ebc835c",
+      "hash": "8210d2353fbd6b0b1c9bfd7fdf3232f5866bf729",
       "volume": 0.8,
-      "size": 30457
+      "size": 13535
     },
     {
       "name": "block/soul_soil/break4",
-      "hash": "609fe1ad7765f15a862cd1fb6dcfde7c26f02044",
+      "hash": "104403b1df4f2aaa53cd6c8a91ce1be8c874ff5c",
       "volume": 0.8,
-      "size": 28404
+      "size": 11553
     },
     {
       "name": "block/soul_soil/break5",
-      "hash": "51151ce3073683d4054a8f1207ac3d8c0d808fa9",
+      "hash": "bfcdaf1edfe6d62d9ce49f150cf847bec99136ac",
       "volume": 0.8,
-      "size": 36204
+      "size": 12616
     },
     {
       "name": "block/soul_soil/break6",
-      "hash": "56beb0dbd524e0ac7f56c4458d9bf4083b5370d8",
+      "hash": "86767d3c08a06dc2440463a05f5a505e05454ab9",
       "volume": 0.8,
-      "size": 31378
+      "size": 12096
     }
   ]
 }

@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/breeze/whirl",
-      "hash": "b4ee736f5c053aad10a62731c82c5f19dc751aa2",
+      "hash": "3cb4ec3901425f7dc7c61def23a25dc0d286123a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 57240,
+      "size": 21909,
       "preload": false,
       "stream": false
     }

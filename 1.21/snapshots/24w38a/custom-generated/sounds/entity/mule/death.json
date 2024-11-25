@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/horse/donkey/death",
-      "hash": "ece3a1417e0eca0a748aafaf6cd9f5e99c314991",
+      "hash": "def512f49f1152a1b82e2ce4dfe0482aaa16c38b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13955,
+      "size": 16263,
       "preload": false,
       "stream": false
     }

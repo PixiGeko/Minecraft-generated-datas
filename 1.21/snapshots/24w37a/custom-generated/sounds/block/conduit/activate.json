@@ -3,9 +3,9 @@
   "sounds": [
     {
       "name": "block/conduit/activate",
-      "hash": "c126f80ecb54d09630455873cde3143590fa70f9",
+      "hash": "c2a7d28c80b49b04a1620a94a17405543a6fb1f6",
       "volume": 0.9,
-      "size": 46044
+      "size": 23939
     }
   ]
 }

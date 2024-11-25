@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/creeper/say1",
-      "hash": "74771428c2aa2acbd30638c6706867053bad64d3",
+      "hash": "6fc976d65fc742451db2049a2a38a1007b976bc1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6647,
+      "size": 8031,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/creeper/say2",
-      "hash": "c46c7d2a84749bfcbcf576aea0d66fd3deccba31",
+      "hash": "79fdb366ce047a20297c73f85858ea7e29ec0898",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6768,
+      "size": 8331,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/creeper/say3",
-      "hash": "0979bf115d081d70a985f1cfcab1b9274d6be74e",
+      "hash": "8eaa122d6c96f2d5fef601926aa930cef0c5f81c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6787,
+      "size": 7435,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/creeper/say4",
-      "hash": "85c860ea8c55984bf6cabb75354c78f3a603f98d",
+      "hash": "ecbf5ce78cc21479c4b91273fd030ed68639d3f8",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7111,
+      "size": 8038,
       "preload": false,
       "stream": false
     }

@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/turtle/baby/death1",
-      "hash": "15bf6085c54dba88f19119618f639119f0bc1098",
+      "hash": "f18324e5496d773fa3080a77284985e2d6562d49",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 34252,
+      "size": 16636,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/baby/death2",
-      "hash": "225ea910feacca1194576deab74cb468f5b45f47",
+      "hash": "0ec6ace10121c4fbca90d9aa756d0637f0f482a8",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 40657,
+      "size": 21246,
       "preload": false,
       "stream": false
     }

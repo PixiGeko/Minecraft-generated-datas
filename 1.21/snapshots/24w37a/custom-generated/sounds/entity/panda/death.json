@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/panda/death1",
-      "hash": "a6b6b5a0fc897d684d7664ad42b6c21e35836e8a",
+      "hash": "cf7bf5fa2b4ce5bb8946f0b38ae9855b14e3bf9f",
       "volume": 0.82,
-      "size": 21456
+      "size": 11509
     },
     {
       "name": "mob/panda/death2",
-      "hash": "7b5d5b05b0ba78178568c4d4ad5c9f4c22d61e16",
+      "hash": "18944e89e2ba120c2e6a38a65912ce1a09e4ca3a",
       "volume": 0.82,
-      "size": 27098
+      "size": 14633
     },
     {
       "name": "mob/panda/death3",
-      "hash": "0221ca291fe1fa9c255c26226636cf0ad50b453f",
+      "hash": "15ef532d2532df5bd73431a249a841dfb7c06292",
       "volume": 0.82,
-      "size": 23914
+      "size": 13294
     },
     {
       "name": "mob/panda/death4",
-      "hash": "8af20b91b99e865c5c6457937ffd1974cf866d26",
+      "hash": "70bc7babfa17f43c0215ca89244e3d103603dcd9",
       "volume": 0.82,
-      "size": 23290
+      "size": 12855
     }
   ]
 }

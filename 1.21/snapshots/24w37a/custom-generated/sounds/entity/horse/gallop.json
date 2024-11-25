@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/horse/gallop1",
-      "hash": "b489c51eb82814562b6e288a889e36ccd018928c",
+      "hash": "f92ce93d42da91a95d921efd1532a1dff479a7a9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8070,
+      "size": 8750,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/gallop2",
-      "hash": "2433e0f1cfd53dab77422aca9f60f3d9a86d9991",
+      "hash": "3400cdc571e3c92b14cb255b47fcfb992abf77e7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8360,
+      "size": 9388,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/gallop3",
-      "hash": "cf601e6c603b4186919f49462594da6e66edb7a2",
+      "hash": "fa890e6daf87c9fa6d7a5eee6a0ef29e80efc7cf",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7660,
+      "size": 8509,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/gallop4",
-      "hash": "11b2b7b9cac527ce8cfb1cee41285c163ad75869",
+      "hash": "94cf597af95061779ab98c3e73b9b6cbf78342bb",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8320,
+      "size": 9659,
       "preload": false,
       "stream": false
     }

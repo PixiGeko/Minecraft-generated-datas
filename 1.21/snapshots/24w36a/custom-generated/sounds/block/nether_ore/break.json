@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/nether_ore/break1",
-      "hash": "54baa0ef965b9d87ccbdc1e2cc10e4c96f01c6db",
+      "hash": "2534f9f86a48b18bfbedaba1796221b0fd12779f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21169,
+      "size": 8979,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/nether_ore/break2",
-      "hash": "38e778076608e4be6abfdbf027eb060857cfb329",
+      "hash": "40ab5638b37fea5a71010d619bd8cad3771e4ea9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21023,
+      "size": 8577,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/nether_ore/break3",
-      "hash": "5cf6dbeffb4ac68ea0ab5d5012dd65cda2cd0ae9",
+      "hash": "507a087f3c73af46f5cdcd229f75f36c53ee043f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19613,
+      "size": 8456,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/nether_ore/break4",
-      "hash": "c44c3f173fd73116d34aa9577edb0ea3aa81f573",
+      "hash": "ae6106cfedda9b9d250fd193f0487e1b3531d6ae",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19833,
+      "size": 8541,
       "preload": false,
       "stream": false
     }

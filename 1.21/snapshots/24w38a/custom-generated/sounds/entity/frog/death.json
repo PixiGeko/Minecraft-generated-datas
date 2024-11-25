@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/frog/death1",
-      "hash": "d21c0198e60a019692fba0c0033dfbf984acf2b4",
+      "hash": "f93dee2f747d1f96dc4fb4f20b82aca07869a4bd",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25422,
+      "size": 11930,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/frog/death2",
-      "hash": "1c1609152fcd156ddda37c6d8e428175293e1bcf",
+      "hash": "1de952f58c1ebdb47caa5b18ab080c8ee9eb062a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 24869,
+      "size": 10567,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/frog/death3",
-      "hash": "c395d546812e7297e9db595dd5f425034e61ea41",
+      "hash": "9e4a2605efb6c14236aa45fa850e0a37981d560b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25344,
+      "size": 10879,
       "preload": false,
       "stream": false
     }

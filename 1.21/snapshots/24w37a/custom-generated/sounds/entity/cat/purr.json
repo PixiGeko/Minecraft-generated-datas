@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/cat/purr1",
-      "hash": "0acdc21b0f56dbe214ae2574d1f02a0ea2e99877",
+      "hash": "bcd162867f2443cb8c7c6a3486ded73d97f089e9",
       "volume": 0.7,
-      "size": 73875
+      "size": 26737
     },
     {
       "name": "mob/cat/purr2",
-      "hash": "e7dbf103c4d53bc6a565e12cc23e7d07774c1c5a",
+      "hash": "a396414ad4f8b797cc8c4b8f2f512ed96377b859",
       "volume": 0.7,
-      "size": 75484
+      "size": 27630
     },
     {
       "name": "mob/cat/purr3",
-      "hash": "02219a4525e2276a2cf78e5ec6b7e141db1e0d4e",
+      "hash": "faf7717be4970aa108ad24c4ce22257c09a06ee6",
       "volume": 0.7,
-      "size": 92888
+      "size": 33220
     }
   ]
 }

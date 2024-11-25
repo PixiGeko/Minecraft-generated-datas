@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/chorus_flower/grow1",
-      "hash": "07373cce0250d335443998231c8a9e3ef7531e9f",
+      "hash": "ce42b98a1a030efad7210ff3c59807c152f7c54f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13938,
+      "size": 14665,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/chorus_flower/grow2",
-      "hash": "f23941bd42028d6fac79a142cb913522f05998c2",
+      "hash": "10a00a20070ca5ea3b8151c7d5a8f4ce84f05998",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15249,
+      "size": 15592,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/chorus_flower/grow3",
-      "hash": "7e163e93b0799fc8373baa3fdbf44bffcbe540b4",
+      "hash": "2036f59b02988afac9e39a96751ce24ab7edc3ea",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17264,
+      "size": 17671,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/chorus_flower/grow4",
-      "hash": "a2c1116d40b879a0abccc2f02c0471be91bb6b30",
+      "hash": "3bab28dd831dbd0f70fd74ee1bf549571fbbecbf",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14078,
+      "size": 14733,
       "preload": false,
       "stream": false
     }

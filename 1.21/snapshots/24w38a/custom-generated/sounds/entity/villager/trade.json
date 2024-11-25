@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/villager/haggle1",
-      "hash": "57aead4d024109b4ed37dcf4c73ae44ed06f04a8",
+      "hash": "5aeb216fb57aee98f9f6b1dca27cf22c259586c1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7104,
+      "size": 8076,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/villager/haggle2",
-      "hash": "d14112bd7351ef48f193aa27b4517d4b0960f7b1",
+      "hash": "4cc4b47a09fbcafe9e7715255acff0f79772c591",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6911,
+      "size": 7381,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/villager/haggle3",
-      "hash": "4e477f55b9c4875f69cb44a2aabab4b14aefd129",
+      "hash": "862cb429acb77fd01e647d28f6437f21e4ac3ebd",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6891,
+      "size": 7407,
       "preload": false,
       "stream": false
     }

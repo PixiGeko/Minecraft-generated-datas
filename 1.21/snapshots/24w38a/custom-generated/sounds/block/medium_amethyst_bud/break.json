@@ -3,31 +3,31 @@
   "sounds": [
     {
       "name": "block/amethyst_cluster/break1",
-      "hash": "689be5af8ea7328e8e1b664561efff236ab87aee",
+      "hash": "e1740d184c200975ba50bda28b8095a782670b7d",
       "volume": 0.55,
       "pitch": 0.95,
-      "size": 39104
+      "size": 16963
     },
     {
       "name": "block/amethyst_cluster/break2",
-      "hash": "abaa4fb5b56b9110a2de7733d291338a6b0d4c3e",
+      "hash": "f083b4a80f957cdde6bbc30ae6a26f8d8d190ae4",
       "volume": 0.55,
       "pitch": 0.95,
-      "size": 36236
+      "size": 16271
     },
     {
       "name": "block/amethyst_cluster/break3",
-      "hash": "a01ead89927917ea1817990c645c6fcee2018c8a",
+      "hash": "4bb85ec0463268e73658de26bc29ba60473abf96",
       "volume": 0.55,
       "pitch": 0.95,
-      "size": 34600
+      "size": 15913
     },
     {
       "name": "block/amethyst_cluster/break4",
-      "hash": "c4380743ab08e60bafad7ff0dfd2aeb281fdfc3a",
+      "hash": "60c88b2d0a2c82635f1d2469323bb8affd4339b3",
       "volume": 0.55,
       "pitch": 0.95,
-      "size": 37598
+      "size": 16430
     }
   ]
 }

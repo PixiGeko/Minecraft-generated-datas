@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/drowned/water/idle1",
-      "hash": "898d1dcc86fa236861d16748db4c1a04a6eb235a",
+      "hash": "9b2354fb5f979ec4be45d0a2a92acb77a29622d6",
       "volume": 0.9,
-      "size": 36970
+      "size": 20206
     },
     {
       "name": "mob/drowned/water/idle2",
-      "hash": "1e831b3fb318a3e1c0deed03a85e05b7da4288c9",
+      "hash": "478fdd04b01658ef5105b433362e8f52a7a3287b",
       "volume": 0.9,
-      "size": 50523
+      "size": 22259
     },
     {
       "name": "mob/drowned/water/idle3",
-      "hash": "a0610c45122c8739b729bf3ca04c4084b5c76e19",
+      "hash": "4ef2681e351d00e80403a8f56445577fb074e9bd",
       "volume": 0.9,
-      "size": 57346
+      "size": 20519
     },
     {
       "name": "mob/drowned/water/idle4",
-      "hash": "873545ef3fd307c14ae63032666e6bac22e9b80a",
+      "hash": "81a7657d366a4e1bdc288744b10fe68ab8fb2dde",
       "volume": 0.9,
-      "size": 67654
+      "size": 29194
     }
   ]
 }

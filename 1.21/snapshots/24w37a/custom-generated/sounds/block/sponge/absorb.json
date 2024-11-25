@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "block/sponge/absorb1",
-      "hash": "3aa16dc0cb98b207552d722f759be8ef7712ee40",
+      "hash": "225b26ba6d8842e364ace9d8b0c64831c18c16e7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 26404,
+      "size": 10187,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/sponge/absorb2",
-      "hash": "431c1513bd7d75ee6eb20cad361551274d5d08a0",
+      "hash": "b7d69f7b5bb8c1b16592f831a7eb21b8ca35bcab",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23907,
+      "size": 9258,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/sponge/absorb3",
-      "hash": "0084f65e6832508990fb3dbf010daded53538c03",
+      "hash": "b75918507a7a30d84baa72b6279dfd30139d956c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 29155,
+      "size": 11308,
       "preload": false,
       "stream": false
     }

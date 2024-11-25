@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/wandering_trader/haggle1",
-      "hash": "5d5921f03b10ef767eaf5f4edb9f3b1643b8f84d",
+      "hash": "121f572e8566c4dabca914ac78cb0a3d2c6e5ae8",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 29245,
+      "size": 12933,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wandering_trader/haggle2",
-      "hash": "8bde25cfe033149f757a5431582f61baac213b85",
+      "hash": "750b67e390ddb8d91e158e6f18eb7cf88b64af12",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 29577,
+      "size": 11609,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wandering_trader/haggle3",
-      "hash": "8c087a6c2fe075d47d0aad5e0daaafb4205ef745",
+      "hash": "853aba2cd3609300a4f15fb4f9efbaac5f05e9e8",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11908,
+      "size": 7076,
       "preload": false,
       "stream": false
     }

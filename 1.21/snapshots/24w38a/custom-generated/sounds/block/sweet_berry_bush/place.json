@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/sweet_berry_bush/place1",
-      "hash": "6d6128196a44038658da3ff257ec2597114cd6c0",
+      "hash": "5d7690eecfec6ee9ebd6e2731374747ae6b57c2f",
       "volume": 0.8,
-      "size": 12199
+      "size": 6768
     },
     {
       "name": "block/sweet_berry_bush/place2",
-      "hash": "27d8af498c6e1a7f5ea26ab746866d10a6230419",
+      "hash": "3fca17f8df0a59b97686b8601a34faed92e9a323",
       "volume": 0.8,
-      "size": 13278
+      "size": 7030
     },
     {
       "name": "block/sweet_berry_bush/place3",
-      "hash": "d6545aef9a74893f3ee2ced6b18afd52b4a17825",
+      "hash": "2c7a5a4388dae71dd5100f6e6c5423189e4062ad",
       "volume": 0.8,
-      "size": 12993
+      "size": 7413
     },
     {
       "name": "block/sweet_berry_bush/place4",
-      "hash": "8c1fd5b4accebff5dda35ef8acb762b92f4c1851",
+      "hash": "efc20a63cc14535bfdf616f90b3596e07a6b10ee",
       "volume": 0.8,
-      "size": 13031
+      "size": 7055
     },
     {
       "name": "block/sweet_berry_bush/place5",
-      "hash": "71b473c255837982015662f3f4e9e65981666390",
+      "hash": "3b99ac91d9c17e6d4542ccc4fcfeaf2fe715b2d9",
       "volume": 0.8,
-      "size": 13401
+      "size": 7344
     },
     {
       "name": "block/sweet_berry_bush/place6",
-      "hash": "40e5da14b4608b138ec3cc8706e45d6ffb18c405",
+      "hash": "d3a1213d23d0669b296afeaef52f72eb32b866f1",
       "volume": 0.8,
-      "size": 13001
+      "size": 6916
     }
   ]
 }

@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/zombie_villager/death",
-      "hash": "323880d656a3ca6b42ac9890857dcfc9b354cdbf",
+      "hash": "37da25a09c68c32a9b7ced845e8f384255ab732d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10274,
+      "size": 10247,
       "preload": false,
       "stream": false
     }

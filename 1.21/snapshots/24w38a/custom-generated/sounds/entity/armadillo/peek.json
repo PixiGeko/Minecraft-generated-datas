@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/armadillo/peek",
-      "hash": "becaa3fe9df62d21f2dcbd107d1271fd8aab81e8",
+      "hash": "a01d5a32c55bcddeb5a2c215a8a7c97db00eb7fb",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 62111,
+      "size": 21220,
       "preload": false,
       "stream": false
     }

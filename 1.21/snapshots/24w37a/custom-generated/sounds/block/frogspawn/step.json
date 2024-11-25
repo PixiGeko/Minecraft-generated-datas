@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/frogspawn/step1",
-      "hash": "dae00db9e74a0b0567aec2a5aa6e5ca57d667220",
+      "hash": "da8f6ebbc16826ff4ccf4091667f23ac62a7c710",
       "volume": 0.3,
-      "size": 9517
+      "size": 5348
     },
     {
       "name": "block/frogspawn/step2",
-      "hash": "07d69fd16161ba727b9db53dd73a673f7c36cf49",
+      "hash": "2bad307a2e2c4880316b7a0946dd0e4c1ed753da",
       "volume": 0.3,
-      "size": 9532
+      "size": 5792
     },
     {
       "name": "block/frogspawn/step3",
-      "hash": "fb203a602f2538bf8339d703d00528d024164b5f",
+      "hash": "8ed6b6a1a08f56d5aeeb3994bb7f294a9ff342b7",
       "volume": 0.3,
-      "size": 9519
+      "size": 5465
     },
     {
       "name": "block/frogspawn/step4",
-      "hash": "ecfa9343b869d666293d1dbd1ef2f7b9d361c61e",
+      "hash": "2e431342cd6e0de5ed7fd397d733dae07878ce9b",
       "volume": 0.3,
-      "size": 9599
+      "size": 5671
     },
     {
       "name": "block/frogspawn/step5",
-      "hash": "6954ed2feebfe170e0d4cc3bd29d407d4906f41c",
+      "hash": "fc3c5a15ca3126b41e55b14f6b93b32fae0e6ec4",
       "volume": 0.3,
-      "size": 9596
+      "size": 5583
     },
     {
       "name": "block/frogspawn/step6",
-      "hash": "a0e69029a96015bb9d463c837fcfc805187370cc",
+      "hash": "73969292d8da9b3fbedcb27e3d0f4eea4ba64227",
       "volume": 0.3,
-      "size": 9147
+      "size": 5360
     }
   ]
 }

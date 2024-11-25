@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/warden/emerge",
-      "hash": "207b29e3b5a3b6d169000a12dc9b4e1c5c06133d",
+      "hash": "1dc49c965c586bdfe2f8d990c141384a47dcda44",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 256703,
+      "size": 85061,
       "preload": false,
       "stream": false
     }

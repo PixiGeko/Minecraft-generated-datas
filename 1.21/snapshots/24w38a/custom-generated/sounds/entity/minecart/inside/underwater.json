@@ -2,37 +2,37 @@
   "sounds": [
     {
       "name": "minecart/inside_underwater1",
-      "hash": "7a75f9d7e19f94dc8c6e9ae60d79afe4841cef01",
+      "hash": "8079d95b4510d24fe71798e40888e98b592f974d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 403730,
+      "size": 103504,
       "preload": false,
       "stream": false
     },
     {
       "name": "minecart/inside_underwater2",
-      "hash": "a186f91dfbf06ed65aea35ec1b71f2ebdf11d2b8",
+      "hash": "1d53a9e71d80171126290be65917ce893cbfef0c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 397361,
+      "size": 100464,
       "preload": false,
       "stream": false
     },
     {
       "name": "minecart/inside_underwater3",
-      "hash": "8a1716b95bce4b17cd95d3530ea4a99b92c94a86",
+      "hash": "ee85480030c2946c7e16af11c02f4340753ef0ae",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 393346,
+      "size": 101264,
       "preload": false,
       "stream": false
     }

@@ -3,15 +3,15 @@
   "sounds": [
     {
       "name": "ui/loom/take_result1",
-      "hash": "2f13d6eecbaa35c81d5ddd94a7d5a9c6478a7e27",
+      "hash": "2f19ae244c92e4ed7fa8c205c0341f1f3a4cc67e",
       "volume": 0.5,
-      "size": 18659
+      "size": 10029
     },
     {
       "name": "ui/loom/take_result2",
-      "hash": "9cfe4eb22eacb882f21d6bf63afeb51c2825c7fa",
+      "hash": "35c280803fdd75a413b84070bf4fa9d0e65b7d43",
       "volume": 0.5,
-      "size": 21497
+      "size": 11866
     }
   ]
 }

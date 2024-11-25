@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/creaking/creaking_attack1",
-      "hash": "2f8b4b2fac21934fdd211e88ecdb189ff7a45af3",
+      "hash": "6e6783637ca21eceb00659ed6ea5c6d71c03b22a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12069,
+      "size": 15150,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/creaking/creaking_attack2",
-      "hash": "bdb2725d1c4d522bd285ae31f73b7ce177cf3346",
+      "hash": "919749bfacbb135b5703a11d8c624329820104b6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11917,
+      "size": 15341,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/creaking/creaking_attack3",
-      "hash": "f40f393e9297f2a49bec801eb71d0b4cd4a702cd",
+      "hash": "171c005ff69321b333fd69d4fb9dfaab966ff70a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10741,
+      "size": 18983,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/creaking/creaking_attack4",
-      "hash": "c571097934b0b767baa6a98316f2a3c2ada08577",
+      "hash": "c729001616db9a277987b9ffb176e4bc9dbfca5d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10190,
+      "size": 17087,
       "preload": false,
       "stream": false
     }

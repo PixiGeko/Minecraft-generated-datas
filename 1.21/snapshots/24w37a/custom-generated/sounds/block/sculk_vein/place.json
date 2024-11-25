@@ -3,38 +3,38 @@
   "sounds": [
     {
       "name": "block/sculk_vein/break1",
-      "hash": "88dad1b356d596059da3ddcf0ec2d133b9c55d89",
+      "hash": "bc98be2424e6d38791e6bbbab6f33272147baa82",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 26059
+      "size": 13127
     },
     {
       "name": "block/sculk_vein/break2",
-      "hash": "66116574ffa327d29489b67b216f9799341ab524",
+      "hash": "2801f7043382da42c00e35340a863acdb6d295bd",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 30719
+      "size": 11583
     },
     {
       "name": "block/sculk_vein/break3",
-      "hash": "cadb55145794b8d6c5dfdaea4252790ac9d260bc",
+      "hash": "6bf5fb2f1dc2c5697d944d124642a4aa5aba7b36",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 26408
+      "size": 12159
     },
     {
       "name": "block/sculk_vein/break4",
-      "hash": "7191c138ad899e82e5a811cb7d4eed4c344c4eb0",
+      "hash": "1942e678da7394668deb796dcea4782ef3ec0f47",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 25201
+      "size": 10431
     },
     {
       "name": "block/sculk_vein/break5",
-      "hash": "062fe49c03cb07421dd90819cd200dd4d490a11e",
+      "hash": "16a795a416c461ba132f4aebd63c207fccecaf0c",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 33366
+      "size": 12926
     }
   ]
 }

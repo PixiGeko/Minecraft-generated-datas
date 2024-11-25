@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/piglin/converted1",
-      "hash": "38c6fa761cf8366f3082eaaecd9d950865b00f21",
+      "hash": "3b487b3e3ec6009b9825fa23c941577c87488ce3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 76093,
+      "size": 29254,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/piglin/converted2",
-      "hash": "0d1f43515acec95900f8f63e24181357b1a3913f",
+      "hash": "9a3227ecad3d8535062e102633e0332bdff45a00",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 55334,
+      "size": 20661,
       "preload": false,
       "stream": false
     }

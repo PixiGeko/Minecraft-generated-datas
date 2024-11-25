@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/piglin_brute/death1",
-      "hash": "09e74edab3e1e351136e4c57b5a081a19005c47e",
+      "hash": "246c82d29e17aec21ad8616d70395cc9a18569d0",
       "volume": 0.8,
-      "size": 48014
+      "size": 17752
     },
     {
       "name": "mob/piglin_brute/death2",
-      "hash": "f4295ee1aedc15ce0eba2e06c4decb446c8d076b",
+      "hash": "69fc1d36f954348b4d3e9c475cb39c2e67b03e6b",
       "volume": 0.8,
-      "size": 41189
+      "size": 15002
     },
     {
       "name": "mob/piglin_brute/death3",
-      "hash": "5645a0271b59de40793a6e6413bf2e6478702d9c",
+      "hash": "0e7f2b828b2da3a1e1887fce7cff04ed2f5a3cba",
       "volume": 0.8,
-      "size": 40999
+      "size": 14507
     }
   ]
 }

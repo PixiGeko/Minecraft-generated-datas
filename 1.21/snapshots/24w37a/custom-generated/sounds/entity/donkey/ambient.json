@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/horse/donkey/idle1",
-      "hash": "d2cd73933fb1f6dbcb0dd170fde6fc8a49d709b9",
+      "hash": "094428cbf21b6221e738157e51c6b351b412dffe",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6269,
+      "size": 6868,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/donkey/idle2",
-      "hash": "6d7eeba0ba69cd68acf1e2ed5ae488c5aabbc9bf",
+      "hash": "8042b947982f1fed3ac3bf938b1b975f131e6443",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6299,
+      "size": 7096,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/donkey/idle3",
-      "hash": "be565339d494ce6ff788480a462bce0ec69c8ded",
+      "hash": "f88abbff29410862a934d78f834d3142f34bc116",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11079,
+      "size": 11640,
       "preload": false,
       "stream": false
     }

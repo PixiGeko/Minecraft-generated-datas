@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "entity/shulker/shoot1",
-      "hash": "3f8b9415f67443206f6af52c1471d0de0354d046",
+      "hash": "cc94a15dca4384c3c315ec98628648fb291f17d7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15040,
+      "size": 15427,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker/shoot2",
-      "hash": "95805aac201b6852d0ab35bd2c75cfa64a926447",
+      "hash": "d17a3b165c758f5f7e63af5c7141aa60602930e2",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14269,
+      "size": 15116,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker/shoot3",
-      "hash": "f5873a8f416388c2ded80b4ffab6d65b7f18b305",
+      "hash": "79c2e2711a546a1867b46ef2b81d8d410107f18d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14203,
+      "size": 14533,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker/shoot4",
-      "hash": "3cffe887c0882fa146d5671898a4d6c23ec72920",
+      "hash": "972034032fd6d1b684830976337f8e9db87c7337",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15748,
+      "size": 16092,
       "preload": false,
       "stream": false
     }

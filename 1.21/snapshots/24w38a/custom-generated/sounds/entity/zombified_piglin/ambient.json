@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/zombified_piglin/zpig1",
-      "hash": "ec4b0396dd2fc2da8fab91ddc35218d3426349b3",
+      "hash": "ac0f71eb6911c31abfc398c0a5ccfe6911715745",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8536,
+      "size": 15390,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/zombified_piglin/zpig2",
-      "hash": "2cbbcdfb97939c469cd4ccaaac74504497c56695",
+      "hash": "7ff81055a299493a758c0b0f6c129dec6132dff1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10038,
+      "size": 16712,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/zombified_piglin/zpig3",
-      "hash": "c9f7fa36ae48eca0a1f6ce024fde5d3472d30b4d",
+      "hash": "dc322d97f25efe9a419e9771b80bee8807637c2e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5916,
+      "size": 8177,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/zombified_piglin/zpig4",
-      "hash": "e1187646b6256b92a1384f26ef2a7e56efcbe00d",
+      "hash": "a1ac7aa91b5f63a2c32bcd414702f8309cd2f2a2",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7066,
+      "size": 10300,
       "preload": false,
       "stream": false
     }

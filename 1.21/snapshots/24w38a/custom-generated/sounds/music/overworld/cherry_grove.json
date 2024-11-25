@@ -2,51 +2,51 @@
   "sounds": [
     {
       "name": "music/game/bromeliad",
-      "hash": "62171ee4d5ed33a224c59f985a6b304860523b17",
+      "hash": "4b7422b5e6324067f24ea7aee2b8f242ce46069b",
       "weight": 3,
       "volume": 0.4,
-      "size": 18131788,
+      "size": 4498025,
       "stream": true
     },
     {
       "name": "music/game/clark",
-      "hash": "74da65c99aa578486efa7b69983d3533e14c0d6e",
-      "size": 1976731,
+      "hash": "bbb301a6ed65e5e92eb97b601b9ea9979324bccf",
+      "size": 2145295,
       "stream": true
     },
     {
       "name": "music/game/echo_in_the_wind",
-      "hash": "a40303dd9d4bfbb0986e66fc93553a0755621880",
+      "hash": "5c97ac9788ab81e560bae32b0f5e4fc244e544b4",
       "weight": 3,
       "volume": 0.4,
-      "size": 13445440,
+      "size": 3666137,
       "stream": true
     },
     {
       "name": "music/game/featherfall",
-      "hash": "c497c8c1dada852bafaa9ac17c5c30f37d0befed",
+      "hash": "0c62057c8a75b57a8f06e7c1bc1b21a7f88d4820",
       "weight": 3,
       "volume": 0.4,
-      "size": 18074685,
+      "size": 4731149,
       "stream": true
     },
     {
       "name": "music/game/left_to_bloom",
-      "hash": "aa1d3aace1c481ac32d5827fba287294b6bc99fb",
+      "hash": "a971ae2004798c14bc3387cfd1b89420092b3263",
       "volume": 0.4,
-      "size": 17607318,
+      "size": 4663128,
       "stream": true
     },
     {
       "name": "music/game/minecraft",
-      "hash": "50a59a4f56e4046701b758ddbb1c1587efa4cadf",
-      "size": 2530812,
+      "hash": "7f7777e5d5b163c5d64201fd53e5682599548a49",
+      "size": 2860084,
       "stream": true
     },
     {
       "name": "music/game/sweden",
-      "hash": "14ae57a6bce3d4254daa8be2b098c2d99743cc3f",
-      "size": 2232651,
+      "hash": "be9b14926936c4509f7fe5002cdfbba3b2752d82",
+      "size": 2551609,
       "stream": true
     }
   ]

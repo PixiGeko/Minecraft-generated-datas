@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "item/armor/break_wolf",
-      "hash": "74d8eba4e23664a6b6d710e55950567040bbc0c9",
+      "hash": "cc03a029799cea8d138ba34f703921afeda017ab",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15543,
+      "size": 14083,
       "preload": false,
       "stream": false
     }

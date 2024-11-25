@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "entity/shulker_bullet/hit1",
-      "hash": "e72ee78cbc57a43a37ba6db660d9e1eeb0d75f88",
+      "hash": "9340adb5c86230146f204c26a13c052626a8ad9e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11384,
+      "size": 11668,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker_bullet/hit2",
-      "hash": "4ee5fde6bf85cd6a777aa2fcc56ed33e1c574f04",
+      "hash": "888dc3e9ae0fb74109b2e79020919a4ebfd7dd66",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11186,
+      "size": 11469,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker_bullet/hit3",
-      "hash": "b0720899be6f974ad8385ac159bfb165cd732fb2",
+      "hash": "17b7dff9e88b7b32613ce678a0c29020e4b5ce93",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11880,
+      "size": 12468,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker_bullet/hit4",
-      "hash": "715f8e684d4353f45eaa4e6f0ca82de0b7db71ff",
+      "hash": "6d4188e3c7b26a4dca657f9f047383deccf6ec73",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9074,
+      "size": 9345,
       "preload": false,
       "stream": false
     }

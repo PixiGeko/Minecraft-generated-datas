@@ -3,29 +3,29 @@
   "sounds": [
     {
       "name": "mob/irongolem/damage1",
-      "hash": "5a3407cf5481a839159f7ebd1d32e245ae888cfc",
+      "hash": "e96e03891c4c365dd2aef3491c032e5dbbd0f4fa",
       "volume": 0.8,
-      "size": 25132
+      "size": 10217
     },
     {
       "name": "mob/irongolem/damage1",
-      "hash": "5a3407cf5481a839159f7ebd1d32e245ae888cfc",
+      "hash": "e96e03891c4c365dd2aef3491c032e5dbbd0f4fa",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 25132
+      "size": 10217
     },
     {
       "name": "mob/irongolem/damage2",
-      "hash": "3fb232d67903ea25b9beeefaa11d21183f397aee",
+      "hash": "74fb4a747125ac026ade020b5ee2cebd77d13881",
       "volume": 0.8,
-      "size": 34503
+      "size": 13395
     },
     {
       "name": "mob/irongolem/damage2",
-      "hash": "3fb232d67903ea25b9beeefaa11d21183f397aee",
+      "hash": "74fb4a747125ac026ade020b5ee2cebd77d13881",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 34503
+      "size": 13395
     }
   ]
 }

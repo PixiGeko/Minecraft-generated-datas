@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/irongolem/throw",
-      "hash": "607d51883e137d5d423dde865232ab1ee78f2694",
+      "hash": "f30080c54b46aa2dcaa260018cb07ef0561408ac",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5316,
+      "size": 5953,
       "preload": false,
       "stream": false
     }

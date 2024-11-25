@@ -3,132 +3,132 @@
   "sounds": [
     {
       "name": "block/candle/extinguish1",
-      "hash": "f82b1154b34cd0a93533b3384d820db37174bc2e",
+      "hash": "ba74bb7c15c3126ae596d2dbe829738f092cc685",
       "attenuation_distance": 8,
-      "size": 25370
+      "size": 10039
     },
     {
       "name": "block/candle/extinguish1",
-      "hash": "f82b1154b34cd0a93533b3384d820db37174bc2e",
+      "hash": "ba74bb7c15c3126ae596d2dbe829738f092cc685",
       "volume": 0.9,
       "attenuation_distance": 8,
-      "size": 25370
+      "size": 10039
     },
     {
       "name": "block/candle/extinguish1",
-      "hash": "f82b1154b34cd0a93533b3384d820db37174bc2e",
+      "hash": "ba74bb7c15c3126ae596d2dbe829738f092cc685",
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 25370
+      "size": 10039
     },
     {
       "name": "block/candle/extinguish1",
-      "hash": "f82b1154b34cd0a93533b3384d820db37174bc2e",
+      "hash": "ba74bb7c15c3126ae596d2dbe829738f092cc685",
       "volume": 0.9,
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 25370
+      "size": 10039
     },
     {
       "name": "block/candle/extinguish1",
-      "hash": "f82b1154b34cd0a93533b3384d820db37174bc2e",
+      "hash": "ba74bb7c15c3126ae596d2dbe829738f092cc685",
       "pitch": 1.1,
       "attenuation_distance": 8,
-      "size": 25370
+      "size": 10039
     },
     {
       "name": "block/candle/extinguish1",
-      "hash": "f82b1154b34cd0a93533b3384d820db37174bc2e",
+      "hash": "ba74bb7c15c3126ae596d2dbe829738f092cc685",
       "volume": 0.9,
       "pitch": 1.1,
       "attenuation_distance": 8,
-      "size": 25370
+      "size": 10039
     },
     {
       "name": "block/candle/extinguish2",
-      "hash": "7fbf93d76f4ba55b144d902f50416e5e97ae3166",
+      "hash": "aa4b21feb56cca319576289f48d9eec8570683cd",
       "attenuation_distance": 8,
-      "size": 25959
+      "size": 10297
     },
     {
       "name": "block/candle/extinguish2",
-      "hash": "7fbf93d76f4ba55b144d902f50416e5e97ae3166",
+      "hash": "aa4b21feb56cca319576289f48d9eec8570683cd",
       "volume": 0.9,
       "attenuation_distance": 8,
-      "size": 25959
+      "size": 10297
     },
     {
       "name": "block/candle/extinguish2",
-      "hash": "7fbf93d76f4ba55b144d902f50416e5e97ae3166",
+      "hash": "aa4b21feb56cca319576289f48d9eec8570683cd",
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 25959
+      "size": 10297
     },
     {
       "name": "block/candle/extinguish2",
-      "hash": "7fbf93d76f4ba55b144d902f50416e5e97ae3166",
-      "volume": 0.9,
-      "pitch": 0.9,
-      "attenuation_distance": 8,
-      "size": 25959
-    },
-    {
-      "name": "block/candle/extinguish2",
-      "hash": "7fbf93d76f4ba55b144d902f50416e5e97ae3166",
-      "pitch": 1.1,
-      "attenuation_distance": 8,
-      "size": 25959
-    },
-    {
-      "name": "block/candle/extinguish2",
-      "hash": "7fbf93d76f4ba55b144d902f50416e5e97ae3166",
-      "volume": 0.9,
-      "pitch": 1.1,
-      "attenuation_distance": 8,
-      "size": 25959
-    },
-    {
-      "name": "block/candle/extinguish3",
-      "hash": "44a9a68dd718bedbd11b1f895277b648c18c5e0d",
-      "attenuation_distance": 8,
-      "size": 23688
-    },
-    {
-      "name": "block/candle/extinguish3",
-      "hash": "44a9a68dd718bedbd11b1f895277b648c18c5e0d",
-      "volume": 0.9,
-      "attenuation_distance": 8,
-      "size": 23688
-    },
-    {
-      "name": "block/candle/extinguish3",
-      "hash": "44a9a68dd718bedbd11b1f895277b648c18c5e0d",
-      "pitch": 0.9,
-      "attenuation_distance": 8,
-      "size": 23688
-    },
-    {
-      "name": "block/candle/extinguish3",
-      "hash": "44a9a68dd718bedbd11b1f895277b648c18c5e0d",
+      "hash": "aa4b21feb56cca319576289f48d9eec8570683cd",
       "volume": 0.9,
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 23688
+      "size": 10297
     },
     {
-      "name": "block/candle/extinguish3",
-      "hash": "44a9a68dd718bedbd11b1f895277b648c18c5e0d",
+      "name": "block/candle/extinguish2",
+      "hash": "aa4b21feb56cca319576289f48d9eec8570683cd",
       "pitch": 1.1,
       "attenuation_distance": 8,
-      "size": 23688
+      "size": 10297
     },
     {
-      "name": "block/candle/extinguish3",
-      "hash": "44a9a68dd718bedbd11b1f895277b648c18c5e0d",
+      "name": "block/candle/extinguish2",
+      "hash": "aa4b21feb56cca319576289f48d9eec8570683cd",
       "volume": 0.9,
       "pitch": 1.1,
       "attenuation_distance": 8,
-      "size": 23688
+      "size": 10297
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "hash": "feeee313beb55cf6d45b2f99c1bc23ec0a748cd9",
+      "attenuation_distance": 8,
+      "size": 9545
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "hash": "feeee313beb55cf6d45b2f99c1bc23ec0a748cd9",
+      "volume": 0.9,
+      "attenuation_distance": 8,
+      "size": 9545
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "hash": "feeee313beb55cf6d45b2f99c1bc23ec0a748cd9",
+      "pitch": 0.9,
+      "attenuation_distance": 8,
+      "size": 9545
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "hash": "feeee313beb55cf6d45b2f99c1bc23ec0a748cd9",
+      "volume": 0.9,
+      "pitch": 0.9,
+      "attenuation_distance": 8,
+      "size": 9545
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "hash": "feeee313beb55cf6d45b2f99c1bc23ec0a748cd9",
+      "pitch": 1.1,
+      "attenuation_distance": 8,
+      "size": 9545
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "hash": "feeee313beb55cf6d45b2f99c1bc23ec0a748cd9",
+      "volume": 0.9,
+      "pitch": 1.1,
+      "attenuation_distance": 8,
+      "size": 9545
     }
   ]
 }

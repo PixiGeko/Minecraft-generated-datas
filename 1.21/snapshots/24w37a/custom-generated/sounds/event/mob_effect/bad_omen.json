@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "event/mob_effects/bad_omen",
-      "hash": "4520bc7348647bf6d87da98ed3c94e10cb44bc57",
+      "hash": "f8484a5e5106e2b355abbc905fa11c45fdaa1e66",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 28240,
+      "size": 27488,
       "preload": false,
       "stream": false
     }

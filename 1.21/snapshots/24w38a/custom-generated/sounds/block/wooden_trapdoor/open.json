@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "block/wooden_trapdoor/open1",
-      "hash": "9eb0c3c8c34bcf83db451c12f24edd756908d265",
+      "hash": "a942ba9178c104b54519aa462679458355db26c5",
       "volume": 0.9,
-      "size": 5295
+      "size": 5736
     },
     {
       "name": "block/wooden_trapdoor/open2",
-      "hash": "a410f82debee252f1399a8c391bef261ab42d07c",
+      "hash": "4b812a92858942797979e63714dbf814bd246d35",
       "volume": 0.9,
-      "size": 5389
+      "size": 5841
     },
     {
       "name": "block/wooden_trapdoor/open3",
-      "hash": "37c0ff8ac56889125bb0d11be7225f453e1e4098",
+      "hash": "22324b1071e3d53f5f719899ca5d7213dfe4542d",
       "volume": 0.9,
-      "size": 5907
+      "size": 6356
     },
     {
       "name": "block/wooden_trapdoor/open4",
-      "hash": "f756c39f4ca9565c359a66d33b5a4f9d886e5479",
+      "hash": "510bcfc863b9d64fd063d038f97547bfe58e2f12",
       "volume": 0.9,
-      "size": 5788
+      "size": 6183
     },
     {
       "name": "block/wooden_trapdoor/open5",
-      "hash": "3a05ef3ce1827538f54ba4b3262eaee438da4217",
+      "hash": "071003e0b359f3a85959c5a7ad8955c19947455e",
       "volume": 0.9,
-      "size": 5760
+      "size": 6194
     }
   ]
 }

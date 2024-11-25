@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/lodestone/place1",
-      "hash": "41d96b9c4415d933f7a4da7d6a50124ce3d77b22",
+      "hash": "935d8fc1072c11c04d986f3a24dd59eb69bf28f7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 27259,
+      "size": 13925,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/lodestone/place2",
-      "hash": "123f32e70e39dce19e4adf0a452b87d11ce0daf3",
+      "hash": "e1e49df3d3f8c96746d5424104648e3ab4eb24fc",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 20414,
+      "size": 10297,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/lodestone/place3",
-      "hash": "8004c2a8106c0ce5964abb4494c4bf2c11f86085",
+      "hash": "9616fac7e99fda83764ab9cf39d522ee7930b33d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 20538,
+      "size": 10991,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/lodestone/place4",
-      "hash": "b2f8f95701727824a859347750505811e64849b8",
+      "hash": "435d823c6302e6f50d55a1af43cff06945ed452a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 31369,
+      "size": 14860,
       "preload": false,
       "stream": false
     }

@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/copper_trapdoor/toggle1",
-      "hash": "654ad210a1b5d7509ff3522bc884c00820ebe87e",
+      "hash": "656fdfef5989c5634d62c25aff1e81916eb4f7f6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7196,
+      "size": 6654,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/copper_trapdoor/toggle2",
-      "hash": "3ef60857a51b2e76ca6b12e7668edb28bd474c8d",
+      "hash": "b6366428d1b9fd074146ede74e0e95efd0330063",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7770,
+      "size": 7194,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/copper_trapdoor/toggle3",
-      "hash": "bc4bc17fc30b2ac970ed15f0902b30ce9c5f2f98",
+      "hash": "1fa807cfaf7979026cf567fc706c58b301fc27ce",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8363,
+      "size": 7733,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/copper_trapdoor/toggle4",
-      "hash": "44cc77afa1a45e4fc254a2a9660acc2464bbda73",
+      "hash": "bc9216bc46954a47659704667c8298a350177a5e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7744,
+      "size": 7214,
       "preload": false,
       "stream": false
     }

@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/bamboo/place1",
-      "hash": "10b5db42307a37046c5da5ea87869ec748b7adae",
+      "hash": "6f797144f816541aa43f119b4f9cb130048df70b",
       "volume": 0.8,
-      "size": 11581
+      "size": 6738
     },
     {
       "name": "block/bamboo/place2",
-      "hash": "c1eccccefb33b9e3d0b53be3ca752a94fe236138",
+      "hash": "f300b4634a026e51a0b3c760fba6662483208d26",
       "volume": 0.8,
-      "size": 12576
+      "size": 7138
     },
     {
       "name": "block/bamboo/place3",
-      "hash": "e5a53e56c16fbaf4a58eb393da625e8f48e8a798",
+      "hash": "b8cdebb74d1e26e8b8a312af1575150b6891a49c",
       "volume": 0.8,
-      "size": 11598
+      "size": 6948
     },
     {
       "name": "block/bamboo/place4",
-      "hash": "10b4aeb4a3000d312a50d1a03b6ef685dddc8ec7",
+      "hash": "326134c1718d012006b6be1c02204b5e1865907f",
       "volume": 0.8,
-      "size": 11527
+      "size": 7183
     },
     {
       "name": "block/bamboo/place5",
-      "hash": "1882fe1f3b4788404e1cd152764345ee3a4495f2",
+      "hash": "2843a6f2d76f9dfb362a0938522181e68db83ac9",
       "volume": 0.8,
-      "size": 12313
+      "size": 7526
     },
     {
       "name": "block/bamboo/place6",
-      "hash": "21a2e6ab55d2cae46bc0cc5762c2869075f1aded",
+      "hash": "8bef91a032873606b8e70be7a885448fbedf657c",
       "volume": 0.8,
-      "size": 11838
+      "size": 7000
     }
   ]
 }

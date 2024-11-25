@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/horse/skeleton/death",
-      "hash": "3b11e7b50263049d7b7c384c622c8fdf28cf12d8",
+      "hash": "8bc2c8515d2022d580de6ca09e9117b28b338e31",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19775,
+      "size": 20475,
       "preload": false,
       "stream": false
     }

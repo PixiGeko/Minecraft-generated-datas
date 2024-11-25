@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/wither/shoot",
-      "hash": "78ee5b46b6615191b7a16d259fcbda273762297e",
+      "hash": "59ce2fddc9e777d47471c5614aa5d7d219a43ad1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11481,
+      "size": 13256,
       "preload": false,
       "stream": false
     }

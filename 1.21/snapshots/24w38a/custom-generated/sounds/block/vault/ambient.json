@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "block/vault/ambient1",
-      "hash": "9a4c49e84a299e46023d6b122c7998016dbaf697",
+      "hash": "e9644deaba05299e6f119096a892366b06a92727",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 88341,
+      "size": 28649,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/vault/ambient2",
-      "hash": "3d5e61ca95a5dc872292f784ab4e09f0a2be8d5e",
+      "hash": "1ee3efc2dd4121176b542c96fcc7baf6d3badd13",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 80710,
+      "size": 27058,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/vault/ambient3",
-      "hash": "b43d142ae612e9a703fde61b811a83ae88bc5e9c",
+      "hash": "f856295d6812e739fbdf42056f3e1814cf2a76ab",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 63860,
+      "size": 21904,
       "preload": false,
       "stream": false
     }

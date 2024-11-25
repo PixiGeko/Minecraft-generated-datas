@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/rooted_dirt/break1",
-      "hash": "12c012b5c97d4369ebb039ee6467ebb797558f59",
+      "hash": "5c42d1ae39df50bcdfe714db876148720a069efd",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21014,
+      "size": 8262,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/rooted_dirt/break2",
-      "hash": "afac2e36e287781dbb3483f275c140551d892e82",
+      "hash": "00d7b6cb90bbe6552d8b23650f6da1cab68993fa",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23101,
+      "size": 9044,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/rooted_dirt/break3",
-      "hash": "74a040d9a839dd9e4028c808c8cea9e514c063d3",
+      "hash": "23006984a98b3fd36acb05998fb95fde42ee5e93",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18060,
+      "size": 7796,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/rooted_dirt/break4",
-      "hash": "85ab30c03f0991858f04d3b82592d85b1ffdbf82",
+      "hash": "8defa6e305571b092e691a90712c9cc8001fb661",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17312,
+      "size": 7434,
       "preload": false,
       "stream": false
     }

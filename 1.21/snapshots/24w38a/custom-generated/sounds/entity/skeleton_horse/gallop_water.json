@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/horse/skeleton/water/gallop1",
-      "hash": "acfce10dd37b7e1ea6998eb91f1146f383c1164c",
+      "hash": "7da9205947bad631c102c7b0b4eb6003b68a5e11",
       "volume": 0.45,
-      "size": 22494
+      "size": 13028
     },
     {
       "name": "mob/horse/skeleton/water/gallop2",
-      "hash": "2ef49566d78a219dc99f40230ccd255e04532717",
+      "hash": "065ae5e3252835018ebec25b600d9fb4e79fc0f8",
       "volume": 0.45,
-      "size": 23592
+      "size": 13797
     },
     {
       "name": "mob/horse/skeleton/water/gallop3",
-      "hash": "d9485749329fba15803faa23dfadd05c5b294f91",
+      "hash": "2366f9985e55f9712d153ce48d391c56415ef3de",
       "volume": 0.45,
-      "size": 21719
+      "size": 12698
     },
     {
       "name": "mob/horse/skeleton/water/gallop4",
-      "hash": "03aba7c7a204507cbf56132cb04d36fcc3736e30",
+      "hash": "a518e6df51f090ddbb0a191c8d67381c2810aedd",
       "volume": 0.45,
-      "size": 24196
+      "size": 13945
     }
   ]
 }

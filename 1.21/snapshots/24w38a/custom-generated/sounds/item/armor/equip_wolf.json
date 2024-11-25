@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "item/armor/equip_wolf1",
-      "hash": "ba4916e608ac3a1edecf471b2a94585535c4e5ca",
+      "hash": "7b3b3090c1652e73b99880388ccb00f9bb28d28d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18810,
+      "size": 8217,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/armor/equip_wolf1",
-      "hash": "ba4916e608ac3a1edecf471b2a94585535c4e5ca",
+      "hash": "7b3b3090c1652e73b99880388ccb00f9bb28d28d",
       "pitch": 1.1,
-      "size": 18810
+      "size": 8217
     },
     {
       "name": "item/armor/equip_wolf2",
-      "hash": "aaa44c84e33fbf7f1f12cf365fe29963f92fc849",
+      "hash": "00cac24f0f0f86a8cf565fae4a172632020ac01b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19430,
+      "size": 8668,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/armor/equip_wolf2",
-      "hash": "aaa44c84e33fbf7f1f12cf365fe29963f92fc849",
+      "hash": "00cac24f0f0f86a8cf565fae4a172632020ac01b",
       "pitch": 1.1,
-      "size": 19430
+      "size": 8668
     }
   ]
 }

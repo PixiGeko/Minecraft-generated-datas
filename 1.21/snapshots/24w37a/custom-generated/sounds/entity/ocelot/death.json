@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/cat/ocelot/death1",
-      "hash": "2c20abcb3b280e07a2ffddc2e9755a895fd3b75c",
+      "hash": "1895fed0ac3c70a47754824ff8bfb1f505fa1d1d",
       "volume": 0.45,
-      "size": 24124
+      "size": 13961
     },
     {
       "name": "mob/cat/ocelot/death2",
-      "hash": "e2944451a9eab3e993ab085a35c7bb020b38f704",
+      "hash": "af40835f0081df5f78f07675ca07d8224efde93f",
       "volume": 0.45,
-      "size": 27403
+      "size": 16068
     },
     {
       "name": "mob/cat/ocelot/death3",
-      "hash": "e8d2adf107f04444d39258676986c605cf1efb01",
+      "hash": "a90a8b4e705615b43cb446ea44239d3831a83ca7",
       "volume": 0.45,
-      "size": 24638
+      "size": 13925
     }
   ]
 }

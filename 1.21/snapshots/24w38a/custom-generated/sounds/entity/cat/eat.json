@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/cat/eat1",
-      "hash": "eb38199e62e5f06fafce817edea1db860d14bf81",
+      "hash": "638cfa93effc79da0da5b5335a0aa39190ff6b47",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 20890,
+      "size": 11034,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/cat/eat2",
-      "hash": "193a41b1759531080c89a68a658572ea1d6333b4",
+      "hash": "e228ab1407ec3f8fda277d8cc4e58a75b11f564f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 25356,
+      "size": 12497,
       "preload": false,
       "stream": false
     }

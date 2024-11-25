@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "item/book/open_flip1",
-      "hash": "234d6a686516c264a370ea834b87d47ae7334ef7",
+      "hash": "f185272a7508eab9bd63ef024d1f921ed0aa4226",
       "volume": 2,
-      "size": 6615
+      "size": 9638
     },
     {
       "name": "item/book/open_flip2",
-      "hash": "c7d1608c706d75df8f074fd04da027fdbf9ec5c1",
+      "hash": "83db28fa10d28a63fb649729e8fdec2ecde0f430",
       "volume": 2,
-      "size": 6814
+      "size": 9089
     },
     {
       "name": "item/book/open_flip3",
-      "hash": "95f697cb272bb10a744a5062463a6e737a1c4ec2",
+      "hash": "dcd587498ffd5c2036b4486715bf6f59cc7eb312",
       "volume": 2,
-      "size": 6289
+      "size": 8093
     }
   ]
 }

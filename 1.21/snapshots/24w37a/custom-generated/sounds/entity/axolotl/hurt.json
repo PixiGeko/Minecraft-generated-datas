@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/axolotl/hurt1",
-      "hash": "0c42b94014a3b58e1ae24defb6beaeb84011f9b8",
+      "hash": "b1d2dae87eb291e2f48417e767387014037b81f4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19379,
+      "size": 7789,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/axolotl/hurt2",
-      "hash": "588db45a8132cda050dfa447345b7d1a46774818",
+      "hash": "00f5d330fac7924b65b850e12c8436123c7b07e4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23643,
+      "size": 9672,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/axolotl/hurt3",
-      "hash": "cc2638df5c31944928d7cf9e13d9e824a5bb7768",
+      "hash": "9550d6928017b1ca6767efa45d7a6d75128d6dca",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16772,
+      "size": 7421,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/axolotl/hurt4",
-      "hash": "1574c9e6ffd5748852b29951ecfab97e6135f98e",
+      "hash": "2dab15d51297d5f32d65335a312b473cca578fa7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 20184,
+      "size": 8820,
       "preload": false,
       "stream": false
     }

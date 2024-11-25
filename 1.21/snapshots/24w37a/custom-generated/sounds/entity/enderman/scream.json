@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/endermen/scream1",
-      "hash": "c4b5265bbafbe058347058a257abe33a0afb5ab7",
+      "hash": "712e0aaea2e31ba6872912dddc28640ad3a4207e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11231,
+      "size": 13460,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/endermen/scream2",
-      "hash": "c8cd465468a0fd41a1d5cc24cb499862b5ade2cb",
+      "hash": "86a0b94f4f328875c20b338c3cb8cda44a55d942",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11020,
+      "size": 11447,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/endermen/scream3",
-      "hash": "dbab0094299eacbce86ad427edcb34b8342861af",
+      "hash": "71d7fdda5f0ff979adb0f6c7895d8b6be16ad624",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9843,
+      "size": 11179,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/endermen/scream4",
-      "hash": "bcc73584d83225383aaa6affce905392c96afe86",
+      "hash": "a66c9a44027dc9c57cef179b4896c5cddcb1da59",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10411,
+      "size": 11384,
       "preload": false,
       "stream": false
     }

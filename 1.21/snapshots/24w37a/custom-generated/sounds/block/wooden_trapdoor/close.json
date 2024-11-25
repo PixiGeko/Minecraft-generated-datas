@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "block/wooden_trapdoor/close1",
-      "hash": "159697af99ef2640f870bee2aaeda9170a918523",
+      "hash": "893e51fb583c45afdf430c46cb1707132a74bb2e",
       "volume": 0.9,
-      "size": 5519
+      "size": 5932
     },
     {
       "name": "block/wooden_trapdoor/close2",
-      "hash": "5e49444266bf88c2006233a811561272ad8f157f",
+      "hash": "d1d8a4043b005ded332e4520fa9331c7fc818523",
       "volume": 0.9,
-      "size": 5280
+      "size": 5628
     },
     {
       "name": "block/wooden_trapdoor/close3",
-      "hash": "c9a5510420292be670d0020b7123ca0fef1f6087",
+      "hash": "bf11ddbd35fb38146a42e1d64938979755e8c16b",
       "volume": 0.9,
-      "size": 4887
+      "size": 5259
     }
   ]
 }

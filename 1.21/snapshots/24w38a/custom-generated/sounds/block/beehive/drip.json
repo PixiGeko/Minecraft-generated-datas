@@ -3,99 +3,99 @@
   "sounds": [
     {
       "name": "block/beehive/drip1",
-      "hash": "92e5c59c01a77c6b8e3520166a99d4c85fabd32b",
+      "hash": "384931b89f622f9d55a4cd58cf8d328588b4de84",
       "volume": 0.3,
       "pitch": 0.7,
       "attenuation_distance": 8,
-      "size": 11443
+      "size": 6787
     },
     {
       "name": "block/beehive/drip1",
-      "hash": "92e5c59c01a77c6b8e3520166a99d4c85fabd32b",
+      "hash": "384931b89f622f9d55a4cd58cf8d328588b4de84",
       "volume": 0.3,
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 11443
+      "size": 6787
     },
     {
       "name": "block/beehive/drip2",
-      "hash": "babba94d1823b3a43dfe1e32b55263f391568c39",
+      "hash": "939be997b108dd223aa26adab3c35caf41588314",
       "volume": 0.3,
       "pitch": 0.7,
       "attenuation_distance": 8,
-      "size": 9032
+      "size": 5926
     },
     {
       "name": "block/beehive/drip2",
-      "hash": "babba94d1823b3a43dfe1e32b55263f391568c39",
+      "hash": "939be997b108dd223aa26adab3c35caf41588314",
       "volume": 0.3,
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 9032
+      "size": 5926
     },
     {
       "name": "block/beehive/drip3",
-      "hash": "6876f57693dda08f22402814218e81a2a162b889",
+      "hash": "f550d4d895d47547fe58972d11e6029e903e1e39",
       "volume": 0.3,
       "pitch": 0.7,
       "attenuation_distance": 8,
-      "size": 9054
+      "size": 5779
     },
     {
       "name": "block/beehive/drip3",
-      "hash": "6876f57693dda08f22402814218e81a2a162b889",
+      "hash": "f550d4d895d47547fe58972d11e6029e903e1e39",
       "volume": 0.3,
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 9054
+      "size": 5779
     },
     {
       "name": "block/beehive/drip4",
-      "hash": "2ed111eb51ab8c30bbf32da361b31f747f713ee2",
+      "hash": "2f80b9fdd8ee776dd2032f1f906fdc0cff427c9b",
       "volume": 0.3,
       "pitch": 0.7,
       "attenuation_distance": 8,
-      "size": 17621
+      "size": 9389
     },
     {
       "name": "block/beehive/drip4",
-      "hash": "2ed111eb51ab8c30bbf32da361b31f747f713ee2",
+      "hash": "2f80b9fdd8ee776dd2032f1f906fdc0cff427c9b",
       "volume": 0.3,
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 17621
+      "size": 9389
     },
     {
       "name": "block/beehive/drip5",
-      "hash": "b42ab99f7c5546d4ccc9e7bfe4dd2ae942abe5f3",
+      "hash": "1368f950be4517b4ecaadd5da2ea8d9b3335e71d",
       "volume": 0.3,
       "pitch": 0.7,
       "attenuation_distance": 8,
-      "size": 23407
+      "size": 11374
     },
     {
       "name": "block/beehive/drip5",
-      "hash": "b42ab99f7c5546d4ccc9e7bfe4dd2ae942abe5f3",
+      "hash": "1368f950be4517b4ecaadd5da2ea8d9b3335e71d",
       "volume": 0.3,
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 23407
+      "size": 11374
     },
     {
       "name": "block/beehive/drip6",
-      "hash": "89dcde689715952f9bd96b5a2e02bb0a22b5870e",
+      "hash": "0279a1e0669bfbf08cf8133a168b51a887aa6e7c",
       "volume": 0.3,
       "pitch": 0.7,
       "attenuation_distance": 8,
-      "size": 20892
+      "size": 10647
     },
     {
       "name": "block/beehive/drip6",
-      "hash": "89dcde689715952f9bd96b5a2e02bb0a22b5870e",
+      "hash": "0279a1e0669bfbf08cf8133a168b51a887aa6e7c",
       "volume": 0.3,
       "pitch": 0.9,
       "attenuation_distance": 8,
-      "size": 20892
+      "size": 10647
     }
   ]
 }

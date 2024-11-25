@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "block/vault/open_shutter",
-      "hash": "e96aa40aca3dd7abad81cb42b033bdee63a1a9bc",
+      "hash": "4158d20271c062b43a0a8081acdf0937221cceb1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 62401,
+      "size": 24165,
       "preload": false,
       "stream": false
     }

@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/camel/sit1",
-      "hash": "bfe9f9cddbfa746c37a68cf6f664f87420eae9b3",
+      "hash": "387fecc2cc03108ddb6f03df0fbb45846388af77",
       "volume": 0.3,
-      "size": 59227
+      "size": 23358
     },
     {
       "name": "mob/camel/sit2",
-      "hash": "0390dc9708e60e1cb542d702fc5451ef214eb5ac",
+      "hash": "86342127e36b679ed9846408cb99bcc1aa04fc4d",
       "volume": 0.3,
-      "size": 49453
+      "size": 19281
     },
     {
       "name": "mob/camel/sit3",
-      "hash": "34b26e7f9ba93b9039a4a480404a801bd2ebb7c2",
+      "hash": "057385c44cf4b4a32e97ff1dfdba1a9a87875bc5",
       "volume": 0.3,
-      "size": 31698
+      "size": 13271
     },
     {
       "name": "mob/camel/sit4",
-      "hash": "eac564f4d57e2070271a97eea3d34a56789ed6e0",
+      "hash": "44886eed578f551391b69af7a651d78bafab34ee",
       "volume": 0.3,
-      "size": 47957
+      "size": 18704
     }
   ]
 }

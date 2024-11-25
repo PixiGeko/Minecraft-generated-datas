@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/wolf/growl1",
-      "hash": "0b29f5ce8c4c10fa4184e5d29244f3bc121468a0",
+      "hash": "0eaaba6d7fee5159a61b36aea268381bface391b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12761,
+      "size": 13899,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wolf/growl2",
-      "hash": "f57577fe6915175f9e4576e8d73ad4077a381433",
+      "hash": "b0a993d2dd9d67854e6247fca5e0c10b4e65c23d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10311,
+      "size": 11397,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wolf/growl3",
-      "hash": "69ef2fe8d6a744689953fd692d0106b0b2d2a9ce",
+      "hash": "e0870af492065576d94bb65591f01d79a80e4d83",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13663,
+      "size": 18405,
       "preload": false,
       "stream": false
     }

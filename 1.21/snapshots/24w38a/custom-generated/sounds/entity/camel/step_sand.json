@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "mob/camel/step_sand1",
-      "hash": "c38dfc112c6762daa315afde3f059e8c9ec4e48f",
+      "hash": "204aebe731d1e8b230f4a2ef4f494e33bd8a835e",
       "volume": 0.45,
-      "size": 18449
+      "size": 8953
     },
     {
       "name": "mob/camel/step_sand2",
-      "hash": "5214b44cbc6aa25d07f9fe146d92a68abfc967ca",
+      "hash": "0d2a9808c3a76773784d77e0e30ee106cdeb2675",
       "volume": 0.45,
-      "size": 17238
+      "size": 8818
     },
     {
       "name": "mob/camel/step_sand3",
-      "hash": "8dfcec9ada0d6b48585ad2749d62526c26ea7bfd",
+      "hash": "271e442119fea8aa36e4f5ad810b90ef97214c5d",
       "volume": 0.45,
-      "size": 17442
+      "size": 8780
     },
     {
       "name": "mob/camel/step_sand4",
-      "hash": "fdf4c26863c42c647bc7e674e82d231ca54a95ba",
+      "hash": "dd713481356def734428b94d44d3df15f8a9fc71",
       "volume": 0.45,
-      "size": 17811
+      "size": 8882
     },
     {
       "name": "mob/camel/step_sand5",
-      "hash": "e016ace48566d631c1508f4ba6acdfc759b07773",
+      "hash": "5a7d4b019da7be1395bd024715aefb55a3d5743c",
       "volume": 0.45,
-      "size": 17134
+      "size": 9108
     },
     {
       "name": "mob/camel/step_sand6",
-      "hash": "5ec5275e38f39507062fbb17d8c6b253fbfc5963",
+      "hash": "324b5fe052c41ecb8f9f99ceb02f0ae0f378801e",
       "volume": 0.45,
-      "size": 17178
+      "size": 8703
     }
   ]
 }

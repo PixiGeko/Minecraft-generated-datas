@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/turtle/armor",
-      "hash": "18e070182052d63ec9b28ccec571a64db9137341",
+      "hash": "ae40c4b39e59cfc7152b7ff647150e7a5f184bef",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16097,
+      "size": 8379,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/turtle/armor",
-      "hash": "18e070182052d63ec9b28ccec571a64db9137341",
+      "hash": "ae40c4b39e59cfc7152b7ff647150e7a5f184bef",
       "pitch": 0.85,
-      "size": 16097
+      "size": 8379
     },
     {
       "name": "mob/turtle/armor",
-      "hash": "18e070182052d63ec9b28ccec571a64db9137341",
+      "hash": "ae40c4b39e59cfc7152b7ff647150e7a5f184bef",
       "pitch": 1.1,
-      "size": 16097
+      "size": 8379
     }
   ]
 }

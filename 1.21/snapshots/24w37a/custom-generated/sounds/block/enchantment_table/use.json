@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "block/enchantment_table/enchant1",
-      "hash": "f05f55328f2b98b3c7d881fcdef7e7964d8082fa",
+      "hash": "81fb73a754948f5d3f66972eb8404c12caf3d440",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14984,
+      "size": 14724,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/enchantment_table/enchant2",
-      "hash": "2568ad69e8c6b393bc64745ee825c4026a0cc06d",
+      "hash": "3da9a539fa3df4e70c6ab3eda39244288d83d3c4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14972,
+      "size": 14768,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/enchantment_table/enchant3",
-      "hash": "ca7a734d03d0deaa89a9d7f786e5c827f62f442d",
+      "hash": "62579dcf7b4bee2dfed7b64b94191bc2fee59cf3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16575,
+      "size": 16522,
       "preload": false,
       "stream": false
     }

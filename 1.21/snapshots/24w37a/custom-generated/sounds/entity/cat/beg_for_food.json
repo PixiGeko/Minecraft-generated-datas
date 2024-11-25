@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/cat/beg1",
-      "hash": "90046a9705756370acd9a00502aab5785a2c2136",
+      "hash": "efba8a3a509b6d67b3882b5de37d8dfa05648210",
       "volume": 0.7,
-      "size": 28751
+      "size": 15368
     },
     {
       "name": "mob/cat/beg2",
-      "hash": "81ecc0e968811b4ba4c62d03474bbf92b0e76192",
+      "hash": "c8036952a1becca954cec11225d785d279f01813",
       "volume": 0.7,
-      "size": 22714
+      "size": 12635
     },
     {
       "name": "mob/cat/beg3",
-      "hash": "598c94848e3e66bc34b3dde36ee29ac51146cf8c",
+      "hash": "f58d52921ed996f12b51ea3423668da2dcf48daf",
       "volume": 0.7,
-      "size": 28604
+      "size": 12004
     }
   ]
 }

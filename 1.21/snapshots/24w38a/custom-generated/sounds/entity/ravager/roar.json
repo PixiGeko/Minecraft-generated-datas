@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/ravager/roar1",
-      "hash": "b4dc3a8ee8960ae4fc142592ede8a7611affebe4",
+      "hash": "8855447a5c5fe347907ae574495fec645a11a9d1",
       "attenuation_distance": 35,
-      "size": 43069
+      "size": 24543
     },
     {
       "name": "mob/ravager/roar2",
-      "hash": "93e77a3654e3169c4687449b8ad92bfcd53d62dc",
+      "hash": "070b4565691243aa4255810ac4d29c1238d03536",
       "attenuation_distance": 35,
-      "size": 46932
+      "size": 24744
     },
     {
       "name": "mob/ravager/roar3",
-      "hash": "ee7bdedbe587cfc9452a9ec9232bdbbbb37d6d84",
+      "hash": "c638b991376f596903f7a6f58adf02240e3ef3fe",
       "attenuation_distance": 35,
-      "size": 44998
+      "size": 24838
     },
     {
       "name": "mob/ravager/roar4",
-      "hash": "2dfd4e077bac712adcbcbe32e7e148563cebb3d8",
+      "hash": "b8990fb5454091c22e0cb44377a3d113781b316a",
       "attenuation_distance": 35,
-      "size": 43159
+      "size": 23426
     }
   ]
 }

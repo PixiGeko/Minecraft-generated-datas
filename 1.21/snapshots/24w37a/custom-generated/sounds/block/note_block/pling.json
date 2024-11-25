@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "note/pling",
-      "hash": "20d06589bd5ab81a73989bdac8ca59ecd4d66932",
+      "hash": "774ae41e86f0b62a5cc961d1bc2e3d0aef9d229c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6274,
+      "size": 7149,
       "preload": false,
       "stream": false
     }

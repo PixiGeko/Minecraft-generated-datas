@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/piglin_brute/hurt1",
-      "hash": "2fbd1fb5d9810edb40201e78082d9f103d26b13e",
+      "hash": "50116675df44b6d60a200e3fb2070dc67fc11d7c",
       "volume": 0.64,
-      "size": 29606
+      "size": 12870
     },
     {
       "name": "mob/piglin_brute/hurt2",
-      "hash": "7ecc73f0f56eab9649681ce2e2cae24188bf472c",
+      "hash": "b726a2355288a8f607badefd74a9068f1bc734d1",
       "volume": 0.64,
-      "size": 18075
+      "size": 7990
     },
     {
       "name": "mob/piglin_brute/hurt3",
-      "hash": "542bf9c878ccc7c7cd4711f04c24548aee697d24",
+      "hash": "beec370278bea51ecdf462f08f67454d3ec63eba",
       "volume": 0.64,
-      "size": 24047
+      "size": 10433
     },
     {
       "name": "mob/piglin_brute/hurt4",
-      "hash": "1b2faea09490636cbc0c3b5de9d808faa5dd34a9",
+      "hash": "be6fb471361325ec9692f49d41e92de7996474d5",
       "volume": 0.65,
-      "size": 27722
+      "size": 11423
     }
   ]
 }

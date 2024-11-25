@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/nether_wood_trapdoor/toggle1",
-      "hash": "64b7612a22c46a974a2e4ddcce0b3bf61fffd11e",
+      "hash": "377dd408d95fda9e9379776349c69e813d4e1389",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17812,
+      "size": 7212,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/nether_wood_trapdoor/toggle2",
-      "hash": "3a48d36cc6bd2b1d5c7dbdcd7710e5bd5e25ce19",
+      "hash": "295f048e8370d397aa4813172d10b2e1b1bd2409",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15103,
+      "size": 7127,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/nether_wood_trapdoor/toggle3",
-      "hash": "faa6ab35a1f6d20e8e7738341265b36c140bc42d",
+      "hash": "ebfaffb897611c1edf4ea6f2add562c41a51eb8b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17291,
+      "size": 7951,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/nether_wood_trapdoor/toggle4",
-      "hash": "b332519d27bebece8b03079d104bd11b96d14999",
+      "hash": "d80a8adf60b42ba1edc015e394f786e7d8a4f58c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16184,
+      "size": 7155,
       "preload": false,
       "stream": false
     }

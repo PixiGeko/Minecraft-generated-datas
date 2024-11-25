@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/silverfish/hit1",
-      "hash": "84c3b008dc1d5e0dd5e8ad85a06eca29f0591e48",
+      "hash": "8112d96f4f017bd0fb7d01b1b1167727c78a72b4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7371,
+      "size": 8261,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/silverfish/hit2",
-      "hash": "38d4d36bbe40a48c3a8ef97735b59b37f013fd6e",
+      "hash": "d9b29a53708a15e1fdfd4cfcbb879f36dd30ab65",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6717,
+      "size": 7334,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/silverfish/hit3",
-      "hash": "5b1675279bbc245fc6bbb705de8ea09fb3f32b53",
+      "hash": "fbd17ce3ea0f054c54081c25eca2cc6570ee496a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7205,
+      "size": 7693,
       "preload": false,
       "stream": false
     }

@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/allay/idle_without_item1",
-      "hash": "2f5a4f4b76d5233b59a017adff9a82b3405e843a",
+      "hash": "9410ea94169557cef4737e37245029b7febeedb5",
       "volume": 0.25,
-      "size": 76929
+      "size": 29034
     },
     {
       "name": "mob/allay/idle_without_item2",
-      "hash": "b0d0aecd1c7335b3c299bdd92d0e57d2e639a077",
+      "hash": "dbd04b334c46b180a0113de9b6d955f89a983c59",
       "volume": 0.25,
-      "size": 71269
+      "size": 27760
     },
     {
       "name": "mob/allay/idle_without_item3",
-      "hash": "96ba43f8d85eb36f2214a5d2234eb2b59de5efd1",
+      "hash": "dbed2ce953204287bfd089e99bba2ccaa64c3f36",
       "volume": 0.25,
-      "size": 74178
+      "size": 28946
     },
     {
       "name": "mob/allay/idle_without_item4",
-      "hash": "1f838023c8cfe5feb98089526c657d2fcdca6767",
+      "hash": "509d57f807af65bcd3cff606524202be0a00f674",
       "volume": 0.25,
-      "size": 73875
+      "size": 28217
     }
   ]
 }

@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "block/bamboo_wood_hanging_sign/break1",
-      "hash": "bd58021f2a66566eaa169d5847a47e334b6ed62e",
+      "hash": "5be2d2af796b7b06a3c19d9e753210a272f6a194",
       "volume": 0.8,
-      "size": 15130
+      "size": 7212
     },
     {
       "name": "block/bamboo_wood_hanging_sign/break2",
-      "hash": "542e425cc25aca4e3be5ab3c55c64f55a4ea0faf",
+      "hash": "6eae899a01a619c8159a79ee33f5555ac8edfacb",
       "volume": 0.8,
-      "size": 16759
+      "size": 7401
     },
     {
       "name": "block/bamboo_wood_hanging_sign/break3",
-      "hash": "1fa5512b2716f07b61dce51fb478b550f862e82a",
+      "hash": "477cf5979094e0512e27d8e94e8b2ba98a479813",
       "volume": 0.8,
-      "size": 16450
+      "size": 7732
     },
     {
       "name": "block/bamboo_wood_hanging_sign/break4",
-      "hash": "0ddd6d05032fb79fcaab212baffc2df7d862a81f",
+      "hash": "ee368242f57f021781e63d1f474720ac54257ac3",
       "volume": 0.8,
-      "size": 18160
+      "size": 8506
     }
   ]
 }

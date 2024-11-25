@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "block/composter/empty1",
-      "hash": "b97899f3c27ab46d7bab3edd0d1d73fecf5469e3",
+      "hash": "6bb2cdcea082f3318f5ee371ff94307312b0b5d0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10769,
+      "size": 6138,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/composter/empty2",
-      "hash": "77109350e5cf7cfaa0cc1543294dde3d76324645",
+      "hash": "52aef6b85220e8f40b4f6b12600e876c5ae2b728",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11363,
+      "size": 6054,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/composter/empty3",
-      "hash": "e76c482f23201967692b2b8442dd0a52aac48701",
+      "hash": "7d7f7244a248dbf3b5db57aa2cde2d9d43e98b12",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12765,
+      "size": 6184,
       "preload": false,
       "stream": false
     }

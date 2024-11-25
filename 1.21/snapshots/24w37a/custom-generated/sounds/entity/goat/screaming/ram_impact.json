@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "mob/goat/impact1",
-      "hash": "5d1047ea9d5a37a9b6568a5027d809fdbd3bba8c",
+      "hash": "d90e6fdd5a89cc91603c57eace78b3b77521eaa9",
       "volume": 0.8,
-      "size": 19350
+      "size": 8301
     },
     {
       "name": "mob/goat/impact2",
-      "hash": "58df3bb172e31b3e9df0aba6670f6f373bb44f6b",
+      "hash": "8c63dc56c264fa42cd127e83714a0f927a23d298",
       "volume": 0.8,
-      "size": 17307
+      "size": 7881
     },
     {
       "name": "mob/goat/impact2",
-      "hash": "58df3bb172e31b3e9df0aba6670f6f373bb44f6b",
+      "hash": "8c63dc56c264fa42cd127e83714a0f927a23d298",
       "volume": 0.8,
-      "size": 17307
+      "size": 7881
     }
   ]
 }

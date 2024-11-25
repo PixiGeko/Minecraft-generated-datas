@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/ravager/death1",
-      "hash": "78183ddf604932321529eead4266f5d1607e1e03",
+      "hash": "b3fdf645eabd1e6c1334bfb54bcbde3576c59b92",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 36851,
+      "size": 19345,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/ravager/death2",
-      "hash": "608bf241c72812309ce6a97d406dbaa82308b1b3",
+      "hash": "bb6f34150e416c1c9a335a5232ff561774bd5e10",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 32132,
+      "size": 16542,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/ravager/death3",
-      "hash": "d84952f93aa55b9e79a69e3377a3322a6f3a7e04",
+      "hash": "9a96a7a756ccf93118b709114c12fbc7af6672b9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 37365,
+      "size": 19068,
       "preload": false,
       "stream": false
     }

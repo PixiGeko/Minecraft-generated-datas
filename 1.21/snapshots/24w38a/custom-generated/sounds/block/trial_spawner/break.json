@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "block/trial_spawner/break1",
-      "hash": "01644fe4c50b2ac1c68897171d483bd9ef8bb482",
+      "hash": "4d89f4dce1ef82cdd930f10f9dcbc3f1e3cf24a6",
       "volume": 0.9,
-      "size": 18474
+      "size": 17015
     },
     {
       "name": "block/trial_spawner/break2",
-      "hash": "25d946823bfe74465b6b099461a6b76ebf585e84",
+      "hash": "d181fa75f01a291979f9103d7cd7473631fb5e8c",
       "volume": 0.9,
-      "size": 19099
+      "size": 17513
     },
     {
       "name": "block/trial_spawner/break3",
-      "hash": "73195a35ab094a02787f06cc6a0f2f525cb6a245",
+      "hash": "a6cc7f68228c91f8e692144464f48ece318e9a11",
       "volume": 0.9,
-      "size": 19694
+      "size": 18689
     }
   ]
 }

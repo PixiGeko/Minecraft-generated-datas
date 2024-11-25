@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/parrot/eat1",
-      "hash": "bb043ea13fdb26ad2ac9bc2cf70ca7e4bec06d59",
+      "hash": "d0334761a307487ba4d051648ca7df4221a3b835",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6152,
+      "size": 6685,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/parrot/eat2",
-      "hash": "087d6af9866942cb656d183aedbfca17e102eb48",
+      "hash": "78b99f889c28717f7cd82fa113f0681502cfa53d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6198,
+      "size": 6672,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/parrot/eat3",
-      "hash": "a6b1e2f30a20a0cdf6bdacd86e837b56e1259e77",
+      "hash": "f1f6528247ecc729feb0fe08b5f3d81470ae137a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6323,
+      "size": 6718,
       "preload": false,
       "stream": false
     }

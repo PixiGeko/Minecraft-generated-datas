@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/warden/nearby_closer_1",
-      "hash": "67fd6034c9f5d1d4fb030798d4ea72aa861cb6c2",
+      "hash": "20981456d652bbcdddaf7ed10fce0d42ad0f8379",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 72242,
+      "size": 53957,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/warden/nearby_closer_2",
-      "hash": "22c318f9a3387146d0a5c4e904509f7bf3131213",
+      "hash": "40082fd467ff5e7cfb389c4ca862939a15db7e69",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 68665,
+      "size": 49189,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/warden/nearby_closer_3",
-      "hash": "fbd5bb6e2bb92e63dd0c2ad641ab3f5dcfabade0",
+      "hash": "b0e38d02270299aea7d65853662456bb1640a5d5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 62096,
+      "size": 50518,
       "preload": false,
       "stream": false
     }

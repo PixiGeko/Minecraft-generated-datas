@@ -3,55 +3,55 @@
   "sounds": [
     {
       "name": "block/honeyblock/slide1",
-      "hash": "8245b9f22fa32f4e74e150fd225fff00362e74cc",
+      "hash": "2c93c34d755ef0c4831bd8aab06fb2c9cf0e18f0",
       "volume": 0.8,
-      "size": 27182
+      "size": 12115
     },
     {
       "name": "block/honeyblock/slide1",
-      "hash": "8245b9f22fa32f4e74e150fd225fff00362e74cc",
+      "hash": "2c93c34d755ef0c4831bd8aab06fb2c9cf0e18f0",
       "volume": 0.8,
       "pitch": 0.9,
-      "size": 27182
+      "size": 12115
     },
     {
       "name": "block/honeyblock/slide2",
-      "hash": "013b1518d41176f1884ef17944104a8473d408ce",
+      "hash": "77535e99c08e5d4b7e20bb0f5fe1022a18dfc5e6",
       "volume": 0.8,
-      "size": 28425
+      "size": 12556
     },
     {
       "name": "block/honeyblock/slide2",
-      "hash": "013b1518d41176f1884ef17944104a8473d408ce",
+      "hash": "77535e99c08e5d4b7e20bb0f5fe1022a18dfc5e6",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 28425
+      "size": 12556
     },
     {
       "name": "block/honeyblock/slide3",
-      "hash": "d4ad02bc3a9c3bd5eac9774d1130bac5cd73ba94",
+      "hash": "e2269b8b16778ff810fb6202546b233a36d76a92",
       "volume": 0.8,
-      "size": 29290
+      "size": 13417
     },
     {
       "name": "block/honeyblock/slide3",
-      "hash": "d4ad02bc3a9c3bd5eac9774d1130bac5cd73ba94",
+      "hash": "e2269b8b16778ff810fb6202546b233a36d76a92",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 29290
+      "size": 13417
     },
     {
       "name": "block/honeyblock/slide4",
-      "hash": "102613b04262cd0f94702afd14063fa0187bc158",
+      "hash": "cf661b19b996e717140012df6c03d82e59c5dfc2",
       "volume": 0.8,
-      "size": 23133
+      "size": 10636
     },
     {
       "name": "block/honeyblock/slide4",
-      "hash": "102613b04262cd0f94702afd14063fa0187bc158",
+      "hash": "cf661b19b996e717140012df6c03d82e59c5dfc2",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 23133
+      "size": 10636
     }
   ]
 }

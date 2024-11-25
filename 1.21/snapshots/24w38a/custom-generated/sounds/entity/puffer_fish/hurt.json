@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "entity/pufferfish/hurt1",
-      "hash": "e199ff64ffeb5af2ff6a932a79921e7c4af8a26d",
+      "hash": "cbe0bcd4e918d83a5964daa4a6d1cb52875e61ff",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19849,
+      "size": 9619,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/pufferfish/hurt2",
-      "hash": "0113fbf3e047f4fa4ef680ae7781326427e30f02",
+      "hash": "3a036d07f4a38045ee6d825b2ab9a80d7393f81d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19182,
+      "size": 9361,
       "preload": false,
       "stream": false
     }

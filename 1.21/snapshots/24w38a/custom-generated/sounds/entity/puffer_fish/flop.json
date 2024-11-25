@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "entity/pufferfish/flop1",
-      "hash": "e054f5ac99734a9a34623e18e61bd34656065a36",
+      "hash": "8bdd9dc43166d8ac3a93a8a6907bd2e0c6e1dc53",
       "volume": 0.3,
-      "size": 18101
+      "size": 8705
     },
     {
       "name": "entity/pufferfish/flop2",
-      "hash": "25b287d0f5b881618ceb8dcb867130bf63e87f30",
+      "hash": "ee69ba4643850e25c135089671abb6f7f2b0605f",
       "volume": 0.3,
-      "size": 17795
+      "size": 8833
     },
     {
       "name": "entity/pufferfish/flop3",
-      "hash": "9a9cebef7d5ecb48edf3ea9e9ee0936259eb2fb5",
+      "hash": "42a6b8b7a9c20c1a73e64ae6bab694c3f124c891",
       "volume": 0.3,
-      "size": 15913
+      "size": 8044
     },
     {
       "name": "entity/pufferfish/flop4",
-      "hash": "fd136da589bcb1668581eb07195317d613de9993",
+      "hash": "6b7dc17dd98147dee62028a26b10354ea72881a8",
       "volume": 0.3,
-      "size": 16456
+      "size": 8806
     }
   ]
 }

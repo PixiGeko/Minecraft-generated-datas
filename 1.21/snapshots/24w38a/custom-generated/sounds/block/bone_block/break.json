@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "block/bone_block/break1",
-      "hash": "e1531690171d1940e0737074a8e6dbd31387d4b1",
+      "hash": "91ae98690736218edb5a24bb215d606be1d7c51e",
       "volume": 0.9,
-      "size": 13544
+      "size": 6651
     },
     {
       "name": "block/bone_block/break2",
-      "hash": "3eddefcae7dd754b80765c2fee955aa26c644e7c",
+      "hash": "7df7ac16c0c626ec85a989a2b63fa8143f149fd2",
       "volume": 0.9,
-      "size": 12134
+      "size": 6258
     },
     {
       "name": "block/bone_block/break3",
-      "hash": "b2ae2bdcbaabf46448ed282df1ae1cc7096bb8e9",
+      "hash": "42cd5cfe8c34126062175d2c3d437db4b60bf925",
       "volume": 0.9,
-      "size": 14416
+      "size": 7107
     },
     {
       "name": "block/bone_block/break4",
-      "hash": "de98f91fbce73a38fa30e887ac8dce08aac8e675",
+      "hash": "62d0ae42e010821e3a4fe82652e9a7c7597013bb",
       "volume": 0.9,
-      "size": 14079
+      "size": 7001
     },
     {
       "name": "block/bone_block/break5",
-      "hash": "0ae403bea99c54d26b09f7d588ea11ddb4b6dc98",
+      "hash": "ffc3155e5ebf3662feaa6dc6413be690c24f3633",
       "volume": 0.9,
-      "size": 14895
+      "size": 7130
     }
   ]
 }

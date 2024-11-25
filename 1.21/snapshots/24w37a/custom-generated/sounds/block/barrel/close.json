@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "block/barrel/close",
-      "hash": "fb9da3e4f5ef68c7f2f51152bbf3770d052bef8a",
+      "hash": "2933ec1db4be45d5c2980ddce10f2209c4ee5230",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 16195,
+      "size": 9512,
       "preload": false,
       "stream": false
     }

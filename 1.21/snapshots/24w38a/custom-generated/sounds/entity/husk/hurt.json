@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/husk/hurt1",
-      "hash": "df807aa06d67adafc96907b437dd5f3b82d04bb5",
+      "hash": "9a7f0d645ba926abd313b9626fed49ead83056be",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9935,
+      "size": 10719,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/husk/hurt2",
-      "hash": "603f17073b0ed21701163b2aad1afb02111a8ed3",
+      "hash": "c29d44c116eb9a9f2564c5e2933e1f62d126b416",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10766,
+      "size": 11118,
       "preload": false,
       "stream": false
     }

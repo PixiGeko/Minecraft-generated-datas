@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "block/sweet_berry_bush/break1",
-      "hash": "8eaa189e42aad889310e03cc26de676dc8431345",
+      "hash": "5e70eed559dac551cc7e0493793628e7b55a44d0",
       "volume": 0.8,
-      "size": 15581
+      "size": 8115
     },
     {
       "name": "block/sweet_berry_bush/break2",
-      "hash": "a67784e3903cb1e3a2005e7c36c648279b97edd8",
+      "hash": "622fb127130bc09030d8662c16b5e2743defa03b",
       "volume": 0.8,
-      "size": 16637
+      "size": 8031
     },
     {
       "name": "block/sweet_berry_bush/break3",
-      "hash": "350a9a9620efabf6edf91e75762957953bf6cb81",
+      "hash": "98f36fa7518bce840b14b1cc9b48e9baa9ff9bad",
       "volume": 0.8,
-      "size": 14841
+      "size": 7490
     },
     {
       "name": "block/sweet_berry_bush/break4",
-      "hash": "a9d3b12ba323f0b14a2adbf92f597a803831d6a4",
+      "hash": "e1620e03cf52aaa8d046a9b54f8eddfb6059f694",
       "volume": 0.8,
-      "size": 15807
+      "size": 8101
     }
   ]
 }

@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "block/bubble_column/upwards_ambient1",
-      "hash": "c54914b241363f9152af7bbb7bdbf103eb1ec63c",
+      "hash": "cb6465255dddd7a501b8592b5b68c1bb73511f79",
       "volume": 0.6,
-      "size": 29145
+      "size": 16009
     },
     {
       "name": "block/bubble_column/upwards_ambient2",
-      "hash": "7d6c1342b6b32e85c4796dbd56e4036d14d6b843",
+      "hash": "5021730a7be8e2abed49649d545450ee44ac2112",
       "volume": 0.6,
-      "size": 56352
+      "size": 29385
     },
     {
       "name": "block/bubble_column/upwards_ambient3",
-      "hash": "13f2ea2f0466950814efe5f4d16be2962bc21eaa",
+      "hash": "e22edffc8b879d8f042010b237d13247f17d5552",
       "volume": 0.6,
-      "size": 44722
+      "size": 23479
     },
     {
       "name": "block/bubble_column/upwards_ambient4",
-      "hash": "1eecbb056b9f9c8bb1b69fde9e21a875c77738a4",
+      "hash": "6637a4756c12719f1dd59c2c2262fbb7f47875c5",
       "volume": 0.6,
-      "size": 39360
+      "size": 20704
     },
     {
       "name": "block/bubble_column/upwards_ambient5",
-      "hash": "becc6cf96c7de261ea95761aea34df7932610cc6",
+      "hash": "441c5d664ce613a1eff8fe2034c0ba368c7f3eec",
       "volume": 0.6,
-      "size": 83114
+      "size": 41850
     }
   ]
 }

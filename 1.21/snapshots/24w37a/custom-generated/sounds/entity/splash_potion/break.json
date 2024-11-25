@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "random/glass1",
-      "hash": "7274a2231ed4544a37e599b7b014e589e5377094",
+      "hash": "fa35a51bb74a4a6cf0c48161342db5a8577f13e5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7443,
+      "size": 9937,
       "preload": false,
       "stream": false
     },
     {
       "name": "random/glass2",
-      "hash": "87c47bda3645c68f18a49e83cbf06e5302d087ff",
+      "hash": "f1b8e424aa0559952b08651d792f96381d2fb132",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7532,
+      "size": 9712,
       "preload": false,
       "stream": false
     },
     {
       "name": "random/glass3",
-      "hash": "ad7d770b7fff3b64121f75bd60cecfc4866d1cd6",
+      "hash": "3be3cf9a5c8534bf6548ba89c699a3b2abf9e074",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 7592,
+      "size": 9364,
       "preload": false,
       "stream": false
     }

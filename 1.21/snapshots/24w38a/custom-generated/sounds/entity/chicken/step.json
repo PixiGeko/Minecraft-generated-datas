@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/chicken/step1",
-      "hash": "e0f0ba416a5744036e11bb6a5fc5ac4b8c461873",
+      "hash": "e16352150262ab49686f6c0aeaffa7532d3157ea",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 3702,
+      "size": 4199,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/chicken/step2",
-      "hash": "bf7fadaf64945f6b31c803d086ac6a652aabef9b",
+      "hash": "b893fcb8cd5a120eb443a6fb6cdf9ca1ff9ac2c4",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 3838,
+      "size": 4364,
       "preload": false,
       "stream": false
     }

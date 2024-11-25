@@ -2,85 +2,85 @@
   "sounds": [
     {
       "name": "music/game/crescent_dunes",
-      "hash": "a0ad97718ec427d5651ef602331ebda9c91bc906",
+      "hash": "3de85c831b083e10d906c3ac007d7ca9f36b4075",
       "weight": 2,
       "volume": 0.4,
-      "size": 12997949,
+      "size": 3899916,
       "stream": true
     },
     {
       "name": "music/game/danny",
-      "hash": "5e7d63e75c6e042f452bc5e151276911ef92fed8",
-      "size": 2558252,
+      "hash": "603fd41ebe3eac0795ebfa0b31195be1866d1e9c",
+      "size": 2950673,
       "stream": true
     },
     {
       "name": "music/game/dry_hands",
-      "hash": "0f374764aafba398f4ba90dba05a53a9e6166138",
-      "size": 542805,
+      "hash": "53976ed366c97ad86c1d7ce21497c9985f33d4f1",
+      "size": 634322,
       "stream": true
     },
     {
       "name": "music/game/echo_in_the_wind",
-      "hash": "a40303dd9d4bfbb0986e66fc93553a0755621880",
+      "hash": "5c97ac9788ab81e560bae32b0f5e4fc244e544b4",
       "volume": 0.4,
-      "size": 13445440,
+      "size": 3666137,
       "stream": true
     },
     {
       "name": "music/game/featherfall",
-      "hash": "c497c8c1dada852bafaa9ac17c5c30f37d0befed",
+      "hash": "0c62057c8a75b57a8f06e7c1bc1b21a7f88d4820",
       "volume": 0.4,
-      "size": 18074685,
+      "size": 4731149,
       "stream": true
     },
     {
       "name": "music/game/haggstrom",
-      "hash": "dd85fb564e96ee2dbd4754f711ae9deb08a169f9",
-      "size": 1923269,
+      "hash": "c25705e16f1d51a56a2b0a4604250b3844ceadcf",
+      "size": 2178666,
       "stream": true
     },
     {
       "name": "music/game/key",
-      "hash": "cc1a80b6becfc6d6489c069f053d0a8adc71c339",
-      "size": 156322,
+      "hash": "8ee9d608f0bbb2d0513af7bfc1b55e591ada05ea",
+      "size": 656170,
       "stream": true
     },
     {
       "name": "music/game/living_mice",
-      "hash": "ceaaaa1d57dfdfbb0bd4da5ea39628b42897a687",
-      "size": 1754429,
+      "hash": "532fdae2fd43bc046f78a1b7b79f28161f25fc4c",
+      "size": 2008986,
       "stream": true
     },
     {
       "name": "music/game/mice_on_venus",
-      "hash": "9528b6a76e7bac64ca1145cc682e8a8448cc04e5",
-      "size": 2665984,
+      "hash": "06a2f38a094573652977232abcc4f268cf6745ad",
+      "size": 2943549,
       "stream": true
     },
     {
       "name": "music/game/one_more_day",
-      "hash": "8b0b49dcab54157bb02ef81380990dac2a187b99",
+      "hash": "324f58251829988ad3f4a5f7dc39b647fdcc2639",
       "volume": 0.4,
-      "size": 14684917,
+      "size": 4014339,
       "stream": true
     },
     {
       "name": "music/game/oxygene",
-      "hash": "78152dc42b036e0de7616e6e669ce5a81d17f82a",
-      "size": 219029,
+      "hash": "b99889832d7f9abe35725506e4cd48075e25f957",
+      "size": 765694,
       "stream": true
     },
     {
       "name": "music/game/subwoofer_lullaby",
-      "hash": "df1ff11b79757432c5c3f279e5ecde7b63ceda64",
-      "size": 1972217,
+      "hash": "0dbcd56e6d8a931818f0913a0e23f784106d4ad8",
+      "size": 2196234,
       "stream": true
     },
     {
       "name": "music/game/wet_hands",
-      "hash": "98a918eb2694defd19726436d4b9dca9e7dd6a65",
-      "size": 824333,
+      "hash": "e8a73969b515a15df138a4d55b07f4ff573db25f",
+      "size": 986427,
       "stream": true
     }
   ]

@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/vex/charge1",
-      "hash": "478e408dfbdf80fbef0c01c00e13db9d30c6fdef",
+      "hash": "e4208f313e7c1431d9e04c80974fa4ed4a783275",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 20167,
+      "size": 21018,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/vex/charge2",
-      "hash": "e967f24f61a222b616dd9cda511f0295aad99bbd",
+      "hash": "a87243e6908907bfc9b2493e1bc0fd52d551045e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 20344,
+      "size": 20389,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/vex/charge3",
-      "hash": "342790fb463baafaa7b8d61102567b48505cbdf2",
+      "hash": "8248ad6190c073991d504dabe7e8e115d0cde89e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23488,
+      "size": 23434,
       "preload": false,
       "stream": false
     }

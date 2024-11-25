@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "entity/player/hurt/berrybush_hurt1",
-      "hash": "d2aa32d74df0cfcdcb7b36862206762dc5f16d5c",
+      "hash": "f1986caf428a5af77d8ee727150285ec66e02084",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4974,
+      "size": 5747,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/player/hurt/berrybush_hurt2",
-      "hash": "bde0f483fb36757e6207767d65d02bd8a190c685",
+      "hash": "2bfceee0fd6e951984251c3683546350d8931bbe",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5310,
+      "size": 6136,
       "preload": false,
       "stream": false
     }

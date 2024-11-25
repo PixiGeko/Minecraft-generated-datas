@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "liquid/lava",
-      "hash": "9272aef9f27dfcc10b6e3879b7a2a67f8faa1a83",
+      "hash": "fac082b27d0637fec11f0f150c440a44b13afa8a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 65328,
+      "size": 66851,
       "preload": false,
       "stream": false
     }

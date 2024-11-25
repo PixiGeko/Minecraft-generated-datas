@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/zombie/death",
-      "hash": "6e0488ab07b9539fbaebc093f194bb6a95b2caec",
+      "hash": "51deaef407de6444854e4da39b165faa0d41370d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9836,
+      "size": 10795,
       "preload": false,
       "stream": false
     }

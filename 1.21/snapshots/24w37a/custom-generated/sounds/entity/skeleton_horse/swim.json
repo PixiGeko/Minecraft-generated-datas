@@ -3,51 +3,51 @@
   "sounds": [
     {
       "name": "liquid/swim9",
-      "hash": "53994743817a68885a2ded1f9857bb254c00a70a",
+      "hash": "f03d18b2bce2a3c51e6e831747cd8b944f5771f6",
       "volume": 0.4,
-      "size": 53348
+      "size": 21640
     },
     {
       "name": "liquid/swim10",
-      "hash": "abe8061b7227e85b98196f11e44706154bbbd394",
+      "hash": "3c83854d50456a6cc9a4dde52975e71960da1688",
       "volume": 0.4,
-      "size": 51067
+      "size": 20349
     },
     {
       "name": "liquid/swim11",
-      "hash": "64f5dddfcc6df8945707437a9bdda63ab43ab6a9",
+      "hash": "30a600a9e2cfef0400bbab062cbbd0be2755b5a0",
       "volume": 0.4,
-      "size": 47598
+      "size": 18242
     },
     {
       "name": "liquid/swim12",
-      "hash": "5314c31c0e041d9356558c085442aed9fda0000b",
+      "hash": "f9500ef831484ce2c2e69bbb02fe9ec23af93d9b",
       "volume": 0.4,
-      "size": 36181
+      "size": 13608
     },
     {
       "name": "liquid/swim14",
-      "hash": "34a8626957250f7d60ed3af2360e4e0a3da002e7",
+      "hash": "fd8953047707f4ab8fef40ed4e55bf07b2217df9",
       "volume": 0.6,
-      "size": 45222
+      "size": 18641
     },
     {
       "name": "liquid/swim15",
-      "hash": "98f0b58f75b0bbbdd609b35b46c05656ded22a94",
+      "hash": "80156c24f24360716ea24497c857fbba853ca5dd",
       "volume": 0.6,
-      "size": 48602
+      "size": 20445
     },
     {
       "name": "liquid/swim16",
-      "hash": "d5cf493c3c24bff9abc4e122cd9afa72e6c0d1a8",
+      "hash": "c8c78d167a008f5320cb7112e00345adf6eb39eb",
       "volume": 0.6,
-      "size": 43310
+      "size": 16378
     },
     {
       "name": "liquid/swim17",
-      "hash": "6a0b196f6911af249cab7d1b3ff03bea80ec76c1",
+      "hash": "7d33a0653252f7f8b0ca57688c6eaf9e200ab37c",
       "volume": 0.6,
-      "size": 46073
+      "size": 18779
     }
   ]
 }

@@ -2,9 +2,9 @@
   "sounds": [
     {
       "name": "ambient/nether/soulsand_valley/ambience",
-      "hash": "9a4c3dd0d2069830b6fa3f673858d3ecb0805b02",
+      "hash": "a7f2c0493e1888b320b546e750be202f1f94c50d",
       "volume": 0.85,
-      "size": 2329845,
+      "size": 547189,
       "stream": true
     }
   ]

@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "item/bucket/empty_fish1",
-      "hash": "ce9704faf305ae2ef170a315ff929067f9ac923c",
+      "hash": "02acc7700dc592bbdff3dcddab03f5c43d9f756e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 36818,
+      "size": 16822,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bucket/empty_fish2",
-      "hash": "8fa72261eea571314273ddaf73032b1c9944130c",
+      "hash": "43c6b3ad8c721cc0cc671f07d44d43ec7479efeb",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 36653,
+      "size": 14982,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/bucket/empty_fish3",
-      "hash": "eb4ef46ee676b18c8bd853188e3ad6a53b37d7c1",
+      "hash": "cf27e6a0ce68e026e5da6970ad0b56279da2a555",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 44480,
+      "size": 18985,
       "preload": false,
       "stream": false
     }

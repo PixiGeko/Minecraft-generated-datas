@@ -3,21 +3,21 @@
   "sounds": [
     {
       "name": "block/bubble_column/bubble1",
-      "hash": "7c6d3020a1a11e34e722cc7e5283de54ca8cae19",
+      "hash": "631b1e3d64b315c432792ae015ba06083f34ef42",
       "volume": 0.1,
-      "size": 14211
+      "size": 8210
     },
     {
       "name": "block/bubble_column/bubble2",
-      "hash": "ae1490438f67b186d9d92a3dd0fbb6eaa604b31d",
+      "hash": "912f27c8f38db853b835421579b3423393ae6260",
       "volume": 0.1,
-      "size": 10322
+      "size": 6582
     },
     {
       "name": "block/bubble_column/bubble3",
-      "hash": "b80ca9ecba20183399aaddc4539f2cab84f61bfd",
+      "hash": "7b82612898e03ec61a3f49f809db703cfcd90c46",
       "volume": 0.1,
-      "size": 12425
+      "size": 7480
     }
   ]
 }

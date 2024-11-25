@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "mob/strider/step1",
-      "hash": "ca7d721293216295a7e9b3774e57c6da0e6c01d2",
+      "hash": "091eb6ab91298d4ca5629d7dc75e340279ce090f",
       "volume": 0.25,
-      "size": 27272
+      "size": 10944
     },
     {
       "name": "mob/strider/step2",
-      "hash": "463c56d83d5888290e9b2188f66420c5ce36ab1e",
+      "hash": "81c7f5b93526c8cd970c8eca1248d45d7bd0e85e",
       "volume": 0.25,
-      "size": 26226
+      "size": 10791
     },
     {
       "name": "mob/strider/step3",
-      "hash": "9efa39d62ff69b4a3ef1c986cd76b13db839ddaa",
+      "hash": "7b017560e2db27bea5eb7706a63fc30064e8e425",
       "volume": 0.25,
-      "size": 27462
+      "size": 10859
     },
     {
       "name": "mob/strider/step4",
-      "hash": "175adf6bebd52a99cbb7cf48db6e651f6c1cb07c",
+      "hash": "eb8741e8796d74b128ee0692e583f18e6128efe6",
       "volume": 0.25,
-      "size": 19784
+      "size": 8390
     },
     {
       "name": "mob/strider/step5",
-      "hash": "10b457a8461d29edb0406869b413d191e4daaa61",
+      "hash": "d61e0d09c8c6b4ae019f790b460bf7c86a360ba5",
       "volume": 0.25,
-      "size": 24416
+      "size": 9007
     }
   ]
 }

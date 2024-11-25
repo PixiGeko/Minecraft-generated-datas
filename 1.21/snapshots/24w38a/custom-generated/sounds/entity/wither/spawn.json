@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/wither/spawn",
-      "hash": "d8caaead680c20a4f51361587aeddd57a3357a72",
+      "hash": "52049ed59e074474287b5dfee00477ce571b3385",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 151896,
+      "size": 163015,
       "preload": false,
       "stream": false
     }

@@ -3,31 +3,31 @@
   "sounds": [
     {
       "name": "mob/fox/screech1",
-      "hash": "f2723fac7572a1b5b36531fa55947a500b3f56f5",
+      "hash": "c950e310d3f8e35a489011ad997eaed762b5d524",
       "volume": 0.45,
       "attenuation_distance": 32,
-      "size": 31424
+      "size": 20880
     },
     {
       "name": "mob/fox/screech2",
-      "hash": "7daefe2c4ccb793791fde20d51997ccd954af5a0",
+      "hash": "f60c452247e3accbca0203eeebaa391953829cfb",
       "volume": 0.45,
       "attenuation_distance": 32,
-      "size": 29568
+      "size": 21032
     },
     {
       "name": "mob/fox/screech3",
-      "hash": "ad931f657e9bac3544cce94918956a5c88315d71",
+      "hash": "ed8860df917447cf7c407a5ab9f2c21772463901",
       "volume": 0.45,
       "attenuation_distance": 32,
-      "size": 37124
+      "size": 22979
     },
     {
       "name": "mob/fox/screech4",
-      "hash": "44500fd8d6ab440580c550db5cc245461f998da7",
+      "hash": "89c7ffa21ee7ffc3e0876eb22faea4df26dc6c5a",
       "volume": 0.4,
       "attenuation_distance": 32,
-      "size": 40696
+      "size": 20925
     }
   ]
 }

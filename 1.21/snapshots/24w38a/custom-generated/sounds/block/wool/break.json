@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "dig/cloth1",
-      "hash": "5fd568d724ba7d53911b6cccf5636f859d2662e8",
+      "hash": "311ef8b58ab266c5a5d903dd758a062532e33f3b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4832,
+      "size": 5289,
       "preload": false,
       "stream": false
     },
     {
       "name": "dig/cloth2",
-      "hash": "56c1d0ac0de2265018b2c41cb571cc6631101484",
+      "hash": "7eb276f23a2f4ef72e77a4876f78b141488b77f3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4862,
+      "size": 5640,
       "preload": false,
       "stream": false
     },
     {
       "name": "dig/cloth3",
-      "hash": "9c63f2a3681832dc32d206f6830360bfe94b5bfc",
+      "hash": "965177ba822cee3f7cd1c82cf4ee0a956cbf62bd",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4897,
+      "size": 5472,
       "preload": false,
       "stream": false
     },
     {
       "name": "dig/cloth4",
-      "hash": "55da1856e77cfd31a7e8c3d358e1f856c5583198",
+      "hash": "2cc660a4ab39a14a29ecb79265684901cbaf90fe",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4844,
+      "size": 5607,
       "preload": false,
       "stream": false
     }

@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/pig/say1",
-      "hash": "a99bf88163bcb576e31e6e2275145afba6d1b4c7",
+      "hash": "22c5aefca088b196a011a1615aaaa6b68f2ad703",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5645,
+      "size": 6241,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/pig/say2",
-      "hash": "ab615a912fb8ea06648836e0ec1cbeeefe117da6",
+      "hash": "ade6bb1df3170ded24773c992324c9cd314248da",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6798,
+      "size": 8892,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/pig/say3",
-      "hash": "58efedf302e0203a6ff9e59a6535d300286c5594",
+      "hash": "72031a3276c8e87243e6aec406eab8dc75e016ed",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 5602,
+      "size": 6574,
       "preload": false,
       "stream": false
     }

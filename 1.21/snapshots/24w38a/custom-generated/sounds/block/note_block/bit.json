@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "note/bit",
-      "hash": "030a7bf5b32c5b3f821adb35b7601705a45d8420",
+      "hash": "496a1bcb51a8a67b628d0d444fbac88994a4b231",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12618,
+      "size": 7340,
       "preload": false,
       "stream": false
     }

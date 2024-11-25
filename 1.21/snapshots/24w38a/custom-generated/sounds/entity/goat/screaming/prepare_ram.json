@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "mob/goat/screaming_pre_ram1",
-      "hash": "e18ee0849c7dcb939ebde484d58c0cdc07f2cfe2",
+      "hash": "a8a396b310256d802c7ae2c9f78feb72d4df735d",
       "volume": 0.8,
-      "size": 44137
+      "size": 18108
     },
     {
       "name": "mob/goat/screaming_pre_ram2",
-      "hash": "cf86c52dfa367eee1332d38e1335c889cc50587f",
+      "hash": "c5bf526d1d9d8bba0147c848143ada28fc387a48",
       "volume": 0.8,
-      "size": 54922
+      "size": 20664
     },
     {
       "name": "mob/goat/screaming_pre_ram3",
-      "hash": "ab5eae5941f7143aa93ce5a8f9442bb874676556",
+      "hash": "527a0a831df27e62e4223cf50b50e446c3aba6ba",
       "volume": 0.8,
-      "size": 32676
+      "size": 13494
     },
     {
       "name": "mob/goat/screaming_pre_ram4",
-      "hash": "426c2a45f8a439b7f07ada33a688f8a57e807492",
+      "hash": "f24003f7c291a8b08bd9080e9bd32eafea6348a6",
       "volume": 0.8,
-      "size": 37411
+      "size": 14812
     },
     {
       "name": "mob/goat/screaming_pre_ram5",
-      "hash": "2cfb20018ff44543303434a9727170ad94559fac",
+      "hash": "e95b84c41cd03f5f0e632b0677108d139a26866f",
       "volume": 0.8,
-      "size": 23425
+      "size": 10024
     }
   ]
 }

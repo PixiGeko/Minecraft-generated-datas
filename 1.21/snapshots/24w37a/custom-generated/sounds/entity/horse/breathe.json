@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/horse/breathe1",
-      "hash": "27cbb3efd3d176efce101fac44703d83c39b7307",
+      "hash": "1afdcef47e76d36184f0e699bd2d6fc6418996c3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21884,
+      "size": 9577,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/breathe2",
-      "hash": "a862b187d1cebd8026b7964d6b82bcd2a638d3bb",
+      "hash": "f9c910948d26f6e6fd92728aa259cde0f91ee421",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19985,
+      "size": 8990,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/horse/breathe3",
-      "hash": "2fe6f0ebcb245ad00273ece8e4d61d2eddd3d580",
+      "hash": "84f2c608df1dedf9ad9ae385f38d4cc003e980d6",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13441,
+      "size": 6877,
       "preload": false,
       "stream": false
     }

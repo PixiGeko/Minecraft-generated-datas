@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/sniffer/scenting1",
-      "hash": "e0720fede3f18534b8cd95c8d6441e3974bffe4e",
+      "hash": "c40b35ce47406f220ffa40b4e22fd766149e03ba",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 24763,
+      "size": 10105,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/sniffer/scenting2",
-      "hash": "882adf0c362f4307584acdc7cdc25c19a83a3386",
+      "hash": "7c1316769a136a75db6a526ded569c47d1e12e28",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 23738,
+      "size": 9590,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/sniffer/scenting3",
-      "hash": "f4a9e6cea5caeb3690669b230bf2a2a8d66aba76",
+      "hash": "a010bf6e310588699f491f326d72c651f1b7d0e5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 22061,
+      "size": 9392,
       "preload": false,
       "stream": false
     }

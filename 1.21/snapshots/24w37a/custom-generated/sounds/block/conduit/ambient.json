@@ -3,9 +3,9 @@
   "sounds": [
     {
       "name": "block/conduit/ambient",
-      "hash": "671d9e39c2cba136acb965e55686603ad5869ecf",
+      "hash": "148f34232a196bc04f61ea19f7ce39b2d330f45c",
       "attenuation_distance": 8,
-      "size": 69364
+      "size": 29190
     }
   ]
 }

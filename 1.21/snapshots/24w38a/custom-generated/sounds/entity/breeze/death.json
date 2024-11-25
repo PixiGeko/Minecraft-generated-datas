@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/breeze/death1",
-      "hash": "c202f0860b6138c0ac79054b6f36fd1addc9aa56",
+      "hash": "212b19b38d0e61a4308cba33546a1da8bf7a1e3d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 41091,
+      "size": 17235,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/breeze/death2",
-      "hash": "43ab5177a7851f3306d991b907eb7c49b7a6a7ff",
+      "hash": "0afdb46f21cbc3dc7c65980ed245ae6479ed3542",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 40883,
+      "size": 17354,
       "preload": false,
       "stream": false
     }

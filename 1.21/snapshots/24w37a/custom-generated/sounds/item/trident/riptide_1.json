@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "item/trident/riptide1",
-      "hash": "57b54789999ded5a14976061ec741ec722061661",
+      "hash": "37320ce148b868929eed407e4ea5cf41613f8eaf",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 32809,
+      "size": 17281,
       "preload": false,
       "stream": false
     }

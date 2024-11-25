@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "entity/shulker/death1",
-      "hash": "ce3bbcf44fd72e3d0b3fbcbb7334d100619ca71e",
+      "hash": "5a2a953165cac17c014e9da4c202f1efde19ec46",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13893,
+      "size": 14094,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker/death2",
-      "hash": "db685fafb774a31072c6577a04a5693dba725155",
+      "hash": "3d8274d3fe03f28abb559e08505202ca5261ae47",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11278,
+      "size": 11844,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker/death3",
-      "hash": "9bae8d2e28f81e1a5571a9ca6a6bf21595796658",
+      "hash": "f8608dc8085c9c70ce8f40e039b950c10359ab8b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 9857,
+      "size": 10211,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/shulker/death4",
-      "hash": "668ebaccbc4572fc4a7a79b166f467823ffa8c50",
+      "hash": "b7ddd5ef5c3c487e586827bc9a879261e397c726",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11596,
+      "size": 12069,
       "preload": false,
       "stream": false
     }

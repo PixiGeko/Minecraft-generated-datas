@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "item/mace/smash_air1",
-      "hash": "dd201cdf56f5e3360380c2cdc3a21cc5c12ecfa6",
+      "hash": "dcdef344e1dff43fd798e3faa41e3ac5e36410f2",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17366,
+      "size": 18247,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/mace/smash_air2",
-      "hash": "a898059fce9481ea07fffd8dcab80b6087d684e7",
+      "hash": "15f8ff8cda809e33413e5aa428840f37caf15b3c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18063,
+      "size": 17014,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/mace/smash_air3",
-      "hash": "54dcde12a230e188c268653a1def01aa2f63a124",
+      "hash": "7114c65027e2ef0d8f42a406fa226e513a76ab72",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18147,
+      "size": 17545,
       "preload": false,
       "stream": false
     }

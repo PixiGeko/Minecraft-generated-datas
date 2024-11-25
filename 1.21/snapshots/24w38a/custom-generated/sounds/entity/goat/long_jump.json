@@ -3,29 +3,29 @@
   "sounds": [
     {
       "name": "mob/goat/jump1",
-      "hash": "6136234d8e72559e13a8a9a022e35084bb6acabe",
+      "hash": "ea9f9d3dde1b2f63a4840d1cf680c7809d379b3b",
       "volume": 0.8,
-      "size": 21114
+      "size": 9082
     },
     {
       "name": "mob/goat/jump1",
-      "hash": "6136234d8e72559e13a8a9a022e35084bb6acabe",
+      "hash": "ea9f9d3dde1b2f63a4840d1cf680c7809d379b3b",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 21114
+      "size": 9082
     },
     {
       "name": "mob/goat/jump2",
-      "hash": "41b34f9f38ee827e734a6a2b6f9e80fc2c83d43d",
+      "hash": "641cf35f089efec7494d67c3116fe4ddb5ae37c0",
       "volume": 0.8,
-      "size": 20126
+      "size": 8535
     },
     {
       "name": "mob/goat/jump2",
-      "hash": "41b34f9f38ee827e734a6a2b6f9e80fc2c83d43d",
+      "hash": "641cf35f089efec7494d67c3116fe4ddb5ae37c0",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 20126
+      "size": 8535
     }
   ]
 }

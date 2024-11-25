@@ -2,80 +2,80 @@
   "sounds": [
     {
       "name": "music/game/clark",
-      "hash": "74da65c99aa578486efa7b69983d3533e14c0d6e",
-      "size": 1976731,
+      "hash": "bbb301a6ed65e5e92eb97b601b9ea9979324bccf",
+      "size": 2145295,
       "stream": true
     },
     {
       "name": "music/game/comforting_memories",
-      "hash": "cab779f1a15d9fe49bcc975d077717ebd1f87cda",
+      "hash": "1c9aa4f2710ac7025a56f99feb132a29cf5a2b64",
       "volume": 0.4,
-      "size": 11097991,
+      "size": 3516383,
       "stream": true
     },
     {
       "name": "music/game/eld_unknown",
-      "hash": "1f1449907421a81fee5f78d6c6861fa7a2d80ba4",
+      "hash": "1346ff09e77c8506476a017f63d9a820f25f0839",
       "volume": 0.4,
-      "size": 16979197,
+      "size": 4959623,
       "stream": true
     },
     {
       "name": "music/game/endless",
-      "hash": "68db83394860feaabdafb2b01a6acb029e7705d9",
+      "hash": "14221fedadd7431bc557f36be1af86582955f7c5",
       "volume": 0.4,
-      "size": 21252875,
+      "size": 5323546,
       "stream": true
     },
     {
       "name": "music/game/infinite_amethyst",
-      "hash": "c9c4d7988a578eccfc31cb2f04defc40d71ef719",
+      "hash": "f6dd3e263823fbc2051f441e5b12a02b2258ae84",
       "volume": 0.4,
-      "size": 13690596,
+      "size": 3827021,
       "stream": true
     },
     {
       "name": "music/game/key",
-      "hash": "cc1a80b6becfc6d6489c069f053d0a8adc71c339",
-      "size": 156322,
+      "hash": "8ee9d608f0bbb2d0513af7bfc1b55e591ada05ea",
+      "size": 656170,
       "stream": true
     },
     {
       "name": "music/game/mice_on_venus",
-      "hash": "9528b6a76e7bac64ca1145cc682e8a8448cc04e5",
-      "size": 2665984,
+      "hash": "06a2f38a094573652977232abcc4f268cf6745ad",
+      "size": 2943549,
       "stream": true
     },
     {
       "name": "music/game/minecraft",
-      "hash": "50a59a4f56e4046701b758ddbb1c1587efa4cadf",
-      "size": 2530812,
+      "hash": "7f7777e5d5b163c5d64201fd53e5682599548a49",
+      "size": 2860084,
       "stream": true
     },
     {
       "name": "music/game/oxygene",
-      "hash": "78152dc42b036e0de7616e6e669ce5a81d17f82a",
-      "size": 219029,
+      "hash": "b99889832d7f9abe35725506e4cd48075e25f957",
+      "size": 765694,
       "stream": true
     },
     {
       "name": "music/game/pokopoko",
-      "hash": "e1b9ec95afb8fbb100bc4bf724316e9450b0bfa2",
+      "hash": "2142a00de645aa748b908c74fc275a3025b8bd90",
       "volume": 0.8,
-      "size": 15076977,
+      "size": 4084418,
       "stream": true
     },
     {
       "name": "music/game/sweden",
-      "hash": "14ae57a6bce3d4254daa8be2b098c2d99743cc3f",
-      "size": 2232651,
+      "hash": "be9b14926936c4509f7fe5002cdfbba3b2752d82",
+      "size": 2551609,
       "stream": true
     },
     {
       "name": "music/game/wending",
-      "hash": "5dd32ce63e2ff412c0c1009255e944fae80b03b0",
+      "hash": "0cfa947f3d282bb02426b1c5e666b5dc28aff8a4",
       "volume": 0.4,
-      "size": 18069569,
+      "size": 4545206,
       "stream": true
     }
   ]

@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "entity/itemframe/remove_item1",
-      "hash": "83c8daabf4016b4a69a0aff792629776e646477a",
+      "hash": "00765b2e5a821e8b22c8b555fd32d887ec805aed",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4179,
+      "size": 4531,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/itemframe/remove_item2",
-      "hash": "35a5c6a402a0f0091c1221a245ea9cc180975cc8",
+      "hash": "ff85720a0188679f7e861a96ae25f6230fd895e9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4439,
+      "size": 4834,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/itemframe/remove_item3",
-      "hash": "54ae8bae3da40ea9a80739d7b36106bffaf8854c",
+      "hash": "718445399fdbe1b89eaa779c3875dece106732e0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4347,
+      "size": 4751,
       "preload": false,
       "stream": false
     },
     {
       "name": "entity/itemframe/remove_item4",
-      "hash": "7c58d79a33c20c776c6f592b80e96305034c6dbe",
+      "hash": "e39709df8a61157842ef81742242eee76f7f435b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 4311,
+      "size": 4631,
       "preload": false,
       "stream": false
     }

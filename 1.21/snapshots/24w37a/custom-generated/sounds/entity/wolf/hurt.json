@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "mob/wolf/hurt1",
-      "hash": "71b5fc7aa050892f8c9a9ed2713cc1ad8874742a",
+      "hash": "a08590d43a21ee739bd7b9be85b4a81564e6f74a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6164,
+      "size": 7477,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wolf/hurt2",
-      "hash": "bc2f6a5a1b6646eac1681b7414b098089aedf3c6",
+      "hash": "b2fba6c9788a53ab7da07aa8d2f25cdc07973222",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6082,
+      "size": 6648,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/wolf/hurt3",
-      "hash": "a5b3f3cdda4d6e13629ccd0e2a38e1f06baa491a",
+      "hash": "5dcca782068ac52ce9074a7809db023cab2cd77c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 6381,
+      "size": 7974,
       "preload": false,
       "stream": false
     }

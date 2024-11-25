@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/guardian/elder_idle1",
-      "hash": "f18e291d84d108d02fa1170e1ccaedafdfb922f5",
+      "hash": "f89332d0596fab92ffff6290464074b33c2c294b",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17095,
+      "size": 17681,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/guardian/elder_idle2",
-      "hash": "7663355cd3c9734cde0fbfecd7bd44ffc5a5d507",
+      "hash": "7d896daf494f616435ff9f9357727b2be7d16842",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17437,
+      "size": 17784,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/guardian/elder_idle3",
-      "hash": "ac95dc01a3ce7dffb0d55283a1236196b07cf6ee",
+      "hash": "c8b37b6aeaa041068338a1725fbfd8ab44e35953",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14673,
+      "size": 14973,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/guardian/elder_idle4",
-      "hash": "f5cffe472a3f7cd5beb131936026e4c194972d99",
+      "hash": "2da932f9cad41c7a5cac3d9c5ddfa70da0808952",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18822,
+      "size": 19308,
       "preload": false,
       "stream": false
     }

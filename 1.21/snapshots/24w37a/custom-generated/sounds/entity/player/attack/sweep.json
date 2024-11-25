@@ -3,45 +3,45 @@
   "sounds": [
     {
       "name": "entity/player/attack/sweep1",
-      "hash": "fd20e1cd8c69bc2f037de950b078a729a4b7d6a6",
+      "hash": "89741b2005ca27c98454e0cc000afe33b5af86fb",
       "volume": 0.7,
-      "size": 5546
+      "size": 6067
     },
     {
       "name": "entity/player/attack/sweep2",
-      "hash": "c9534f4d840470b3c6efbcb84cff23c57baa3393",
+      "hash": "5350ba0ce6e2d5deeb53849704ce4702c0ee4a85",
       "volume": 0.7,
-      "size": 5398
+      "size": 5836
     },
     {
       "name": "entity/player/attack/sweep3",
-      "hash": "4c26fd4c2774e7afcbda1e293a27595e04e87c47",
+      "hash": "8740a15ba2100a68975842c571d40edf970f5bef",
       "volume": 0.7,
-      "size": 5238
+      "size": 5866
     },
     {
       "name": "entity/player/attack/sweep4",
-      "hash": "ae9bb7a332e3e3d3665f282b60b296ec01be97df",
+      "hash": "98dfc1ea33b18d387dfbed5cbdc919250538c42e",
       "volume": 0.7,
-      "size": 4969
+      "size": 5605
     },
     {
       "name": "entity/player/attack/sweep5",
-      "hash": "50a317f837b0604c3ebe8224951c1a0d7a94516a",
+      "hash": "bf3558e6fb0cacdf87d0d35f1a470acbe5842af4",
       "volume": 0.7,
-      "size": 5329
+      "size": 5642
     },
     {
       "name": "entity/player/attack/sweep6",
-      "hash": "39077d824a27e8040b0e1f2b4707d81149830d11",
+      "hash": "2b9277d2e4542d106bca65e63092c6fcaadf40ea",
       "volume": 0.7,
-      "size": 5117
+      "size": 5586
     },
     {
       "name": "entity/player/attack/sweep7",
-      "hash": "e8d0df494880f2067bb64d08a7428a78239c9a29",
+      "hash": "dcbf16528e0835b5638c782cede362aa8743fccd",
       "volume": 0.7,
-      "size": 5515
+      "size": 5934
     }
   ]
 }

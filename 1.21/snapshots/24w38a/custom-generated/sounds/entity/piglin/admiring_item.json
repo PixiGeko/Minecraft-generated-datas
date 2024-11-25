@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "mob/piglin/admire1",
-      "hash": "2b74d5b8a848140282c049e707450275d02adda3",
+      "hash": "8e3701253a89b9b08e87d58e04b0f79e0a6c2f5b",
       "volume": 0.8,
-      "size": 26576
+      "size": 11402
     },
     {
       "name": "mob/piglin/admire2",
-      "hash": "7153e1dede08f1498781a389d5db2dd88d4f17c8",
+      "hash": "1ad1b8932e167020d141ff62f3e630633626da0a",
       "volume": 0.8,
-      "size": 25441
+      "size": 10802
     },
     {
       "name": "mob/piglin/celebrate2",
-      "hash": "dd50467e3ad950ddcfec6950754e763ee49be937",
+      "hash": "f3b01b508719c5b4775da95dbbfc666b7cd72c14",
       "volume": 0.8,
-      "size": 34794
+      "size": 14255
     },
     {
       "name": "mob/piglin/celebrate4",
-      "hash": "bb8f06b508d5f97eaba1af963211bcd2fbb36be9",
+      "hash": "886190d022c21bd3480e0a72a26846e28d2d2bb4",
       "volume": 0.85,
-      "size": 33761
+      "size": 13628
     }
   ]
 }

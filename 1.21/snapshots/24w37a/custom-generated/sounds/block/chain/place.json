@@ -3,27 +3,27 @@
   "sounds": [
     {
       "name": "block/chain/break1",
-      "hash": "b2a4d2dcfde676caf4e6b3d59848901b2a9441ce",
+      "hash": "3c24328855ccdd933fba4b3247b329456f2f1b81",
       "volume": 0.5,
-      "size": 14319
+      "size": 7419
     },
     {
       "name": "block/chain/break2",
-      "hash": "cc08e21b571415e27b1e70eed6a488f8ba9b3db6",
+      "hash": "e861a169f03bd0c2cdea87172210b4de9cf9f191",
       "volume": 0.5,
-      "size": 15231
+      "size": 8025
     },
     {
       "name": "block/chain/break3",
-      "hash": "6bc3dcea8da81eb0c892f7c00c84accbad8ef2f7",
+      "hash": "7a7df9a71e86cd87074f92fcdc2a48da01169235",
       "volume": 0.5,
-      "size": 15608
+      "size": 7705
     },
     {
       "name": "block/chain/break4",
-      "hash": "12965f48483c25d58bad1950e55cfcc77eb14364",
+      "hash": "5b4904a7312be2c55a1db1b500eff30269f45e2e",
       "volume": 0.5,
-      "size": 16624
+      "size": 8043
     }
   ]
 }

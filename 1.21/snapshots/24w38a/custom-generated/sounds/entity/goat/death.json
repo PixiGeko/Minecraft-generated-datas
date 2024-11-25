@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "mob/goat/death1",
-      "hash": "fca37ba6e37f6d91440d4a5d523bb5bd89273853",
+      "hash": "f06d0edd6f684505e9d08c2d29524bdde10ad5c6",
       "volume": 0.65,
-      "size": 35908
+      "size": 13545
     },
     {
       "name": "mob/goat/death2",
-      "hash": "7f78ac6c5ea9f9416e6cbbd737fe712105bb6a72",
+      "hash": "fcf124bd16154e0500ed8df76666ea3aef43b1f7",
       "volume": 0.65,
-      "size": 29432
+      "size": 12344
     },
     {
       "name": "mob/goat/death3",
-      "hash": "d25ffe625146c99cdf5b3cf33bd7f410436cd9c8",
+      "hash": "10d0b220421dd843116a014f76168f7a182f7be2",
       "volume": 0.65,
-      "size": 37572
+      "size": 13473
     },
     {
       "name": "mob/goat/death4",
-      "hash": "3cc522ebe4e5c1b70a4481c4992d395e8b483f9e",
+      "hash": "3f1655db225a7093a59d2274011c312b3d522e80",
       "volume": 0.65,
-      "size": 40553
+      "size": 14918
     },
     {
       "name": "mob/goat/death5",
-      "hash": "ad92224110bbda3cf08f9512f61831f112255517",
+      "hash": "81e15e31d36a37b041db04df16531346b20338a0",
       "volume": 0.65,
-      "size": 28662
+      "size": 10828
     }
   ]
 }

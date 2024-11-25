@@ -3,37 +3,37 @@
   "sounds": [
     {
       "name": "block/smithing_table/smithing_table1",
-      "hash": "222cd346222e0145d21ced318a7a293bfbe7ba79",
+      "hash": "84680f16139f2d2ea3d6ac5276db83dae01efa87",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17017,
+      "size": 9652,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/smithing_table/smithing_table2",
-      "hash": "b3581bc0f5d1b450feaac02cea4d676f421baf64",
+      "hash": "6571f0d5bc3f62a19308fd040ba0da11a0fa59c1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 15567,
+      "size": 9382,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/smithing_table/smithing_table3",
-      "hash": "b861e4cf448c870a4f2e21dc3322a77ce3693065",
+      "hash": "9f409623a7365a1d32d6b9601bb2014d8880c975",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19309,
+      "size": 11163,
       "preload": false,
       "stream": false
     }

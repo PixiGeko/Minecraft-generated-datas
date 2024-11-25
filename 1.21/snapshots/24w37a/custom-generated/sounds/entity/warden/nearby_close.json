@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/warden/nearby_close_1",
-      "hash": "838207eca7d6ce858582a3de4a513776edadff2e",
+      "hash": "882756c7761f4470cfb92b1b1f3597fb4bcf3e9f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 43216,
+      "size": 40836,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/warden/nearby_close_2",
-      "hash": "c308735df9bbf5f6497153a86f0486ba168f9590",
+      "hash": "17ca16026e5556f1ff2e48d2ab1332c96c914641",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 42039,
+      "size": 41267,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/warden/nearby_close_3",
-      "hash": "d2a77948d1a5aa1077aad1305c5b2e2ceb2d2d66",
+      "hash": "8bd88654359722dba0fc6b02f4d6b9216695ef70",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 39976,
+      "size": 41035,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/warden/nearby_close_4",
-      "hash": "9425303a80381d80cc9e233c446a3d5cb0f4f2f1",
+      "hash": "22f31c6708e3ea1e5b2de087684bb02eb446c8ac",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 37729,
+      "size": 39561,
       "preload": false,
       "stream": false
     }

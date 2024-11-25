@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "item/trident/thunder1",
-      "hash": "312a6d306ea9b10281840f17991f210ba2e27e2e",
+      "hash": "9b50f8b4ace51d032fdb0dfe37b5edd9591cb41e",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 105598,
+      "size": 65245,
       "preload": false,
       "stream": false
     },
     {
       "name": "item/trident/thunder2",
-      "hash": "0ae1a47773d41d7ae39539d2b8363dbed3e77580",
+      "hash": "e93cec6a428a6459861daa2bb392094310186fdb",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 102271,
+      "size": 61713,
       "preload": false,
       "stream": false
     }

@@ -2,150 +2,150 @@
   "sounds": [
     {
       "name": "ambient/nether/crimson_forest/addition1",
-      "hash": "7510fee7d1d2d990a89acad1aed3c4e755259a31",
+      "hash": "0c2cdb58940cd6b6a5b95bbde63f8d013b54003d",
       "volume": 0.3,
-      "size": 431619
+      "size": 126113
     },
     {
       "name": "ambient/nether/crimson_forest/particles1",
-      "hash": "c3074b869e387daa566353ac346bb6067c104131",
+      "hash": "c95705795315b5944f32c517b9c0a0d677249405",
       "weight": 40,
       "volume": 0.4,
       "pitch": 0.8,
-      "size": 835953
+      "size": 268518
     },
     {
       "name": "ambient/nether/crimson_forest/particles2",
-      "hash": "7ea0199ce765d0bd2ffe8fcbc2c494996200a4ef",
+      "hash": "9331bef7e5d87f014ff5610769f73a0a7261bded",
       "weight": 40,
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 657098
+      "size": 194552
     },
     {
       "name": "ambient/nether/crimson_forest/particles3",
-      "hash": "7422f0be8db1990543caab5d614aee51ab6b1ef8",
+      "hash": "6ebe0bafda35b6d983d7da1b7102181781baf7c7",
       "weight": 40,
       "volume": 0.3,
       "pitch": 0.8,
-      "size": 655398
+      "size": 206891
     },
     {
       "name": "ambient/nether/warped_forest/addition1",
-      "hash": "419184b77e37d250aec740da000500df4a5e0f34",
+      "hash": "30b852ccfdb586472e8f7b9bc3d3d655e769ff25",
       "weight": 3,
       "volume": 0.06,
       "pitch": 0.8,
-      "size": 226642
+      "size": 72349
     },
     {
       "name": "ambient/nether/warped_forest/addition2",
-      "hash": "7f9ce93c231f64a0b499bf933b8b84bde2bbc91b",
+      "hash": "be1aefb33d82a26876f60e3aa33bad384bcd6d96",
       "weight": 3,
       "volume": 0.06,
       "pitch": 0.7,
-      "size": 290633
+      "size": 87238
     },
     {
       "name": "ambient/nether/warped_forest/addition3",
-      "hash": "ca5894a5bece91a7b5a43c73a739b7111489a9e4",
+      "hash": "52b22be2f42003c269b4b5f9a101128330bc7647",
       "weight": 3,
       "volume": 0.06,
       "pitch": 0.1,
-      "size": 307744
+      "size": 89632
     },
     {
       "name": "ambient/nether/warped_forest/addition4",
-      "hash": "4f52f8cbcb402c38d5bfe523513120b113c4e571",
+      "hash": "47d744ded8930de34225e75f19e3320d313e03e3",
       "weight": 3,
       "volume": 0.07,
-      "size": 424898
+      "size": 120772
     },
     {
       "name": "ambient/nether/warped_forest/addition5",
-      "hash": "2589440360a753366983702bd4c6e8f9c7aa9510",
+      "hash": "b365df38c3a3e81078686eb07d581c128615ad51",
       "weight": 3,
       "volume": 0.07,
-      "size": 353979
+      "size": 93690
     },
     {
       "name": "ambient/nether/warped_forest/addition6",
-      "hash": "ca7cd01fd13898a03336510f8b0dd4074ecb5c1a",
+      "hash": "c9ff6427e506c7b2419afc67e3af1572a7d160c4",
       "volume": 0.15,
-      "size": 233430
+      "size": 91586
     },
     {
       "name": "ambient/nether/warped_forest/enish1",
-      "hash": "ceaab156522c5497865d5b4658a2b7c285d6e096",
+      "hash": "5bc44a2b2ffe78ad063a83e3c0315b590fc38ac2",
       "weight": 10,
       "volume": 0.1,
       "pitch": 0.2,
-      "size": 247002
+      "size": 101806
     },
     {
       "name": "ambient/nether/warped_forest/enish2",
-      "hash": "e53505de35fa527b0aab9af09bf8bb0258689bad",
+      "hash": "9926aa4b33e65b99f24f0f6248c6756e24aab6c3",
       "weight": 6,
       "volume": 0.1,
       "pitch": 0.2,
-      "size": 206678
+      "size": 88027
     },
     {
       "name": "ambient/nether/warped_forest/enish3",
-      "hash": "f7746eab6e9487983a29a494648787147bd8cb9b",
+      "hash": "3e2868131ea9dbc2197f351b6c93571ea2e30ad3",
       "weight": 6,
       "volume": 0.07,
       "pitch": 0.2,
-      "size": 236908
+      "size": 92453
     },
     {
       "name": "ambient/nether/warped_forest/help1",
-      "hash": "a3cb159ce32f53389897a1edc736266d107334bc",
+      "hash": "645a5cbd35f4cc5a8ea7ae884783153ca8776cbb",
       "volume": 0.2,
-      "size": 198992
+      "size": 79624
     },
     {
       "name": "ambient/nether/warped_forest/help2",
-      "hash": "d9fa250319b5fe4bfe7c337102bd2796f1a0342c",
+      "hash": "18fc554bbd6ec194bb32952bce55a9efd8d1124b",
       "volume": 0.2,
-      "size": 221711
+      "size": 86905
     },
     {
       "name": "ambient/nether/warped_forest/here1",
-      "hash": "abb0ffaa8df2bc05ba4b95457afa42ec67d785e8",
+      "hash": "859d0902af97b5c15493ba815353cc24d972a556",
       "weight": 2,
       "volume": 0.1,
-      "size": 352001
+      "size": 124840
     },
     {
       "name": "ambient/nether/warped_forest/here1",
-      "hash": "abb0ffaa8df2bc05ba4b95457afa42ec67d785e8",
+      "hash": "859d0902af97b5c15493ba815353cc24d972a556",
       "weight": 2,
       "volume": 0.1,
       "pitch": 0.7,
-      "size": 352001
+      "size": 124840
     },
     {
       "name": "ambient/nether/warped_forest/here2",
-      "hash": "26e01cbc875eff13cff798fd803b8cc1639393bc",
+      "hash": "e079e3be682d780f749f49da65d75521e0dc6b64",
       "weight": 3,
       "volume": 0.2,
-      "size": 202212
+      "size": 81370
     },
     {
       "name": "ambient/nether/warped_forest/here2",
-      "hash": "26e01cbc875eff13cff798fd803b8cc1639393bc",
+      "hash": "e079e3be682d780f749f49da65d75521e0dc6b64",
       "weight": 3,
       "volume": 0.2,
       "pitch": 0.7,
-      "size": 202212
+      "size": 81370
     },
     {
       "name": "ambient/nether/warped_forest/here3",
-      "hash": "b4689be9b359e5fa2af38268fc323d10edba00ba",
+      "hash": "43775d8586d4b3bfc71835b5f13b4f5983417973",
       "weight": 3,
       "volume": 0.2,
-      "size": 177983
+      "size": 74433
     }
   ]
 }

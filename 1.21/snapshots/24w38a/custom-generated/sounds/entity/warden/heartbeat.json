@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "mob/warden/heartbeat_1",
-      "hash": "89a85341d5ba385c95deed06cc89ee4bc2588273",
+      "hash": "f730e1ccb1f3d425232bd0e78697e69fd44b0ce5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14236,
+      "size": 12656,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/warden/heartbeat_2",
-      "hash": "8f302a31d11dc0e23d574dba438b36d1732c5c84",
+      "hash": "fd92259b2665792127b52ba95e69dc8e017868ec",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14678,
+      "size": 12903,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/warden/heartbeat_3",
-      "hash": "42e712606676d97f9bca5c641a2d92d7c86717ca",
+      "hash": "3f716fe047e7ed8d751d01f7f57f65238a55c992",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 14002,
+      "size": 12405,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/warden/heartbeat_4",
-      "hash": "d6b078490e9cd8cef0795dfb4188de64deca2b7b",
+      "hash": "03ef08c7b003a62766495030acc60ac475327582",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12402,
+      "size": 10951,
       "preload": false,
       "stream": false
     }

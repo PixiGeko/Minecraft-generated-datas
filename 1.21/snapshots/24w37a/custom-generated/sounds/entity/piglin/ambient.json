@@ -3,33 +3,33 @@
   "sounds": [
     {
       "name": "mob/piglin/idle1",
-      "hash": "9d0345692ed5e6192fb2ae8463a19cb9ee983a63",
+      "hash": "37c638650c820500b90b68381d7bd7b40591b8b6",
       "volume": 0.66,
-      "size": 29747
+      "size": 11840
     },
     {
       "name": "mob/piglin/idle2",
-      "hash": "ed5d7d836aa3b10acb1bfa2f12926665c93a7bd8",
+      "hash": "6d117449beebf9359a5ee6e107d4818d13a17a05",
       "volume": 0.66,
-      "size": 19975
+      "size": 8162
     },
     {
       "name": "mob/piglin/idle3",
-      "hash": "c4926389a076a89642e450e5016fb0f546c5529d",
+      "hash": "9843a7fe901e32195a74066365fe3b82fb96f90a",
       "volume": 0.66,
-      "size": 25366
+      "size": 9930
     },
     {
       "name": "mob/piglin/idle4",
-      "hash": "752470575a20122daa30d95243c67d6e27de42ed",
+      "hash": "1d934f24734d3f7a9a62d415cde184f3316fda45",
       "volume": 0.66,
-      "size": 31912
+      "size": 11629
     },
     {
       "name": "mob/piglin/idle5",
-      "hash": "dc34b16fdf229baaa7699c66f695fb7b058c84d5",
+      "hash": "b3aa8284b5d1df72957e7a9d7947ff0dddfd7fc1",
       "volume": 0.66,
-      "size": 26993
+      "size": 10122
     }
   ]
 }

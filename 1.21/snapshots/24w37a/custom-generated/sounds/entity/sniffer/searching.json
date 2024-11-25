@@ -3,111 +3,111 @@
   "sounds": [
     {
       "name": "mob/sniffer/searching1",
-      "hash": "c2e26760b5d899bba02e6e2f29ce5ca4e87844b6",
+      "hash": "abaf3bb7e717965cdefe19e08628031f7b478f84",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 32000,
+      "size": 12186,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/sniffer/searching1",
-      "hash": "c2e26760b5d899bba02e6e2f29ce5ca4e87844b6",
+      "hash": "abaf3bb7e717965cdefe19e08628031f7b478f84",
       "volume": 0.8,
-      "size": 32000
+      "size": 12186
     },
     {
       "name": "mob/sniffer/searching2",
-      "hash": "be24e53e92f17787b16dbc019d300c204a41a967",
+      "hash": "25a7fbeeb39299a538011e919297775b390f4529",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 37421,
+      "size": 13890,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/sniffer/searching2",
-      "hash": "be24e53e92f17787b16dbc019d300c204a41a967",
+      "hash": "25a7fbeeb39299a538011e919297775b390f4529",
       "volume": 0.8,
-      "size": 37421
+      "size": 13890
     },
     {
       "name": "mob/sniffer/searching3",
-      "hash": "606487eb2de7bc4821b0016bda277e03890cb8b0",
+      "hash": "1d2384d4bd89270212a4ceef494e9aec4561d7e9",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 39764,
+      "size": 14635,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/sniffer/searching3",
-      "hash": "606487eb2de7bc4821b0016bda277e03890cb8b0",
+      "hash": "1d2384d4bd89270212a4ceef494e9aec4561d7e9",
       "volume": 0.8,
-      "size": 39764
+      "size": 14635
     },
     {
       "name": "mob/sniffer/searching4",
-      "hash": "1e947fb99bc5f2403724c239a8a7ad5e0f1369dd",
+      "hash": "43c74f4bceca88a5eedb0e5ba6e2ce4946119068",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 36770,
+      "size": 13569,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/sniffer/searching4",
-      "hash": "1e947fb99bc5f2403724c239a8a7ad5e0f1369dd",
+      "hash": "43c74f4bceca88a5eedb0e5ba6e2ce4946119068",
       "volume": 0.8,
-      "size": 36770
+      "size": 13569
     },
     {
       "name": "mob/sniffer/searching5",
-      "hash": "b48f11e52050efa71764d793122b98ac2d54ddea",
+      "hash": "eeebab297d38f8dbc733267c115f97d9f9e34a10",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 34121,
+      "size": 13336,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/sniffer/searching5",
-      "hash": "b48f11e52050efa71764d793122b98ac2d54ddea",
+      "hash": "eeebab297d38f8dbc733267c115f97d9f9e34a10",
       "volume": 0.8,
-      "size": 34121
+      "size": 13336
     },
     {
       "name": "mob/sniffer/searching6",
-      "hash": "b29af237376cb8030891da0af1d12e505012a393",
+      "hash": "eee21f52dd32033c88ad523b98a6315518cfe0b5",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 34208,
+      "size": 13222,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/sniffer/searching6",
-      "hash": "b29af237376cb8030891da0af1d12e505012a393",
+      "hash": "eee21f52dd32033c88ad523b98a6315518cfe0b5",
       "volume": 0.8,
-      "size": 34208
+      "size": 13222
     }
   ]
 }

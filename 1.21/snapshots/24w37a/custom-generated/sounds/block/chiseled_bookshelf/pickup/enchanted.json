@@ -3,63 +3,63 @@
   "sounds": [
     {
       "name": "block/chiseled_bookshelf/pickup_enchanted1",
-      "hash": "2e3cb35243d6fed155618c3b0b26c2c6fb80bced",
+      "hash": "c5b68eec5dd33613b1fe34a6fa80735d6301551c",
       "volume": 0.8,
-      "size": 21823
+      "size": 11566
     },
     {
       "name": "block/chiseled_bookshelf/pickup_enchanted1",
-      "hash": "2e3cb35243d6fed155618c3b0b26c2c6fb80bced",
+      "hash": "c5b68eec5dd33613b1fe34a6fa80735d6301551c",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 21823
+      "size": 11566
     },
     {
       "name": "block/chiseled_bookshelf/pickup_enchanted1",
-      "hash": "2e3cb35243d6fed155618c3b0b26c2c6fb80bced",
+      "hash": "c5b68eec5dd33613b1fe34a6fa80735d6301551c",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 21823
+      "size": 11566
     },
     {
       "name": "block/chiseled_bookshelf/pickup_enchanted2",
-      "hash": "1387c1334885ce091f0397ac2f13f8bf3867ac46",
+      "hash": "b7c8f20c690b6e74e665979afad90d13622507c4",
       "volume": 0.8,
-      "size": 21126
+      "size": 10995
     },
     {
       "name": "block/chiseled_bookshelf/pickup_enchanted2",
-      "hash": "1387c1334885ce091f0397ac2f13f8bf3867ac46",
+      "hash": "b7c8f20c690b6e74e665979afad90d13622507c4",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 21126
+      "size": 10995
     },
     {
       "name": "block/chiseled_bookshelf/pickup_enchanted2",
-      "hash": "1387c1334885ce091f0397ac2f13f8bf3867ac46",
+      "hash": "b7c8f20c690b6e74e665979afad90d13622507c4",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 21126
+      "size": 10995
     },
     {
       "name": "block/chiseled_bookshelf/pickup_enchanted3",
-      "hash": "7efcfedf902dfb5e85a4779899bed3e934fed432",
+      "hash": "e9a15247ba3a53a58e33c0d47dde7632626283bb",
       "volume": 0.8,
-      "size": 23020
+      "size": 11704
     },
     {
       "name": "block/chiseled_bookshelf/pickup_enchanted3",
-      "hash": "7efcfedf902dfb5e85a4779899bed3e934fed432",
+      "hash": "e9a15247ba3a53a58e33c0d47dde7632626283bb",
       "volume": 0.8,
       "pitch": 0.8,
-      "size": 23020
+      "size": 11704
     },
     {
       "name": "block/chiseled_bookshelf/pickup_enchanted3",
-      "hash": "7efcfedf902dfb5e85a4779899bed3e934fed432",
+      "hash": "e9a15247ba3a53a58e33c0d47dde7632626283bb",
       "volume": 0.8,
       "pitch": 1.1,
-      "size": 23020
+      "size": 11704
     }
   ]
 }

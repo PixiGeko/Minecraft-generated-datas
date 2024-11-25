@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "mob/panda/hurt1",
-      "hash": "8eb102616d69f9d63f3da3d20289ebd43a8b2055",
+      "hash": "c2d4b125bb2d0660017b0aade42af9805edc6586",
       "volume": 0.82,
-      "size": 16271
+      "size": 9960
     },
     {
       "name": "mob/panda/hurt2",
-      "hash": "d0cc73d334ca99fde998044c28b47ec7bd7aac2b",
+      "hash": "351eff6423f3cc85901e1dacc0d4b9c432f9eed1",
       "volume": 0.82,
-      "size": 16822
+      "size": 10165
     },
     {
       "name": "mob/panda/hurt3",
-      "hash": "1e969c6c8882f3aed0542785da2a0e824ca94fc2",
+      "hash": "7b974f1e23958cccb4ccde4a426bc0514cd5339f",
       "volume": 0.82,
-      "size": 15603
+      "size": 9528
     },
     {
       "name": "mob/panda/hurt4",
-      "hash": "7c25657256bceffc4832873cbbe75bf445331c72",
+      "hash": "e3b8b601d62bde1bd4eb404e3eb6fba4f728fe90",
       "volume": 0.82,
-      "size": 17937
+      "size": 10663
     },
     {
       "name": "mob/panda/hurt5",
-      "hash": "14a4ab81446a67f96cc5a9530e12bada9b98841a",
+      "hash": "e02d95dae5d8e6c81f3dc161721e0738df9f18a1",
       "volume": 0.82,
-      "size": 13972
+      "size": 8916
     },
     {
       "name": "mob/panda/hurt6",
-      "hash": "ab9b2f89ff9e86783fbd9824668f302282ce3ccf",
+      "hash": "906f3c7603388170df9be706d950cb9e79a7ce3d",
       "volume": 0.82,
-      "size": 15945
+      "size": 9498
     }
   ]
 }

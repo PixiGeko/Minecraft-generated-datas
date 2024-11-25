@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/illusion_illager/death1",
-      "hash": "5428d773dc84f7ffe1eecfd4882e6f7dc614fe91",
+      "hash": "69f85728e3bce4307774433a4da29400ec37a9f3",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12664,
+      "size": 12487,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/illusion_illager/death2",
-      "hash": "8a3385c74ecc365585696c41558a04e5ae3ad9fe",
+      "hash": "c18b4929798c97565c439081284992e7fe70a133",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 8140,
+      "size": 7805,
       "preload": false,
       "stream": false
     }

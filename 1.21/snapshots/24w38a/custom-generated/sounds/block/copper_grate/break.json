@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/copper_grate/break1",
-      "hash": "41a66147f1fa43c6662fa5d32421bc7c5df1351c",
+      "hash": "5ac7f5e586f1fdb4966cdb7e39c1b5989c52de9f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 19464,
+      "size": 8899,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/copper_grate/break2",
-      "hash": "4a17f13123024ae444e0d38cb414de1d32de674f",
+      "hash": "029a8c21302bfd3733de3b9ef02a0b08dbd8d75d",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 13782,
+      "size": 7575,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/copper_grate/break3",
-      "hash": "4035b48a2202e98cf546f6b4c6d3152416cc65b8",
+      "hash": "79e8a065c5ce2c593d45190b9ad8e5ec75f4edf0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 20065,
+      "size": 8922,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/copper_grate/break4",
-      "hash": "7ea9c737250ddc0ce2591dd772d0c163c867a83a",
+      "hash": "f1551be173bda7327006a3eb106bb8244fd74893",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 17300,
+      "size": 7917,
       "preload": false,
       "stream": false
     }

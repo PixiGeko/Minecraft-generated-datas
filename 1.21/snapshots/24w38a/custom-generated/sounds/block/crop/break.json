@@ -3,39 +3,39 @@
   "sounds": [
     {
       "name": "block/bamboo/sapling_place1",
-      "hash": "01c5ba2d1645698cc2f6e462982bd4513a3e0d93",
+      "hash": "6eece3d1e68f2cc5c44d1dd0271935a032ad18ed",
       "volume": 0.9,
-      "size": 13570
+      "size": 6905
     },
     {
       "name": "block/bamboo/sapling_place2",
-      "hash": "1d407e006a12bb9e2085bd131f5858faca224c04",
+      "hash": "2ee826b38dd00813f26692a7de90e352eb4c812e",
       "volume": 0.9,
-      "size": 13978
+      "size": 6918
     },
     {
       "name": "block/bamboo/sapling_place3",
-      "hash": "e307581ed3bf3a02b5cc4ce695d63cbdddc7d771",
+      "hash": "9d019d55711de8f310cfd167852a7298ca8a052e",
       "volume": 0.9,
-      "size": 13630
+      "size": 7532
     },
     {
       "name": "block/bamboo/sapling_place4",
-      "hash": "a2c9a38685d6935d092ed3e3a028c36f188a419f",
+      "hash": "ffb94b364eb694fec2cdc9ee412f52f7ada6070c",
       "volume": 0.9,
-      "size": 13307
+      "size": 6954
     },
     {
       "name": "block/bamboo/sapling_place5",
-      "hash": "711c7bffbff757323d96b35444b64e39706a66ed",
+      "hash": "d74905f08eb52b11055eb29dd159184dba5150a7",
       "volume": 0.9,
-      "size": 14242
+      "size": 7526
     },
     {
       "name": "block/bamboo/sapling_place6",
-      "hash": "7397aec16ab142151a3dc45f544907f2b1be4459",
+      "hash": "2f30dcc0a8d06de7737886fdd2ee7012a924eab7",
       "volume": 0.9,
-      "size": 13918
+      "size": 6903
     }
   ]
 }

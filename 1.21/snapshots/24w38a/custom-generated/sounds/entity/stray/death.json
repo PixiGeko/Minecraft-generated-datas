@@ -3,25 +3,25 @@
   "sounds": [
     {
       "name": "mob/stray/death1",
-      "hash": "db71dc06bdc5d40f20f3b896572b2b6ef7bccd7a",
+      "hash": "a016fd59de9ae9df7573041ac8460bffb543265f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18015,
+      "size": 17907,
       "preload": false,
       "stream": false
     },
     {
       "name": "mob/stray/death2",
-      "hash": "d48940aeab2d4068bd157e6810406c882503a813",
+      "hash": "a38b8c5721ba5b13547de6d8f8101a3e33846c0f",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 18817,
+      "size": 18702,
       "preload": false,
       "stream": false
     }

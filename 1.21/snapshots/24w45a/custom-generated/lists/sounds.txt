@@ -1106,13 +1106,12 @@ block/powder_snow/step8.ogg
 block/powder_snow/step9.ogg
 block/pumpkin/carve1.ogg
 block/pumpkin/carve2.ogg
-block/resin/resin_break.ogg
+block/resin/resin_break1.ogg
+block/resin/resin_break2.ogg
+block/resin/resin_break3.ogg
+block/resin/resin_break4.ogg
+block/resin/resin_break5.ogg
 block/resin/resin_fall.ogg
-block/resin/resin_hit1.ogg
-block/resin/resin_hit2.ogg
-block/resin/resin_hit3.ogg
-block/resin/resin_hit4.ogg
-block/resin/resin_hit5.ogg
 block/resin/resin_place1.ogg
 block/resin/resin_place2.ogg
 block/resin/resin_place3.ogg
@@ -2376,7 +2375,6 @@ mob/cow/step1.ogg
 mob/cow/step2.ogg
 mob/cow/step3.ogg
 mob/cow/step4.ogg
-mob/creaking/attack.ogg
 mob/creaking/creaking_activate.ogg
 mob/creaking/creaking_attack1.ogg
 mob/creaking/creaking_attack2.ogg
@@ -2400,7 +2398,6 @@ mob/creaking/creaking_step2.ogg
 mob/creaking/creaking_step3.ogg
 mob/creaking/creaking_step4.ogg
 mob/creaking/creaking_step5.ogg
-mob/creaking/creaking_sway.ogg
 mob/creaking/creaking_sway1.ogg
 mob/creaking/creaking_sway2.ogg
 mob/creaking/creaking_sway3.ogg

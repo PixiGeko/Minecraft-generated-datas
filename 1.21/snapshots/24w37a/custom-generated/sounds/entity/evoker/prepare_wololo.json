@@ -3,13 +3,13 @@
   "sounds": [
     {
       "name": "mob/evocation_illager/prepare_wololo",
-      "hash": "bad476e071c0e0d9cd6417bc636385e171578aae",
+      "hash": "c34e09b000a60a7250e483d9ccb55e4f084c9ba1",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 21496,
+      "size": 20372,
       "preload": false,
       "stream": false
     }

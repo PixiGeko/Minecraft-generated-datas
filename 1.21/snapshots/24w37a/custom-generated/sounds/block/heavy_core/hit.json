@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/heavy_core/step1",
-      "hash": "dc56f8df079d60537f0f80f5d3591978b57fc3e0",
+      "hash": "3558e4e13ba3829cc69f1268581e30b962416816",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 12771,
+      "size": 6406,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/heavy_core/step2",
-      "hash": "32fc1de73bff063b077720ab0c3065b9c03e8e83",
+      "hash": "c22a772466a47677068b27ce20486ce225944ae0",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10766,
+      "size": 5837,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/heavy_core/step3",
-      "hash": "e2205fc1d79fc56f27acbbea80bb9003179b4207",
+      "hash": "b2c137da3b3c4a462af349c2e12eaf54e2c6f86a",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 10897,
+      "size": 5767,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/heavy_core/step4",
-      "hash": "5803b4caae0b3e7895f6e7f7be0b2d0b4066a92f",
+      "hash": "01e0a7d49b42e9544735260401c6fc23247f72f7",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 11342,
+      "size": 6119,
       "preload": false,
       "stream": false
     }

@@ -3,49 +3,49 @@
   "sounds": [
     {
       "name": "block/amethyst/break1",
-      "hash": "d99ea9a1bcd14d24f9a83d09fb07be81fcf30570",
+      "hash": "97b47b7a62f22addf6ff1db0c57b2fce22504098",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 33986,
+      "size": 13328,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/amethyst/break2",
-      "hash": "bae694eddcf4766fa100552fddd5bc463a4edbff",
+      "hash": "fc857c1990d4bc7c157f4f8367ca4af0bd6168a2",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 32654,
+      "size": 13479,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/amethyst/break3",
-      "hash": "6ef376d7623fac03bc15caf95ffeae9d192d46f4",
+      "hash": "3df72a8b90820eb7edfdcc816bf0febf49d94b7c",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 30085,
+      "size": 13102,
       "preload": false,
       "stream": false
     },
     {
       "name": "block/amethyst/break4",
-      "hash": "5c39dec69b8093f9accf712fe21f9f8bae102991",
+      "hash": "02ab34275a8711ea0145682083c321516b1ce490",
       "weight": 1,
       "type": "sounds",
       "volume": 1,
       "pitch": 1,
       "attenuation_distance": 16,
-      "size": 32813,
+      "size": 13613,
       "preload": false,
       "stream": false
     }
