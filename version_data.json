@@ -185,5 +185,16 @@
     "stable": false,
     "use_editor": false,
     "world": 4188
+  },
+  "1.21.4": {
+    "data_pack": 61,
+    "java": 21,
+    "launcher": 21,
+    "protocol": 769,
+    "resource_pack": 46,
+    "series": "main",
+    "stable": true,
+    "use_editor": false,
+    "world": 4189
   }
 }
